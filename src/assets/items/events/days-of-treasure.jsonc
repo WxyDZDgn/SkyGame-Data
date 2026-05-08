@@ -94,31 +94,34 @@
   { 
     "id": 3095,
     "guid": "RIhIuaVYSL", 
-    "name": "treassure 2026 outfit", 
+    "name": "Adventurer's Garb", 
     "type": "Outfit", 
-    "icon": "", 
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/f/f0/Adventurer-Garb-Outfit-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/f/f7/Adventurer-Garb-Outfit-real.png", 
     "_wiki": {
-      "href": ""
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Treasure#Adventurer%E2%80%99s_Garb"
     }
   },
   { 
     "id": 3096,
     "guid": "iWBlE2ByGK", 
-    "name": "treassure 2026 hair", 
+    "name": "Treasure Seeker's Bandana", 
     "type": "Hair", 
-    "icon": "", 
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/0b/Treasure-Seeker-Bandana-Hair-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/5f/Treasure-Seeker-Bandana-Hair-real.png", 
     "_wiki": {
-      "href": ""
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Treasure#Treasure_Seeker%E2%80%99s_Bandana"
     } 
   },
   { 
     "id": 3097,
     "guid": "Vo5Sew0Ql4", 
-    "name": "treassure flag",
+    "name": "Treasure Seeker's Banner",
     "type": "prop", 
-    "icon": "", 
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/2f/X-mark-icon.png", 
+    "previewUrl": "", 
     "_wiki": {
-      "href": ""
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Treasure#Treasure_Seeker%E2%80%99s_Banner"
     } 
   },
   { 
@@ -126,9 +129,10 @@
     "guid": "yv8WuDrV-e", 
     "name": "Treassure Mate Companion", 
     "type": "Necklace", 
-    "icon": "", 
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/7d/Treasure-Mate-Companion-Necklace-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/c2/Treasure-Mate-Companion-Necklace-real.png", 
     "_wiki": {
-      "href": ""
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Treasure/2026#Treasure_Mate_Companion"
     } 
   },
   { 
@@ -136,9 +140,10 @@
     "guid": "1YM9K1fWqF", 
     "name": "Treassure Seeker's Hat", 
     "type": "HeadAccessory", 
-    "icon": "", 
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/bc/Treasure-Seeker-Hair-Accessory-icon.png", 
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/6b/Treasure-Seeker-Hair-Accessory-real.png", 
     "_wiki": {
-      "href": ""
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Treasure/2026#Treasure_Seeker%E2%80%99s_Hat"
     } 
   },
   { 
@@ -146,19 +151,21 @@
     "guid": "aGS2A9wzQ8", 
     "name": "Treassure Coin Cape", 
     "type": "Cape", 
-    "icon": "", 
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/e5/Treasure-Coin-Cape-icon.png", 
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/4b/Treasure-Coin-Cape-real.png", 
     "_wiki": {
-      "href": ""
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Treasure/2026#Treasure_Coin_Cape"
     } 
   },
   { 
     "id": 3101,
     "guid": "wNcWl08Omp", 
-    "name": "Treassure Boat Bed", 
+    "name": "Naptime Galley", 
     "type": "Prop", 
-    "icon": "", 
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/cd/Naptime-Galley-Prop-icon.png", 
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/a6/Naptime-Galley-Prop-real.png", 
     "_wiki": {
-      "href": ""
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Treasure/2026#Naptime_Galley"
     } 
   }
 ]
