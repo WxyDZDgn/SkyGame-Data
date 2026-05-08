@@ -24,7 +24,7 @@
   {
     "guid": "o_88WLUYKp",
     "date": "2026-05-08",
-    "endDate": "2026-05-22",
+    "endDate": "2026-05-21",
     "spirits": ["yx8mYgSGVV"],
     "shops": ["8AyoiJzXnM", "kqGGrYGgZk"],
     "calculatorData": {
@@ -33,7 +33,7 @@
         {
           "guid": "gPsIDhZyIJ",
           "date": "2026-05-08",
-          "endDate": "2026-05-22",
+          "endDate": "2026-05-21",
           "amount": 15,
           "description": "Coins around Treasure Reef"
         }
