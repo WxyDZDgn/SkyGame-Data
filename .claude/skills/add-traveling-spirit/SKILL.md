@@ -74,5 +74,3 @@ Before finishing, verify:
 2. Tree references node guids present in the target season nodes file.
 3. Node `item` guids exist in the target season items file when applicable.
 4. JSONC formatting, commas, and comments are valid and consistent with neighboring entries.
-
-
