@@ -10,14 +10,7 @@
     "type": "Spirit",
     "spirit": "ExkE9a7QJ0",
     "permanent": "office",
-    "iaps": ["afs8y8FfTS", "37HKvA4bBc", "3uTp2mfgQj"]
-  },
-  {
-    "guid": "asYb2Serjg",
-    "type": "Object",
-    "name": "Aviary Event Store",
-    "permanent": "event",
-    "iaps": ["c4cZcnuZPk", "5IuZMyMZnO"]
+    "iaps": ["G6SF2VMPE3", "5IuZMyMZnO", "c4cZcnuZPk", "afs8y8FfTS", "37HKvA4bBc", "3uTp2mfgQj"]
   },
   {
     "guid": "QtpcAqvc4g",
@@ -87,12 +80,6 @@
     "name": "Mannequin at Cafe",
     "permanent": "wonderland",
     "itemList": "Lu78MMHJp7"
-  },
-  {
-    "guid": "XmHsnm-o7t",
-    "type": "Store",
-    "permanent": true,
-    "iaps": ["G6SF2VMPE3"]
   },
   {
     "guid": "joQYfxi-yB",
