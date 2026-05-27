@@ -2,7 +2,8 @@
     {
       "guid": "gy_EzmMKxF",
       "type": "Guide",
-      "name": "Vault Elder's Lantern",
+      "name": "禁阁长老的灯笼",
+      "_name": "Vault Elder's Lantern",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/df/Vault-Elder-Lantern-Ultimate-Guide-cutout.png",
       "tree": "lHlnmVDICn",
       "treeRevisions": [ "GpcMalckm5" ],
@@ -13,7 +14,8 @@
     {
       "guid": "aO0n7dAWvc",
       "type": "Season",
-      "name": "Tender Toymaker",
+      "name": "温柔的玩具匠",
+      "_name": "Tender Toymaker",
       "tree": "SI9Q8J2Fm-",
       "_wiki": {
         "href": "https://sky-children-of-the-light.fandom.com/wiki/Tender_Toymaker"
@@ -22,7 +24,8 @@
     {
       "guid": "2FQrdh4aCQ",
       "type": "Season",
-      "name": "Stern Shepherd",
+      "name": "严厉的牧牛人",
+      "_name": "Stern Shepherd",
       "tree": "RDergQu3Vd",
       "_wiki": {
         "href": "https://sky-children-of-the-light.fandom.com/wiki/Stern_Shepherd"
@@ -31,7 +34,8 @@
     {
       "guid": "Jq1bIftHV5",
       "type": "Season",
-      "name": "Resourceful Recluse",
+      "name": "巧手隐士",
+      "_name": "Resourceful Recluse",
       "tree": "fdQpzNAjCw",
       "_wiki": {
         "href": "https://sky-children-of-the-light.fandom.com/wiki/Resourceful_Recluse"
@@ -40,7 +44,8 @@
     {
       "guid": "zdstJkDMg5",
       "type": "Season",
-      "name": "Scarred Sentry",
+      "name": "刀疤士兵",
+      "_name": "Scarred Sentry",
       "tree": "r-emIwzMih",
       "_wiki": {
         "href": "https://sky-children-of-the-light.fandom.com/wiki/Scarred_Sentry"
@@ -49,7 +54,8 @@
     {
       "guid": "TDQC4wg3G9",
       "type": "Season",
-      "name": "Caring Companion",
+      "name": "海牛伙伴",
+      "_name": "Caring Companion",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/86/Caring-Companion-cutout.png",
       "tree": "PzoY-Wkk8O",
       "_wiki": {

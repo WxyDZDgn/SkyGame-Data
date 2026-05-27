@@ -2,7 +2,8 @@
     {
       "guid": "OaAUJHNIjE",
       "type": "Guide",
-      "name": "AURORA Guide",
+      "name": "欧若拉季向导",
+      "_name": "AURORA Guide",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/62/SoAurora-Seasonal-guide.png",
       "tree": "P1nzgnNVFT",
       "treeRevisions": ["gu5doPh4OB", "Nx8MFZDTe-", "v2HU8RJ0L5"],
@@ -13,7 +14,8 @@
     {
       "guid": "20Xw7fuZWr",
       "type": "Season",
-      "name": "Running Wayfarer",
+      "name": "奔离旅行者",
+      "_name": "Running Wayfarer",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/65/Aurora-Spirit-Running-Wayfairer.png",
       "tree": "U8EBIguISN",
       "_wiki": {
@@ -23,7 +25,8 @@
     {
       "guid": "g_lZ76kjbS",
       "type": "Season",
-      "name": "Mindful Miner",
+      "name": "细心矿工",
+      "_name": "Mindful Miner",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/ab/Aurora-Spirit-Mindful-Miner.png",
       "tree": "bMfsxhWfRe",
       "_wiki": {
@@ -33,7 +36,8 @@
     {
       "guid": "XvcpNrqatq",
       "type": "Season",
-      "name": "Warrior of Love",
+      "name": "爱之战士",
+      "_name": "Warrior of Love",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/a3/Aurora-Spirit-Warrior-of-Love.png",
       "tree": "mfj2dmg6Dd",
       "_wiki": {
@@ -43,7 +47,8 @@
     {
       "guid": "95RfXrjMx1",
       "type": "Season",
-      "name": "Seed of Hope",
+      "name": "希望之种",
+      "_name": "Seed of Hope",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/c4/Aurora-Spirit-Seed-of-Hope.png",
       "tree": "W7fm2UpXGb",
       "_wiki": {

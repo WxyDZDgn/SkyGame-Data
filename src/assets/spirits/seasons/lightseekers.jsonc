@@ -2,7 +2,8 @@
     {
       "guid": "UNKzFTE5mB",
       "type": "Guide",
-      "name": "Lightseekers Guide",
+      "name": "追光季向导",
+      "_name": "Lightseekers Guide",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/d8/Lightseekers-Guide-Spirit.png",
       "tree": "RDhnSDRp_-",
       "_wiki": {
@@ -12,7 +13,8 @@
     {
       "guid": "U9RJMJseUK",
       "type": "Season",
-      "name": "Piggyback Lightseeker",
+      "name": "肩背追光",
+      "_name": "Piggyback Lightseeker",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/a7/Lightseeker-Spirit-Piggyback-Lightseeker.png",
       "tree": "tKkz-7Fmh_",
       "_wiki": {
@@ -22,7 +24,8 @@
     {
       "guid": "jncJKA4IaM",
       "type": "Season",
-      "name": "Doublefive Light Catcher",
+      "name": "击掌光农",
+      "_name": "Doublefive Light Catcher",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/97/Lightseekers-Spirit-Doublefive-Light-Catcher.png",
       "tree": "DCA--qiCxD",
       "_wiki": {
@@ -32,7 +35,8 @@
     {
       "guid": "8OYabqG_jZ",
       "type": "Season",
-      "name": "Laidback Pioneer",
+      "name": "随性拓荒者",
+      "_name": "Laidback Pioneer",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/a6/Lightseekers-Spirit-Laidback-Pioneer.png",
       "tree": "ry-1r9mcwO",
       "_wiki": {
@@ -42,7 +46,8 @@
     {
       "guid": "bHCSyFQ4u-",
       "type": "Season",
-      "name": "Twirling Champion",
+      "name": "螺旋武冠",
+      "_name": "Twirling Champion",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/de/Lightseekers-Spirit-Twirling-Champion.png",
       "tree": "9lQ4T3H65f",
       "_wiki": {
@@ -52,7 +57,8 @@
     {
       "guid": "tZG5hNcINX",
       "type": "Season",
-      "name": "Crab Whisperer",
+      "name": "蟹语者",
+      "_name": "Crab Whisperer",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/10/Lightseekers-Spirit-Crab-Whisperer.png",
       "tree": "cSFOWVeiTO",
       "_wiki": {
@@ -62,7 +68,8 @@
     {
       "guid": "mZZ-MkZJ1x",
       "type": "Season",
-      "name": "Shushing Light Scholar",
+      "name": "静光学者",
+      "_name": "Shushing Light Scholar",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/a0/Lightseekers-Spirit-Shushing-Light-Scholar.png",
       "tree": "hHNCjL8SHU",
       "_wiki": {

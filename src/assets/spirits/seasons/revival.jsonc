@@ -2,7 +2,8 @@
     {
       "guid": "0Ab0zVwBa0",
       "type": "Guide",
-      "name": "Hopeful Steward",
+      "name": "耐心助手",
+      "_name": "Hopeful Steward",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/c1/Hopeful-Steward-Revival-Guide.png",
       "tree": "tzCvlmC_Oc",
       "treeRevisions": ["NPq3lMzoTy", "DxTCih7Txv"],
@@ -13,7 +14,8 @@
     {
       "guid": "53sRWu-bTI",
       "type": "Season",
-      "name": "Vestige of a Deserted Oasis",
+      "name": "沙漠绿洲的余痕",
+      "_name": "Vestige of a Deserted Oasis",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/1c/Vestige-of-a-Deserted-Oasis-Shop.png",
       "tree": "lz9mQjejU-",
       "_wiki": {
@@ -23,7 +25,8 @@
     {
       "guid": "yRKMk_Xw4G",
       "type": "Season",
-      "name": "Memory of a Lost Village",
+      "name": "失落小镇的记忆",
+      "_name": "Memory of a Lost Village",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/2f/Memory-of-a-Lost-Village-Shop.png",
       "tree": "nzvmNK6cj5",
       "_wiki": {
@@ -33,7 +36,8 @@
     {
       "guid": "118ghc8_me",
       "type": "Season",
-      "name": "Echo of an Abandoned Refuge",
+      "name": "被遗弃之处的回响",
+      "_name": "Echo of an Abandoned Refuge",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/c0/Echo-of-an-Abandoned-Refuge-Shop.png",
       "tree": "I9msLLh3Lq",
       "_wiki": {
@@ -43,7 +47,8 @@
     {
       "guid": "iz40tYocEn",
       "type": "Season",
-      "name": "Remnant of a Forgotten Haven",
+      "name": "被遗忘的天堂一隅",
+      "_name": "Remnant of a Forgotten Haven",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/86/Remnant-of-a-Forgotten-Haven-Shop.png",
       "tree": "NUWzW2Qua2",
       "_wiki": {

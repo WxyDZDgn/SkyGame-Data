@@ -2,7 +2,8 @@
     {
       "guid": "cpwvdVEzKN",
       "type": "Guide",
-      "name": "Assembly Guide",
+      "name": "集结季向导",
+      "_name": "Assembly Guide",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/63/Assembly-Guide-Spirit.png",
       "tree": "FvRPGlaPpW",
       "treeRevisions": ["WKeFg1cVbG"],
@@ -13,7 +14,8 @@
     {
       "guid": "94UEgV7ic1",
       "type": "Season",
-      "name": "Baffled Botanist",
+      "name": "茫然植物学家",
+      "_name": "Baffled Botanist",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/81/Assembly-Spirit-Baffled-Botanist.png",
       "tree": "u-NLeQNopc",
       "_wiki": {
@@ -23,7 +25,8 @@
     {
       "guid": "RG-Z1xwway",
       "type": "Season",
-      "name": "Scolding Student",
+      "name": "管事小队长",
+      "_name": "Scolding Student",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/10/Assembly-Spirit-Scolding-Student.png",
       "tree": "tJ92dz1ans",
       "_wiki": {
@@ -33,7 +36,8 @@
     {
       "guid": "lE8DJQLcg5",
       "type": "Season",
-      "name": "Scaredy Cadet",
+      "name": "胆小鬼学员",
+      "_name": "Scaredy Cadet",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/0c/Assembly-Spirit-Scaredy-Cadet.png",
       "tree": "BTXu36Anhy",
       "_wiki": {
@@ -43,7 +47,8 @@
     {
       "guid": "H30afxXKT1",
       "type": "Season",
-      "name": "Marching Adventurer",
+      "name": "正步冒险家",
+      "_name": "Marching Adventurer",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/dd/Assembly-Spirit-Marching-Adventurer.png",
       "tree": "MaqbAvyQQ8",
       "_wiki": {
@@ -53,7 +58,8 @@
     {
       "guid": "NGSlfCM_wu",
       "type": "Season",
-      "name": "Chuckling Scout",
+      "name": "傻笑童子军",
+      "_name": "Chuckling Scout",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/b8/Assembly-Spirit-Chuckling-Scout.png",
       "tree": "n43yrGprN_",
       "_wiki": {
@@ -63,7 +69,8 @@
     {
       "guid": "MZZ5RA0AMG",
       "type": "Season",
-      "name": "Daydream Forester",
+      "name": "白日梦森林人",
+      "_name": "Daydream Forester",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/dc/Assembly-Spirit-Daydream-Forester.png",
       "tree": "oeVXh5azl3",
       "_wiki": {

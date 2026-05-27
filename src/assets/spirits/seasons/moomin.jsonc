@@ -2,7 +2,8 @@
     {
       "guid": "vW9xp55w6t",
       "type": "Guide",
-      "name": "The Moomin Storybook",
+      "name": "姆明故事书",
+      "_name": "The Moomin Storybook",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/c9/Moomin-Ultimate-guide.png",
       "tree": "WGIrheVuUd",
       "treeRevisions": [ "bFOp9D6fxP" ],
@@ -13,7 +14,8 @@
     {
       "guid": "9RTxyGCw9v",
       "type": "Season",
-      "name": "Comfort of Kindness",
+      "name": "善意的安慰",
+      "_name": "Comfort of Kindness",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/18/Comfort-of-Kindness-Shop.png",
       "tree": "nghAfQdwc3",
       "_wiki": {
@@ -23,7 +25,8 @@
     {
       "guid": "jt2df_0kso",
       "type": "Season",
-      "name": "Sense of Self",
+      "name": "自我认知",
+      "_name": "Sense of Self",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/92/Sense-of-Self-Shop.png",
       "tree": "FL8BDldZDZ",
       "_wiki": {
@@ -33,7 +36,8 @@
     {
       "guid": "_ps0VJ53As",
       "type": "Season",
-      "name": "Spirit of Adventure",
+      "name": "冒险精神",
+      "_name": "Spirit of Adventure",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/c6/Spirit-of-Adventure-Shop.png",
       "tree": "Q5VCf6ubac",
       "_wiki": {
@@ -43,7 +47,8 @@
     {
       "guid": "RRsQtrxvRq",
       "type": "Season",
-      "name": "Inspiration of Inclusion",
+      "name": "包容的启示",
+      "_name": "Inspiration of Inclusion",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/77/Inspiration-of-Inclusion-Shop.png",
       "tree": "zxKUgzoAnE",
       "_wiki": {

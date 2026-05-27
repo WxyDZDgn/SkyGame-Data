@@ -2,7 +2,8 @@
   {
     "guid": "JGWXCmBmxi",
     "type": "Guide",
-    "name": "Carnival Guide",
+    "name": "狂欢季向导",
+    "_name": "Carnival Guide",
     "imageUrl": "",
     "tree": "vBTjT3BmeP",
     "_wiki": {
@@ -12,7 +13,8 @@
   {
     "guid": "-tFOmsGdoa",
     "type": "Season",
-    "name": "Carnival Juggler",
+    "name": "狂欢杂耍演员",
+    "_name": "Carnival Juggler",
     "imageUrl": "",
     "tree": "7PdRlqapa0",
     "_wiki": {
@@ -22,7 +24,8 @@
   {
     "guid": "PHK8kWbPjy",
     "type": "Season",
-    "name": "Carnival Athletic Dancer",
+    "name": "狂欢活力舞者",
+    "_name": "Carnival Athletic Dancer",
     "imageUrl": "",
     "tree": "MJ_0dbbk3P",
     "_wiki": {
@@ -32,7 +35,8 @@
   {
     "guid": "Ygn2Cf0DJL",
     "type": "Season",
-    "name": "Carnival Puzzle Director",
+    "name": "狂欢巧思编导",
+    "_name": "Carnival Puzzle Director",
     "imageUrl": "",
     "tree": "pdkcSLvzdU",
     "_wiki": {
@@ -42,7 +46,8 @@
   {
     "guid": "BuejYIbW1r",
     "type": "Season",
-    "name": "Carnival Stunt Actor",
+    "name": "狂欢特技演员",
+    "_name": "Carnival Stunt Actor",
     "imageUrl": "",
     "tree": "X9HCSZXJOs",
     "_wiki": {

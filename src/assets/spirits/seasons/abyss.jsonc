@@ -2,7 +2,8 @@
     {
       "guid": "WFqMqmjVv9",
       "type": "Guide",
-      "name": "Abyss Guide",
+      "name": "潜海集向导",
+      "_name": "Abyss Guide",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/e0/SOAbyss-Abyss-Guide.png",
       "tree": "xz8rpLZQmm",
       "treeRevisions": ["n1SlO_-I1Z"],
@@ -13,7 +14,8 @@
     {
       "guid": "4gwH1Tn9he",
       "type": "Season",
-      "name": "Anxious Angler",
+      "name": "焦虑渔夫",
+      "_name": "Anxious Angler",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/5f/Abyss-Spirit-Anxious-Angler.png",
       "tree": "M-25cEcvw-",
       "_wiki": {
@@ -23,7 +25,8 @@
     {
       "guid": "aVOtIknTMO",
       "type": "Season",
-      "name": "Ceasing Commodore",
+      "name": "威严舰长",
+      "_name": "Ceasing Commodore",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/99/Abyss-Spirit-Ceasing-Commodore.png",
       "tree": "1c2RnFkkmb",
       "_wiki": {
@@ -33,7 +36,8 @@
     {
       "guid": "zVs_gAo_wy",
       "type": "Season",
-      "name": "Bumbling Boatswain",
+      "name": "笨拙水手",
+      "_name": "Bumbling Boatswain",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/0c/Abyss-Spirit-Bumbling-Boatswain.png",
       "tree": "oNXi897gvR",
       "_wiki": {
@@ -43,7 +47,8 @@
     {
       "guid": "gTIay-wjmN",
       "type": "Season",
-      "name": "Cackling Cannoneer",
+      "name": "嬉笑炮手",
+      "_name": "Cackling Cannoneer",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/48/Abyss-Spirit-Cackling-Cannoneer.png",
       "tree": "ag2kvsRKRN",
       "_wiki": {

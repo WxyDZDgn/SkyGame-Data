@@ -2,7 +2,8 @@
     {
       "guid": "sj6YhQZQvM",
       "type": "Guide",
-      "name": "Dreams Guide",
+      "name": "梦想季向导",
+      "_name": "Dreams Guide",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/9b/Dreams-Guide-Spirit.png",
       "tree": "f74U1Fp5Nk",
       "treeRevisions": ["ixRjlBpKXC"],
@@ -13,7 +14,8 @@
     {
       "guid": "KhFZE8z0-I",
       "type": "Season",
-      "name": "Bearhug Hermit",
+      "name": "熊抱雪人",
+      "_name": "Bearhug Hermit",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/31/Dreams-Spirit-Bearhug-Hermit.png",
       "tree": "Dz7xSJMui2",
       "_wiki": {
@@ -23,7 +25,8 @@
     {
       "guid": "7tMB-HjDin",
       "type": "Season",
-      "name": "Dancing Performer",
+      "name": "跳舞艺人",
+      "_name": "Dancing Performer",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/9a/Dreams-Spirit-Dancing-Performer.png",
       "tree": "zUy1Dlkzbl",
       "_wiki": {
@@ -33,7 +36,8 @@
     {
       "guid": "Jd8rEzWHVg",
       "type": "Season",
-      "name": "Peeking Postman",
+      "name": "偷窥邮差",
+      "_name": "Peeking Postman",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8a/Dreams-Spirit-Peeking-Postman.png",
       "tree": "sxbsSa-E47",
       "_wiki": {
@@ -43,7 +47,8 @@
     {
       "guid": "Ej3SZgZ2WL",
       "type": "Season",
-      "name": "Spinning Mentor",
+      "name": "回旋大师",
+      "_name": "Spinning Mentor",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/2b/Dreams-Spirit-Spinning-Mentor.png",
       "tree": "duRfvp3IvK",
       "_wiki": {

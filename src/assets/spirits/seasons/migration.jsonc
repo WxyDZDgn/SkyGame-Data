@@ -2,7 +2,8 @@
     {
       "guid": "rpBWF2PFJc",
       "type": "Guide",
-      "name": "Migration Guide",
+      "name": "迁徙季向导",
+      "_name": "Migration Guide",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/91/Migration-Ultimate-Guide.png",
       "tree": "IVb8WCKt8D",
       "treeRevisions": [ "xBmtGsKU2a" ],
@@ -13,7 +14,8 @@
     {
       "guid": "1mYa5Pnpdy",
       "type": "Season",
-      "name": "Migrating Jelly Whisperer",
+      "name": "迁徙水母语者",
+      "_name": "Migrating Jelly Whisperer",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/a1/Migrating-Jelly-Whisperer-Spirit-cutout.png",
       "tree": "zK7AFf0rvZ",
       "_wiki": {
@@ -23,7 +25,8 @@
     {
       "guid": "Mxs_zZGt7y",
       "type": "Season",
-      "name": "Migrating Butterfly Charmer",
+      "name": "迁徙引蝶人",
+      "_name": "Migrating Butterfly Charmer",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/29/Migrating-Butterfly-Charmer-cutout.png",
       "tree": "nCGzsegB0l",
       "_wiki": {
@@ -33,7 +36,8 @@
     {
       "guid": "k9ZI3GoyPE",
       "type": "Season",
-      "name": "Migrating Manta Whisperer",
+      "name": "迁徙鲲语者",
+      "_name": "Migrating Manta Whisperer",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/55/Migrating-Manta-Whisperer-Spirit-cutout.png",
       "tree": "iFANrbgSY4",
       "_wiki": {
@@ -43,7 +47,8 @@
     {
       "guid": "yfmzfJGyRp",
       "type": "Season",
-      "name": "Migrating Bird Whisperer",
+      "name": "迁徙鸟语者",
+      "_name": "Migrating Bird Whisperer",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8b/Migrating-Bird-Whisperer-cutout.png",
       "tree": "nrvSEyff0h",
       "_wiki": {
@@ -53,7 +58,8 @@
     {
       "guid": "gHhy04B7r9",
       "type": "Season",
-      "name": "Migrating Bellmaker",
+      "name": "迁徙钟匠",
+      "_name": "Migrating Bellmaker",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/cf/Migrating-Bellmaker-cutout.png",
       "tree": "ko9lr8M4J5",
       "_wiki": {

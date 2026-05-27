@@ -2,7 +2,8 @@
     {
       "guid": "5rr1zr2_j5",
       "type": "Guide",
-      "name": "Belonging Guide",
+      "name": "归属季向导",
+      "_name": "Belonging Guide",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/68/Belonging-Guide-Spirit.png",
       "tree": "KEuVAhun2o",
       "_wiki": {
@@ -12,7 +13,8 @@
     {
       "guid": "5u3TXZON81",
       "type": "Season",
-      "name": "Confetti Cousin",
+      "name": "彩纸表亲",
+      "_name": "Confetti Cousin",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/06/Belonging-Spirit-Confetti-Cousin.png",
       "tree": "Fqwmr7P65R",
       "_wiki": {
@@ -22,7 +24,8 @@
     {
       "guid": "f3AD39Q2Il",
       "type": "Season",
-      "name": "Boogie Kid",
+      "name": "踏舞孩童",
+      "_name": "Boogie Kid",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/3c/Belonging-Spirit-Boogie-Kid.png",
       "tree": "IeFmlorSVS",
       "_wiki": {
@@ -32,7 +35,8 @@
     {
       "guid": "CcOE42N9Mc",
       "type": "Season",
-      "name": "Sparkler Parent",
+      "name": "火花家长",
+      "_name": "Sparkler Parent",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/f/f6/Belonging-Spirit-Sparkler-Parent.png",
       "tree": "sM-gGfmBb9",
       "_wiki": {
@@ -42,7 +46,8 @@
     {
       "guid": "7EzWoLR1w4",
       "type": "Season",
-      "name": "Wise Grandparent",
+      "name": "智慧长者",
+      "_name": "Wise Grandparent",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/2e/Belonging-Spirit-Wise-Grandpa.png",
       "tree": "zNWw5D3we3",
       "_wiki": {
@@ -52,7 +57,8 @@
     {
       "guid": "LO75aDy9Zc",
       "type": "Season",
-      "name": "Pleaful Parent",
+      "name": "不舍家长",
+      "_name": "Pleaful Parent",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/6c/Belonging-Spirit-Pleaful-Parent.png",
       "tree": "wDOnrwqC2i",
       "_wiki": {
@@ -62,7 +68,8 @@
     {
       "guid": "gcEV41jg3U",
       "type": "Season",
-      "name": "Hairtousle Teen",
+      "name": "蓬头青年",
+      "_name": "Hairtousle Teen",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/9f/Belonging-Spirit-Hairtousle-Teen.png",
       "tree": "pDzxAL2j5O",
       "_wiki": {

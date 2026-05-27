@@ -2,7 +2,8 @@
     {
       "guid": "_ZYvHXY8HB",
       "type": "Guide",
-      "name": "Passage Guide",
+      "name": "夜行季向导",
+      "_name": "Passage Guide",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/04/Passage-Ultimate-guide.png",
       "tree": "LrH-L-oKn1",
       "treeRevisions": ["4jNOVPFy1Q"],
@@ -13,7 +14,8 @@
     {
       "guid": "udBbDIhZtD",
       "type": "Season",
-      "name": "Oddball Outcast",
+      "name": "古怪边缘人",
+      "_name": "Oddball Outcast",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/11/Passage-Oddball-Outcast-Cutout.png",
       "tree": "77QNb1vN1h",
       "_wiki": {
@@ -23,7 +25,8 @@
     {
       "guid": "noQs_dBSQu",
       "type": "Season",
-      "name": "Tumbling Troublemaker",
+      "name": "翻滚捣蛋鬼",
+      "_name": "Tumbling Troublemaker",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/ee/Passage-Tumbling-Troublemaker-Cutout.png",
       "tree": "6QPtn4qXTG",
       "_wiki": {
@@ -33,7 +36,8 @@
     {
       "guid": "-BIU0YAs1Q",
       "type": "Season",
-      "name": "Melancholy Mope",
+      "name": "忧郁自艾者",
+      "_name": "Melancholy Mope",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/7a/Passage-Melancholy-Mope-Cutout.png",
       "tree": "bZU_1hDxB9",
       "_wiki": {
@@ -43,7 +47,8 @@
     {
       "guid": "IKkPcAF07c",
       "type": "Season",
-      "name": "Overactive Overachiever",
+      "name": "活跃优等生",
+      "_name": "Overactive Overachiever",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/a5/Passage-Overactive-Overachiever-Cutout.png",
       "tree": "qdWXiEhm46",
       "_wiki": {

@@ -2,7 +2,8 @@
     {
       "guid": "zldsm5S962",
       "type": "Guide",
-      "name": "Rhythm Guide",
+      "name": "音律季向导",
+      "_name": "Rhythm Guide",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/68/Rhythm-Guide-Spirit.png",
       "tree": "Qg7qDyBGmz",
       "_wiki": {
@@ -12,7 +13,8 @@
     {
       "guid": "Q5pn7wxwUD",
       "type": "Season",
-      "name": "Troupe Greeter",
+      "name": "迎宾侍者",
+      "_name": "Troupe Greeter",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/56/Rhythm-Spirit-Troupe-Greeter.png",
       "tree": "TaMnSq1POX",
       "_wiki": {
@@ -22,7 +24,8 @@
     {
       "guid": "PYsLThJYPx",
       "type": "Season",
-      "name": "Festival Spin Dancer",
+      "name": "旋转舞者",
+      "_name": "Festival Spin Dancer",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/35/Rhythm-Spirit-Festival-Spin-Dancer.png",
       "tree": "61W5eVdFni",
       "_wiki": {
@@ -32,7 +35,8 @@
     {
       "guid": "RUGuLBBPcg",
       "type": "Season",
-      "name": "Admiring Actor",
+      "name": "献情演员",
+      "_name": "Admiring Actor",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/2f/Rhythm-Spirit-Admiring-Actor.png",
       "tree": "4biI_rOvS2",
       "_wiki": {
@@ -42,7 +46,8 @@
     {
       "guid": "9y_5scrYa9",
       "type": "Season",
-      "name": "Troupe Juggler",
+      "name": "抛球杂耍",
+      "_name": "Troupe Juggler",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/56/Rhythm-Spirit-Troupe-Juggler.png",
       "tree": "XBUCLd5Dbw",
       "_wiki": {
@@ -52,7 +57,8 @@
     {
       "guid": "OJECJaFI5p",
       "type": "Season",
-      "name": "Respectful Pianist",
+      "name": "致敬钢琴家",
+      "_name": "Respectful Pianist",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8a/Rhythm-Spirit-Respectful-Pianist.png",
       "tree": "434ok25Yjz",
       "_wiki": {
@@ -62,7 +68,8 @@
     {
       "guid": "CH6e-TQz6n",
       "type": "Season",
-      "name": "Thoughtful Director",
+      "name": "沉思编导",
+      "_name": "Thoughtful Director",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/27/Rhythm-Spirit-Thoughtful-Director.png",
       "tree": "mvyFMGjUT4",
       "_wiki": {

@@ -2,7 +2,8 @@
     {
       "guid": "iCVOo-FNbd",
       "type": "Guide",
-      "name": "Duets Guide",
+      "name": "二重奏季向导",
+      "_name": "Duets Guide",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/eb/Duets-Ultimate-Guide.png",
       "tree": "voApj8nmhQ",
       "treeRevisions": ["RSUBTRhzHf"],
@@ -13,7 +14,8 @@
     {
       "guid": "o4ZuAa_Q8u",
       "type": "Season",
-      "name": "The Cellist's Beginnings",
+      "name": "大提琴手的开始",
+      "_name": "The Cellist's Beginnings",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/b7/The-Cellists-Beginnings-Shop.png",
       "tree": "UUTbaINneC",
       "_wiki": {
@@ -23,7 +25,8 @@
     {
       "guid": "Jt8plqOdgg",
       "type": "Season",
-      "name": "The Pianist's Beginnings",
+      "name": "钢琴家的开始",
+      "_name": "The Pianist's Beginnings",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/3a/The-Pianists-Beginnings-Shop.png",
       "tree": "FKLImPk5vB",
       "_wiki": {
@@ -33,7 +36,8 @@
     {
       "guid": "6Vsnbtp_Y3",
       "type": "Season",
-      "name": "The Musician's Legacy",
+      "name": "音乐家的传承",
+      "_name": "The Musician's Legacy",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/ed/The-Musicians-Legacy-Shop.png",
       "tree": "1ZlSRiEeW5",
       "_wiki": {
@@ -43,7 +47,8 @@
     {
       "guid": "md2oP_oAWb",
       "type": "Season",
-      "name": "The Cellist's Flourishing",
+      "name": "大提琴手的辉煌",
+      "_name": "The Cellist's Flourishing",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/ea/The-Cellists-Flourishing-Shop.png",
       "tree": "ntlyxbsjrU",
       "_wiki": {
@@ -53,7 +58,8 @@
     {
       "guid": "xINN19ZdXU",
       "type": "Season",
-      "name": "The Pianist's Flourishing",
+      "name": "钢琴家的辉煌",
+      "_name": "The Pianist's Flourishing",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/9b/The-Pianists-Flourishing-Shop.png",
       "tree": "vMFAj297uU",
       "_wiki": {
@@ -63,7 +69,8 @@
     {
       "guid": "kavln3oyNl",
       "type": "Special",
-      "name": "Compassionate Cellist",
+      "name": "富有同情心的大提琴手",
+      "_name": "Compassionate Cellist",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/a7/Duets-Spirit-Compassionate-Cellist.png",
       "tree": "4uhy67a14a",
       "treeRevisions": ["g3xQG0GfCH"],

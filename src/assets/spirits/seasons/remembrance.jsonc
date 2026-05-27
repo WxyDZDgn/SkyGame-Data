@@ -2,7 +2,8 @@
     {
       "guid": "ZGSnOxK9gb",
       "type": "Guide",
-      "name": "Remembrance Guide",
+      "name": "追忆季向导",
+      "_name": "Remembrance Guide",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/f/f5/SoRemembrance-Ultimate-guide.png",
       "tree": "fchA5IwiRm",
       "treeRevisions": ["mUeWL1WW-T", "ljR5JtCBeX"],
@@ -13,7 +14,8 @@
     {
       "guid": "O1olUBrkJ5",
       "type": "Season",
-      "name": "Bereft Veteran",
+      "name": "丧子老兵",
+      "_name": "Bereft Veteran",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/86/Remembrance-Spirit-Bereft-Veteran.png",
       "tree": "zWD_AxgIGC",
       "_wiki": {
@@ -23,7 +25,8 @@
     {
       "guid": "V43JRVL_QD",
       "type": "Season",
-      "name": "Pleading Child",
+      "name": "乞求孩童",
+      "_name": "Pleading Child",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/3c/Remembrance-Spirit-Pleading-Child.png",
       "tree": "wU4H1ZfZot",
       "_wiki": {
@@ -33,7 +36,8 @@
     {
       "guid": "DAG_zfwis5",
       "type": "Season",
-      "name": "Tiptoeing Tea-Brewer",
+      "name": "蹑足沏茶师",
+      "_name": "Tiptoeing Tea-Brewer",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/ea/Remembrance-Spirit-Tiptoeing-Tea-Brewer.png",
       "tree": "gOAqpgTH4R",
       "_wiki": {
@@ -43,7 +47,8 @@
     {
       "guid": "zq6qjCsQ_f",
       "type": "Season",
-      "name": "Wounded Warrior",
+      "name": "负伤战士",
+      "_name": "Wounded Warrior",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/d8/Remembrance-Spirit-Wounded-Warrior.png",
       "tree": "Cze45b5NuK",
       "_wiki": {

@@ -2,7 +2,8 @@
     {
       "guid": "ZomY9nil8V",
       "type": "Guide",
-      "name": "Enchantment Guide",
+      "name": "魔法季向导",
+      "_name": "Enchantment Guide",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/f/f0/Enchantment-Guide-Spirit.png",
       "tree": "MBr5qVDM3P",
       "treeRevisions": ["tM6IuQirtl"],
@@ -13,7 +14,8 @@
     {
       "guid": "HphxLKhDBZ",
       "type": "Season",
-      "name": "Nodding Muralist",
+      "name": "赞许壁画家",
+      "_name": "Nodding Muralist",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8e/Enchantment-Spirit-Nodding-Muralist.png",
       "tree": "zKvpYwiaFo",
       "_wiki": {
@@ -23,7 +25,8 @@
     {
       "guid": "kQiNS82DDY",
       "type": "Season",
-      "name": "Indifferent Alchemist",
+      "name": "冷漠术士",
+      "_name": "Indifferent Alchemist",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/26/Enchantment-Spirit-Indifferent-Alchemist.png",
       "tree": "t5FoVLTpxP",
       "_wiki": {
@@ -33,7 +36,8 @@
     {
       "guid": "OaysgoHcZI",
       "type": "Season",
-      "name": "Crab Walker",
+      "name": "蟹舞者",
+      "_name": "Crab Walker",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/54/Enchantment-Spirit-Crab-Walker.png",
       "tree": "_IpcZ_U6zY",
       "_wiki": {
@@ -43,7 +47,8 @@
     {
       "guid": "UJVa4nb2nn",
       "type": "Season",
-      "name": "Scarecrow Farmer",
+      "name": "稻草人农夫",
+      "_name": "Scarecrow Farmer",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/a1/Enchantment-Spirit-Scarecrow-Farmer.png",
       "tree": "jRTuid-Y21",
       "_wiki": {
@@ -53,7 +58,8 @@
     {
       "guid": "Be41CnHkEI",
       "type": "Season",
-      "name": "Snoozing Carpenter",
+      "name": "瞌睡木匠",
+      "_name": "Snoozing Carpenter",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/c4/Enchantment-Spirit-Snoozing-Carpenter.png",
       "tree": "jJoNEIUqgP",
       "_wiki": {
@@ -63,7 +69,8 @@
     {
       "guid": "hgjklF3nQI",
       "type": "Season",
-      "name": "Playfighting Herbalist",
+      "name": "情绪草药师",
+      "_name": "Playfighting Herbalist",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/11/Enchantment-Spirit-Playfighting-Herbalist.png",
       "tree": "LSFtagpL9R",
       "_wiki": {

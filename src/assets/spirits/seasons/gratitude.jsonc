@@ -2,7 +2,8 @@
     {
       "guid": "jM6IlC8yk8",
       "type": "Guide",
-      "name": "Gratitude Guide",
+      "name": "感恩季向导",
+      "_name": "Gratitude Guide",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/82/Gratitude-Guide-Spirit.png",
       "tree": "e_dcWfqWdl",
       "_wiki": {
@@ -12,7 +13,8 @@
     {
       "guid": "0yGgX4Yk3c",
       "type": "Season",
-      "name": "Sassy Drifter",
+      "name": "刁蛮浪者",
+      "_name": "Sassy Drifter",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/5d/Gratitude-Spirit-Sassy-Drifter.png",
       "tree": "emS7DU5ndh",
       "_wiki": {
@@ -22,7 +24,8 @@
     {
       "guid": "Q-N8n-0b8O",
       "type": "Season",
-      "name": "Stretching Guru",
+      "name": "舒展大师",
+      "_name": "Stretching Guru",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/46/Gratitude-Spirit-Stretching-Guru.png",
       "tree": "s4j4vrnNCR",
       "_wiki": {
@@ -32,7 +35,8 @@
     {
       "guid": "lmydkMDQeP",
       "type": "Season",
-      "name": "Provoking Performer",
+      "name": "挑衅艺伎",
+      "_name": "Provoking Performer",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/25/Gratitude-Spirit-Provoking-Performer.png",
       "tree": "R-TxhzmvlY",
       "_wiki": {
@@ -42,7 +46,8 @@
     {
       "guid": "JROKFatVLC",
       "type": "Season",
-      "name": "Leaping Dancer",
+      "name": "跳跃舞者",
+      "_name": "Leaping Dancer",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/ae/Gratitude-Spirit-Leaping-Dancer.png",
       "tree": "C1UHeaHfp1",
       "_wiki": {
@@ -52,7 +57,7 @@
     {
       "guid": "eToUA1mSjz",
       "type": "Season",
-      "name": "Saluting Protector",
+      "name": "敬礼护卫",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/82/Gratitude-Spirit-Saluting-Protector.png",
       "tree": "uHs_ggtE0U",
       "_wiki": {
@@ -62,7 +67,7 @@
     {
       "guid": "KZaVtTUdlR",
       "type": "Season",
-      "name": "Greeting Shaman",
+      "name": "拳礼武僧",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/3e/Gratitude-Spirit-Greeting-Shaman.png",
       "tree": "3xelLnykRC",
       "_wiki": {

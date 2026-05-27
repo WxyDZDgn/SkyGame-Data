@@ -2,7 +2,8 @@
     {
       "guid": "q8g57aJV8r",
       "type": "Guide",
-      "name": "The Void of Shattering",
+      "name": "伊甸的记忆碎片",
+      "_name": "The Void of Shattering",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/71/Shattering-Guide-The-Void-of-Shattering.png",
       "tree": "BK8jQyPH_n",
       "treeRevisions": ["sPbvibpvEb"],
@@ -13,7 +14,8 @@
     {
       "guid": "KqGJfPvqrM",
       "type": "Season",
-      "name": "Ancient Light (Jellyfish)",
+      "name": "远古光明记忆（水母）",
+      "_name": "Ancient Light (Jellyfish)",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/e3/Shattering-Ancient_Light.png",
       "tree": "xLwRm1AfSm",
       "_wiki": {
@@ -23,7 +25,8 @@
     {
       "guid": "di5Qar2yOI",
       "type": "Season",
-      "name": "Ancient Light (Manta)",
+      "name": "远古光明记忆（遥鲲）",
+      "_name": "Ancient Light (Manta)",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/e3/Shattering-Ancient_Light.png",
       "tree": "1fhyjtk7uy",
       "_wiki": {
@@ -33,7 +36,8 @@
     {
       "guid": "3rebltHxWX",
       "type": "Season",
-      "name": "Ancient Darkness (Dragon)",
+      "name": "远古黑暗记忆（冥龙）",
+      "_name": "Ancient Darkness (Dragon)",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/f/f0/Shattering-Ancient_Darkness.png",
       "tree": "7RgA-evqca",
       "_wiki": {
@@ -43,7 +47,8 @@
     {
       "guid": "V7PbSxO67Q",
       "type": "Season",
-      "name": "Ancient Darkness (Plants)",
+      "name": "远古黑暗记忆（暗花）",
+      "_name": "Ancient Darkness (Plants)",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/f/f0/Shattering-Ancient_Darkness.png",
       "tree": "b6rp9fopvO",
       "_wiki": {

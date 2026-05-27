@@ -2,7 +2,8 @@
     {
       "guid": "v-bxcGqGaa",
       "type": "Guide",
-      "name": "Spirit of Mural",
+      "name": "九色鹿季向导",
+      "_name": "Spirit of Mural",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/a4/Nine-Colored-Deer-Guide-Spirit.png",
       "tree": "Lvuz1tp6P9",
       "treeRevisions": ["iKqwBylxQ9"],
@@ -13,7 +14,8 @@
     {
       "guid": "gyEBXKOIwY",
       "type": "Season",
-      "name": "Herb Gatherer",
+      "name": "采药人",
+      "_name": "Herb Gatherer",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/ae/Nine-Colored-Deer-Herb-Gatherer.png",
       "tree": "nDiOVsRGWO",
       "_wiki": {
@@ -23,7 +25,8 @@
     {
       "guid": "4h9FByzo7y",
       "type": "Season",
-      "name": "Hunter",
+      "name": "猎手",
+      "_name": "Hunter",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/72/Nine-Colored-Deer-Hunter.png",
       "tree": "rsxn04As9U",
       "_wiki": {
@@ -33,7 +36,8 @@
     {
       "guid": "wyFKAWN45l",
       "type": "Season",
-      "name": "Feudal Lord",
+      "name": "领主",
+      "_name": "Feudal Lord",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/cf/Nine-Colored-Deer-Feudal-Lord.png",
       "tree": "0wgQ9rDShR",
       "_wiki": {
@@ -43,7 +47,8 @@
     {
       "guid": "mf7NyGfeDI",
       "type": "Season",
-      "name": "Princess",
+      "name": "公主",
+      "_name": "Princess",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/da/Nine-Colored-Deer-Princess.png",
       "tree": "uLAuAvptPA",
       "_wiki": {

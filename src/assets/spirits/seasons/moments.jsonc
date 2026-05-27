@@ -2,7 +2,8 @@
     {
       "guid": "PN_V8C4WOq",
       "type": "Guide",
-      "name": "Moments Guide",
+      "name": "拾光季向导",
+      "_name": "Moments Guide",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/94/Moments-Ultimate-Guide.png",
       "tree": "DFxVkg9lpF",
       "treeRevisions": ["_jx7NlrovJ"],
@@ -13,7 +14,8 @@
     {
       "guid": "jh-fGKllmH",
       "type": "Season",
-      "name": "Reassuring Ranger",
+      "name": "可靠护林员",
+      "_name": "Reassuring Ranger",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/6b/Moments-Spirit-Reassuring-Ranger.png",
       "tree": "AfSb4eiW7H",
       "_wiki": {
@@ -23,7 +25,8 @@
     {
       "guid": "6EywAKsW_z",
       "type": "Season",
-      "name": "Jolly Geologist",
+      "name": "愉悦地理学家",
+      "_name": "Jolly Geologist",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/55/Moments-Spirit-Jolly-Geologist.png",
       "tree": "C6mpLeVi_m",
       "_wiki": {
@@ -33,7 +36,8 @@
     {
       "guid": "EMMZ8KSCjP",
       "type": "Season",
-      "name": "Ascetic Monk",
+      "name": "苦修行者",
+      "_name": "Ascetic Monk",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/5c/Moments-Spirit-Ascetic-Monk.png",
       "tree": "QxacM-TYol",
       "_wiki": {
@@ -43,7 +47,8 @@
     {
       "guid": "vdv3KApSxB",
       "type": "Season",
-      "name": "Nightbird Whisperer",
+      "name": "夜行鸟语者",
+      "_name": "Nightbird Whisperer",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/6f/Moments-Spirit-Nightbird-Whisperer.png",
       "tree": "jj9mjfGi30",
       "_wiki": {

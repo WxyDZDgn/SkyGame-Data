@@ -2,7 +2,8 @@
     {
       "guid": "hbXkkZbBsk",
       "type": "Guide",
-      "name": "Blue Bird Guide",
+      "name": "青鸟季向导",
+      "_name": "Blue Bird Guide",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/6f/Blue-Bird-Ultimate-Guide.png",
       "tree": "9ZMGsZeH1U",
       "treeRevisions": [ "Z-lDboKqdB" ],
@@ -13,7 +14,8 @@
     {
       "guid": "2iDZqeJXTf",
       "type": "Season",
-      "name": "Divining Wise Grandparent",
+      "name": "占卜智慧长者",
+      "_name": "Divining Wise Grandparent",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/f/f0/Divining-Wise-Grandparent-cutout.png",
       "tree": "me0kc6RN7J",
       "_wiki": {
@@ -23,7 +25,8 @@
     {
       "guid": "faWKshu5Vh",
       "type": "Season",
-      "name": "Costumed Confetti Cousin",
+      "name": "戏服礼花表亲",
+      "_name": "Costumed Confetti Cousin",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/08/Costumed-Confetti-Cousin-cutout.png",
       "tree": "GEOf9iPZiz",
       "_wiki": {
@@ -33,7 +36,8 @@
     {
       "guid": "RMOKUIDWOs",
       "type": "Season",
-      "name": "Royal Hairtousle Teen",
+      "name": "皇家蓬头青年",
+      "_name": "Royal Hairtousle Teen",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/0b/Royal-Hairtousle-Teen-cutout.png",
       "tree": "DU7kdfkbq7",
       "_wiki": {
@@ -43,7 +47,8 @@
     {
       "guid": "hcQtoG_IlW",
       "type": "Season",
-      "name": "Nostalgic Sparkler Parent",
+      "name": "怀旧火花家长",
+      "_name": "Nostalgic Sparkler Parent",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/23/Nostalgic-Sparkler-Parent-cutout.png",
       "tree": "O7hDEtXXLQ",
       "_wiki": {
@@ -53,7 +58,8 @@
     {
       "guid": "jWCKf1cR1l",
       "type": "Season",
-      "name": "Woodcutting Pleaful Parent",
+      "name": "伐木不舍家长",
+      "_name": "Woodcutting Pleaful Parent",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/ef/Woodcutting-Pleaful-Parent-cutout.png",
       "tree": "qLiBf_BpI4",
       "_wiki": {

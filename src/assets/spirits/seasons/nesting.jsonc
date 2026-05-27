@@ -2,7 +2,8 @@
     {
       "guid": "ksZ0eZfHEZ",
       "type": "Guide",
-      "name": "Nesting Guide",
+      "name": "筑巢季向导",
+      "_name": "Nesting Guide",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/61/Nesting-Ultimate-Guide.png",
       "tree": "D5NXQFGNZE",
       "treeRevisions": ["SONrERARwW"],
@@ -13,7 +14,8 @@
     {
       "guid": "L6Rqyh4Xi9",
       "type": "Season",
-      "name": "Nesting Nook",
+      "name": "小屋一隅",
+      "_name": "Nesting Nook",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/c9/Nesting-Nook-Shop.png",
       "tree": "Hj9s2djkbp",
       "_wiki": {
@@ -23,7 +25,8 @@
     {
       "guid": "r5FVxLgLrp",
       "type": "Season",
-      "name": "Nesting Solarium",
+      "name": "日光浴室",
+      "_name": "Nesting Solarium",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/69/Nesting-Solarium-Shop.png",
       "tree": "wLTOEjYiho",
       "_wiki": {
@@ -33,7 +36,8 @@
     {
       "guid": "Ha10I4vIO7",
       "type": "Season",
-      "name": "Nesting Atrium",
+      "name": "小屋庭院",
+      "_name": "Nesting Atrium",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/e4/Nesting-Atrium-Shop.png",
       "tree": "_7Cm8XUK5N",
       "_wiki": {
@@ -43,7 +47,8 @@
     {
       "guid": "8p_1kKYu7_",
       "type": "Season",
-      "name": "Nesting Loft",
+      "name": "云中楼阁",
+      "_name": "Nesting Loft",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/a7/Nesting-Loft-Shop.png",
       "tree": "hmjRFtvfCa",
       "_wiki": {

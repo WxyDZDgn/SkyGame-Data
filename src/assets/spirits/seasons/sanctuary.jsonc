@@ -2,7 +2,8 @@
     {
       "guid": "0IoADuWn1P",
       "type": "Guide",
-      "name": "Sanctuary Guide",
+      "name": "圣岛季向导",
+      "_name": "Sanctuary Guide",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/db/Sanctuary-Guide-Spirit.png",
       "tree": "yZlWqKpS7C",
       "treeRevisions": ["lSSuuP9Mx5"],
@@ -13,7 +14,8 @@
     {
       "guid": "jx7koL5guD",
       "type": "Season",
-      "name": "Jelly Whisperer",
+      "name": "母语者",
+      "_name": "Jelly Whisperer",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/43/Sanctuary-Spirit-Jelly-Whisperer.png",
       "tree": "GVghUxleba",
       "_wiki": {
@@ -23,7 +25,8 @@
     {
       "guid": "MEw6did3kI",
       "type": "Season",
-      "name": "Timid Bookworm",
+      "name": "内秀书虫",
+      "_name": "Timid Bookworm",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/51/Sanctuary-Spirit-Timid-Bookworm.png",
       "tree": "rMbkkmBZQM",
       "_wiki": {
@@ -33,7 +36,8 @@
     {
       "guid": "IDEim-HNOZ",
       "type": "Season",
-      "name": "Rallying Thrillseeker",
+      "name": "热血运动员",
+      "_name": "Rallying Thrillseeker",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/c0/Sanctuary-Spirit-Rallying-Thrillseeker.png",
       "tree": "MLnvMI_SQf",
       "_wiki": {
@@ -43,7 +47,8 @@
     {
       "guid": "z4xqXUkx_6",
       "type": "Season",
-      "name": "Hiking Grouch",
+      "name": "固执登山者",
+      "_name": "Hiking Grouch",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/26/Sanctuary-Spirit-Hiking-Grouch.png",
       "tree": "NGPhozyesb",
       "_wiki": {
@@ -53,7 +58,8 @@
     {
       "guid": "uxtR1vVL8c",
       "type": "Season",
-      "name": "Grateful Shell Collector",
+      "name": "鸣谢收藏家",
+      "_name": "Grateful Shell Collector",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/f/fa/Sanctuary-Spirit-Grateful-Shell-Collector.png",
       "tree": "a0T7_evTz6",
       "_wiki": {
@@ -63,7 +69,8 @@
     {
       "guid": "8N9cC4SvzM",
       "type": "Season",
-      "name": "Chill Sunbather",
+      "name": "放松日浴者",
+      "_name": "Chill Sunbather",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/d5/Sanctuary-Spirit-Chill-Sunbather.png",
       "tree": "MwCPwxfL0B",
       "_wiki": {

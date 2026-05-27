@@ -2,7 +2,8 @@
     {
       "guid": "qSggZYj_x3",
       "type": "Guide",
-      "name": "Performance Guide",
+      "name": "表演季向导",
+      "_name": "Performance Guide",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/43/SOP-Ultimate-guide.png",
       "tree": "QPaLIzQqeU",
       "treeRevisions": ["9v3ZBqHlQm", "PNFPkSOfaC"],
@@ -13,7 +14,8 @@
     {
       "guid": "4iotcmsn0K",
       "type": "Season",
-      "name": "Frantic Stagehand",
+      "name": "忙碌舞台管理员",
+      "_name": "Frantic Stagehand",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/c0/Performance-Spirit-Frantic-Stagehand.png",
       "tree": "i0lRmQ31MS",
       "_wiki": {
@@ -23,7 +25,8 @@
     {
       "guid": "fEcI6neh6f",
       "type": "Season",
-      "name": "Forgetful Storyteller",
+      "name": "健忘叙事者",
+      "_name": "Forgetful Storyteller",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/1e/Performance-Spirit-Forgetful-Storyteller.png",
       "tree": "UEf6UQn_yl",
       "_wiki": {
@@ -33,7 +36,8 @@
     {
       "guid": "KYhwsjTkp-",
       "type": "Season",
-      "name": "Mellow Musician",
+      "name": "老练音乐家",
+      "_name": "Mellow Musician",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/f/fb/Performance-Spirit-Mellow-Musician.png",
       "tree": "18DZaVJ0JB",
       "_wiki": {
@@ -43,7 +47,8 @@
     {
       "guid": "S6KVcMgi-3",
       "type": "Season",
-      "name": "Modest Dancer",
+      "name": "谦虚舞者",
+      "_name": "Modest Dancer",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/60/Performance-Spirit-Modest-Dancer.png",
       "tree": "pYtg2G6fMP",
       "_wiki": {

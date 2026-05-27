@@ -2,7 +2,8 @@
     {
       "guid": "HfafU7Pfui",
       "type": "Guide",
-      "name": "The Rose",
+      "name": "玫瑰",
+      "_name": "The Rose",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/05/Little-Prince-Guide-Spirit.png",
       "tree": "oL3CS56h9y",
       "treeRevisions": ["hdM4etUDWo"],
@@ -13,7 +14,8 @@
     {
       "guid": "JOCCkr0TlW",
       "type": "Season",
-      "name": "Beckoning Ruler",
+      "name": "呼风唤雨的统治者",
+      "_name": "Beckoning Ruler",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/58/Little-Prince-Spirit-Beckoning-Ruler.png",
       "tree": "GpFO-QB9kn",
       "_wiki": {
@@ -23,7 +25,8 @@
     {
       "guid": "V7gj-cBqK1",
       "type": "Season",
-      "name": "Gloating Narcissist",
+      "name": "沾沾自喜的自恋者",
+      "_name": "Gloating Narcissist",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/f/fe/Little-Prince-Spirit-Gloating-Narcissist.png",
       "tree": "G8NMsyrbeV",
       "_wiki": {
@@ -33,7 +36,8 @@
     {
       "guid": "z5dtSO-gis",
       "type": "Season",
-      "name": "Stretching Lamplighter",
+      "name": "被逼无奈的掌灯人",
+      "_name": "Stretching Lamplighter",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/a2/Little-Prince-Spirit-Stretching-Lamplighter.png",
       "tree": "tGROdiGKVT",
       "_wiki": {
@@ -43,7 +47,8 @@
     {
       "guid": "iweb5Sk2Xk",
       "type": "Season",
-      "name": "Slouching Soldier",
+      "name": "萎靡不振的士兵",
+      "_name": "Slouching Soldier",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/9f/Little-Prince-Spirit-Slouching-Soldier.png",
       "tree": "evynWpUlaz",
       "_wiki": {
@@ -53,7 +58,8 @@
     {
       "guid": "l7zP8zUFHX",
       "type": "Season",
-      "name": "Sneezing Geographer",
+      "name": "打喷嚏的地理学家",
+      "_name": "Sneezing Geographer",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/84/Little-Prince-Spirit-Sneezing-Geographer.png",
       "tree": "eY5I6thUk8",
       "_wiki": {
@@ -63,7 +69,8 @@
     {
       "guid": "dEQ1GVQOx7",
       "type": "Season",
-      "name": "Star Collector",
+      "name": "星光收藏家",
+      "_name": "Star Collector",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/19/Little-Prince-Spirit-Star-Collector.png",
       "tree": "Ikiuyl-Nm1",
       "_wiki": {

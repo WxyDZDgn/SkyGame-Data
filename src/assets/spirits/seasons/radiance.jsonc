@@ -2,7 +2,8 @@
     {
       "guid": "JWj113We5R",
       "type": "Guide",
-      "name": "Radiance Guide",
+      "name": "彩染季向导",
+      "_name": "Radiance Guide",
       "tree": "QveGTQI48L",
       "treeRevisions": [ "Vvd8vzwFLd" ],
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/bb/Radiance-Ultimate-Guide.png",
@@ -13,7 +14,8 @@
     {
       "guid": "SS7FZgJDLx",
       "type": "Season",
-      "name": "Radiance Leaping Dancer",
+      "name": "跃动舞者",
+      "_name": "Radiance Leaping Dancer",
       "tree": "s8oDPElH2z",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/5c/Radiance-Leaping-Dancer-spirit-cutout-undyed.png",
       "_wiki": {
@@ -23,7 +25,8 @@
     {
       "guid": "xeu9NyCBVR",
       "type": "Season",
-      "name": "Radiance Provoking Performer",
+      "name": "热情舞者",
+      "_name": "Radiance Provoking Performer",
       "tree": "wFupf-tJk-",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/f/fb/Radiance-Provoking-Performer-spirit-cutout-undyed.png",
       "_wiki": {
@@ -33,7 +36,8 @@
     {
       "guid": "JpMqGkF6E1",
       "type": "Season",
-      "name": "Radiance Greeting Shaman",
+      "name": "问候舞者",
+      "_name": "Radiance Greeting Shaman",
       "tree": "AUH6M6CbGC",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/6a/Radiance-Greeting-Shaman-spirit-cutout-original.png",
       "_wiki": {

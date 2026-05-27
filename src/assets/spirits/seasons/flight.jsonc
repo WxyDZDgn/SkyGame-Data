@@ -2,7 +2,8 @@
     {
       "guid": "FF8u1g9XI_",
       "type": "Guide",
-      "name": "Flight Guide",
+      "name": "风行季向导",
+      "_name": "Flight Guide",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/54/Flight_Guide.png",
       "tree": "23Vo9a04Sm",
       "treeRevisions": ["HvBGzwY6Wp"],
@@ -13,7 +14,8 @@
     {
       "guid": "9Wl9kwxoFk",
       "type": "Season",
-      "name": "Lively Navigator",
+      "name": "风行领航员",
+      "_name": "Lively Navigator",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/9a/Flight-Spirit-Lively-Navigator.png",
       "tree": "8XT3GDeonb",
       "_wiki": {
@@ -23,7 +25,8 @@
     {
       "guid": "VQadeqBPEO",
       "type": "Season",
-      "name": "Light Whisperer",
+      "name": "光之低语者",
+      "_name": "Light Whisperer",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/db/Flight-Spirit-Light-Whisperer.png",
       "tree": "DHbvqLtLCU",
       "_wiki": {
@@ -33,7 +36,8 @@
     {
       "guid": "_7-rIO21Ea",
       "type": "Season",
-      "name": "Tinkering Chimesmith",
+      "name": "风铃修补匠",
+      "_name": "Tinkering Chimesmith",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/51/Flight-Spirit-Tinkering-Chimesmith.png",
       "tree": "66idlQe3mK",
       "_wiki": {
@@ -43,7 +47,8 @@
     {
       "guid": "hovmkrquOR",
       "type": "Season",
-      "name": "Talented Builder",
+      "name": "天才建筑师",
+      "_name": "Talented Builder",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/ac/Flight-Spirit-Talented-Builder.png",
       "tree": "4Zj4C2RUj1",
       "_wiki": {
