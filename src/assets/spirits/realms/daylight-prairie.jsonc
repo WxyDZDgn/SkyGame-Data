@@ -2,7 +2,8 @@
   {
     "guid": "ulvP8R6C6a",
     "type": "Regular",
-    "name": "Butterfly Charmer",
+    "name": "引蝶人",
+    "_name": "Butterfly Charmer",
     "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/59/Prairie-Spirit-Butterfly-Charmer.png",
     "tree": "V0j-dhLEIw",
     "_wiki": {
@@ -12,7 +13,8 @@
   {
     "guid": "WFjSczlPTV",
     "type": "Regular",
-    "name": "Applauding Bellmaker",
+    "name": "鼓掌钟匠",
+    "_name": "Applauding Bellmaker",
     "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/40/Prairie-Spirit-Applauding-Bellmaker.png",
     "tree": "hQKUIRG3JQ",
     "_wiki": {
@@ -22,7 +24,8 @@
   {
     "guid": "48jm5EQzfU",
     "type": "Regular",
-    "name": "Waving Bellmaker",
+    "name": "挥手钟匠",
+    "_name": "Waving Bellmaker",
     "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/48/Prairie-Spirit-Waving-Bellmaker.png",
     "tree": "9HHikEqkYY",
     "_wiki": {
@@ -32,7 +35,8 @@
   {
     "guid": "R4ILdPamhd",
     "type": "Regular",
-    "name": "Slumbering Shipwright",
+    "name": "犯困船匠",
+    "_name": "Slumbering Shipwright",
     "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/15/Prairie-Spirit-Slumbering-Shipwright.png",
     "tree": "HOyyuoXAP9",
     "_wiki": {
@@ -42,7 +46,8 @@
   {
     "guid": "K3CIxcDSjq",
     "type": "Regular",
-    "name": "Laughing Light Catcher",
+    "name": "欢笑追光者",
+    "_name": "Laughing Light Catcher",
     "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/de/Prairie-Spirit-Laughing-Light-Catcher.png",
     "tree": "Es47LhZ5hx",
     "_wiki": {
@@ -52,7 +57,8 @@
   {
     "guid": "KM1xzU9v5P",
     "type": "Regular",
-    "name": "Bird Whisperer",
+    "name": "鸟语者",
+    "_name": "Bird Whisperer",
     "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/75/Prairie-Spirit-Bird-Whisperer.png",
     "tree": "anlwK70JVL",
     "_wiki": {
@@ -62,7 +68,8 @@
   {
     "guid": "MyLI80npmW",
     "type": "Regular",
-    "name": "Exhausted Dock Worker",
+    "name": "辛劳码头工",
+    "_name": "Exhausted Dock Worker",
     "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/3c/Prairie-Spirit-Exhausted-Dock-Worker.png",
     "tree": "ALHvJCosOd",
     "_wiki": {
@@ -73,6 +80,7 @@
     "guid": "gtbbZnpLbt",
     "type": "Regular",
     "name": "Ceremonial Worshiper",
+    "_name": "Ceremonial Worshiper",
     "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/32/Prairie-Spirit-Ceremonial-Worshiper.png",
     "tree": "NU6qrcE5Ju",
     "_wiki": {
@@ -83,6 +91,7 @@
     "guid": "iu6tmCPpex",
     "type": "Elder",
     "name": "Prairie Elder",
+    "_name": "Prairie Elder",
     "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/39/Elder-Spirit-Prairie.png",
     "tree": "eUgsBX5PrB",
     "_wiki": {

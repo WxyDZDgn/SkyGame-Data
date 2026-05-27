@@ -2,7 +2,8 @@
   {
     "guid": "LwcCtbnGuF",
     "type": "Regular",
-    "name": "Shivering Trailblazer",
+    "name": "颤抖开拓者",
+    "_name": "Shivering Trailblazer",
     "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/98/Forest-Spirit-Shivering-Trailblazer.png",
     "tree": "qV_AsI1GHV",
     "_wiki": {
@@ -12,7 +13,8 @@
   {
     "guid": "xbGBFC0rnu",
     "type": "Regular",
-    "name": "Blushing Prospector",
+    "name": "羞涩勘探者",
+    "_name": "Blushing Prospector",
     "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/f/f5/Forest-Spirit-Blushing-Prospector.png",
     "tree": "LMcXyV8-2j",
     "_wiki": {
@@ -22,7 +24,8 @@
   {
     "guid": "p-WdkJpGB5",
     "type": "Regular",
-    "name": "Hide'n'Seek Pioneer",
+    "name": "躲猫猫拓荒者",
+    "_name": "Hide'n'Seek Pioneer",
     "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/4f/Forest-Spirit-Hide-n-Seek-Pioneer.png",
     "tree": "R7ffBM1PMH",
     "_wiki": {
@@ -32,7 +35,8 @@
   {
     "guid": "waSFuoNQsR",
     "type": "Regular",
-    "name": "Pouty Porter",
+    "name": "娇嗔搬运工",
+    "_name": "Pouty Porter",
     "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/3f/Forest-Spirit-Pouty-Porter.png",
     "tree": "u_KTXvnqG5",
     "_wiki": {
@@ -42,7 +46,8 @@
   {
     "guid": "L_0YoE4O8Z",
     "type": "Regular",
-    "name": "Dismayed Hunter",
+    "name": "沮丧猎人",
+    "_name": "Dismayed Hunter",
     "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/66/Forest-Spirit-Dismayed-Hunter.png",
     "tree": "f34xxhWuw1",
     "_wiki": {
@@ -52,7 +57,8 @@
   {
     "guid": "puj9z07ew0",
     "type": "Regular",
-    "name": "Apologetic Lumberjack",
+    "name": "歉意伐木工",
+    "_name": "Apologetic Lumberjack",
     "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/28/Forest-Spirit-Apologetic-Lumberjack.png",
     "tree": "8mHCSAJMJt",
     "_wiki": {
@@ -62,7 +68,8 @@
   {
     "guid": "gF3qSnQNxx",
     "type": "Regular",
-    "name": "Tearful Light Miner",
+    "name": "悲伤矿工",
+    "_name": "Tearful Light Miner",
     "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/4a/Forest-Spirit-Tearful-Light-Miner.png",
     "tree": "et4Q9BpF6x",
     "_wiki": {
@@ -72,7 +79,8 @@
   {
     "guid": "R_zBE7HaWV",
     "type": "Regular",
-    "name": "Whale Whisperer",
+    "name": "鲸语者",
+    "_name": "Whale Whisperer",
     "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/3b/Forest-Spirit-Whale-Whisperer.png",
     "tree": "Mker9XnSXM",
     "_wiki": {
@@ -83,6 +91,7 @@
     "guid": "aj2x9H8ECy",
     "type": "Elder",
     "name": "Forest Elder",
+    "_name": "Forest Elder",
     "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/0c/Elder-Spirit-Forest.png",
     "tree": "TVSuWzpcpt",
     "_wiki": {

@@ -2,7 +2,8 @@
   {
     "guid": "4KCKJxR56G",
     "type": "Regular",
-    "name": "Confident Sightseer",
+    "name": "自信观光客",
+    "_name": "Confident Sightseer",
     "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/4f/Valley-Spirit-Confident-Sightseer.png",
     "tree": "DJhTrzv4Yb",
     "_wiki": {
@@ -12,7 +13,8 @@
   {
     "guid": "yUp189PWVS",
     "type": "Regular",
-    "name": "Handstanding Thrillseeker",
+    "name": "倒立探险者",
+    "_name": "Handstanding Thrillseeker",
     "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/e3/Valley-Spirit-Handstanding-Thrillseeker.png",
     "tree": "J49-S6yLbL",
     "_wiki": {
@@ -22,7 +24,8 @@
   {
     "guid": "CfXORyMFx4",
     "type": "Regular",
-    "name": "Manta Whisperer",
+    "name": "鳐语者",
+    "_name": "Manta Whisperer",
     "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/00/Valley-Spirit-Manta-Whisperer.png",
     "tree": "XRXDlNt2KM",
     "_wiki": {
@@ -32,7 +35,8 @@
   {
     "guid": "H5iKZChQIK",
     "type": "Regular",
-    "name": "Backflipping Champion",
+    "name": "空翻冠军",
+    "_name": "Backflipping Champion",
     "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/35/Valley-Spirit-Backflipping-Champion.png",
     "tree": "wnFJK6iIdP",
     "_wiki": {
@@ -42,7 +46,8 @@
   {
     "guid": "IIt-zYJC2N",
     "type": "Regular",
-    "name": "Cheerful Spectator",
+    "name": "喝彩观众",
+    "_name": "Cheerful Spectator",
     "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/bc/Valley-Spirit-Cheerful-Spectator.png",
     "tree": "mHTyXPh-yi",
     "_wiki": {
@@ -52,7 +57,8 @@
   {
     "guid": "fRtK3WFMm1",
     "type": "Regular",
-    "name": "Bowing Medalist",
+    "name": "鞠躬冠军",
+    "_name": "Bowing Medalist",
     "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/b0/Valley-Spirit-Bowing-Medalist.png",
     "tree": "_aHaMwt5OW",
     "_wiki": {
@@ -62,7 +68,8 @@
   {
     "guid": "CQJO8mQ0do",
     "type": "Regular",
-    "name": "Proud Victor",
+    "name": "骄傲优胜者",
+    "_name": "Proud Victor",
     "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/06/Valley-Spirit-Proud-Victor.png",
     "tree": "kTUUniUQiN",
     "_wiki": {
@@ -73,6 +80,7 @@
     "guid": "NgLbFXaB4z",
     "type": "Elder",
     "name": "Valley Elders",
+    "_name": "Valley Elders",
     "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/9b/Elder-Spirits-Valley.png",
     "tree": "EZP7ISiCn5",
     "_wiki": {

@@ -2,7 +2,8 @@
   {
     "guid": "TqswdiTmEC",
     "type": "Regular",
-    "name": "Frightened Refugee",
+    "name": "惊恐难民",
+    "_name": "Frightened Refugee",
     "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/49/Wasteland-Spirit-Frightened-Refugee.png",
     "tree": "2tMrFxgXJy",
     "_wiki": {
@@ -12,7 +13,8 @@
   {
     "guid": "k8nqBtLJ0R",
     "type": "Regular",
-    "name": "Fainting Warrior",
+    "name": "昏厥战士",
+    "_name": "Fainting Warrior",
     "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/07/Wasteland-Spirit-Fainting-Warrior.png",
     "tree": "7peV6o1G9r",
     "_wiki": {
@@ -22,7 +24,8 @@
   {
     "guid": "_4VyRWxD3V",
     "type": "Regular",
-    "name": "Courageous Soldier",
+    "name": "无畏士兵",
+    "_name": "Courageous Soldier",
     "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/6b/Wasteland-Spirit-Courageous-Soldier.png",
     "tree": "3W0wLUVJL6",
     "_wiki": {
@@ -32,7 +35,8 @@
   {
     "guid": "trJkBr3myf",
     "type": "Regular",
-    "name": "Stealthy Survivor",
+    "name": "隐秘幸存者",
+    "_name": "Stealthy Survivor",
     "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/37/Wasteland-Spirit-Stealthy-Survivor.png",
     "tree": "dcgTVFAm6m",
     "_wiki": {
@@ -42,7 +46,8 @@
   {
     "guid": "6GO0ISasq7",
     "type": "Regular",
-    "name": "Saluting Captain",
+    "name": "行礼船长",
+    "_name": "Saluting Captain",
     "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8c/Wasteland-Spirit-Saluting-Captain.png",
     "tree": "_WJq0WK8Ds",
     "_wiki": {
@@ -52,7 +57,8 @@
   {
     "guid": "nwpDbbbWcw",
     "type": "Regular",
-    "name": "Lookout Scout",
+    "name": "瞭望士兵",
+    "_name": "Lookout Scout",
     "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/09/Wasteland-Spirit-Lookout-Scout.png",
     "tree": "oU4Uu2zMzG",
     "_wiki": {
@@ -63,6 +69,7 @@
     "guid": "JQR4EGE6io",
     "type": "Elder",
     "name": "Wasteland Elder",
+    "_name": "Wasteland Elder",
     "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/bc/Elder-Spirit-Wasteland.png",
     "tree": "VMIKm__4n_",
     "_wiki": {

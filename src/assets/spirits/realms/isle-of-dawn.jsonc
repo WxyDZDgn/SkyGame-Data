@@ -2,7 +2,8 @@
   {
     "guid": "qSs575DZ6P",
     "type": "Regular",
-    "name": "Pointing Candlemaker",
+    "name": "指路蜡烛匠",
+    "_name": "Pointing Candlemaker",
     "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/54/Isle-Spirit-Pointing-Candlemaker.png",
     "tree": "UJAYu7Uazn",
     "treeRevisions": [ "Tqm4A2uxjK", "9pFQlqeUbW" ],
@@ -13,7 +14,8 @@
   {
     "guid": "Tw-J4oXgie",
     "type": "Regular",
-    "name": "Ushering Stargazer",
+    "name": "引路观星者",
+    "_name": "Ushering Stargazer",
     "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/a4/Isle-Spirit-Ushering-Stargazer.png",
     "tree": "iO5Y6DGiiW",
     "_wiki": {
@@ -23,7 +25,8 @@
   {
     "guid": "bmYjIuJ6Qf",
     "type": "Regular",
-    "name": "Rejecting Voyager",
+    "name": "回绝行者",
+    "_name": "Rejecting Voyager",
     "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/9a/Isle-Spirit-Rejecting-Voyager.png",
     "tree": "45994RiYac",
     "_wiki": {
@@ -34,6 +37,7 @@
     "guid": "l8tl0mHCWH",
     "type": "Elder",
     "name": "Isle Elder",
+    "_name": "Isle Elder",
     "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/7a/Elder-Spirit-Isle.png",
     "tree": "9_S8rQmBlX",
     "_wiki": {

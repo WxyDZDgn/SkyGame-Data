@@ -2,7 +2,8 @@
   {
     "guid": "Im7m8syitV",
     "type": "Regular",
-    "name": "Levitating Adept",
+    "name": "浮空宗师",
+    "_name": "Levitating Adept",
     "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8f/Vault-Spirit-Levitating-Adept.png",
     "tree": "das41f_Q-7",
     "_wiki": {
@@ -12,7 +13,8 @@
   {
     "guid": "Gi75RcvXd0",
     "type": "Regular",
-    "name": "Meditating Monastic",
+    "name": "冥想大师",
+    "_name": "Meditating Monastic",
     "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/11/Vault-Spirit-Meditating-Monastic.png",
     "tree": "MzxOaKTjwc",
     "_wiki": {
@@ -22,7 +24,8 @@
   {
     "guid": "HeJISF946a",
     "type": "Regular",
-    "name": "Memory Whisperer",
+    "name": "灵语者",
+    "_name": "Memory Whisperer",
     "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/34/Vault-Spirit-Memory-Whisperer.png",
     "tree": "Vv98PNmcao",
     "_wiki": {
@@ -32,7 +35,8 @@
   {
     "guid": "1OGD_H3a7X",
     "type": "Regular",
-    "name": "Polite Scholar",
+    "name": "礼貌学者",
+    "_name": "Polite Scholar",
     "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/61/Vault-Spirit-Polite-Scholar.png",
     "tree": "Z1PFz0tm12",
     "_wiki": {
@@ -42,7 +46,8 @@
   {
     "guid": "_8CvQjUnQg",
     "type": "Regular",
-    "name": "Praying Acolyte",
+    "name": "祈祷侍从",
+    "_name": "Praying Acolyte",
     "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/89/Vault-Spirit-Praying-Acolyte.png",
     "tree": "5sAVyZ3QBX",
     "_wiki": {
@@ -53,6 +58,7 @@
     "guid": "NLbS2a-y2u",
     "type": "Elder",
     "name": "Vault Elder",
+    "_name": "Vault Elder",
     "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/63/Elder-Spirit-Vault.png",
     "tree": "ntRHO7rHJt",
     "_wiki": {
