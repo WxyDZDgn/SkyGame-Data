@@ -201,6 +201,19 @@
   { "guid": "94WMh6rPgV", "item": "kurDiTSM-m", "c": 5, "nw": "p_omO5ubzZ", "n": "y5KEhEIhqJ" },
   { "guid": "p_omO5ubzZ", "item": "g8AB_9bQIK", "c": 45 },
   { "guid": "y5KEhEIhqJ", "item": "1tF2KjdUWO", "c": 55 },
+  // 旅行 144
+  { "guid": "Nl1O-OFJ-E", "item": "KyJwYhzGVj", "nw": "s5dwHzx2dj", "n": "pnfHjE0wdS" },
+  { "guid": "s5dwHzx2dj", "item": "owZSOBEp_z", "h": 4 },
+  { "guid": "pnfHjE0wdS", "item": "-LT5Xt5vpH", "c": 5, "nw": "TODnJxUgnf", "n": "5ta8y8qghR", "ne": "sGS1DH2g2i" },
+  { "guid": "TODnJxUgnf", "item": "-02LBs9S2V", "c": 24 },
+  { "guid": "sGS1DH2g2i", "item": "Q__8vMZJrq", "c": 3 },
+  { "guid": "5ta8y8qghR", "item": "fCfPXR_Dlv", "ac": 2, "n": "r6QAfIUrv_" },
+  { "guid": "r6QAfIUrv_", "item": "UUOmL9cnbz", "h": 3, "nw": "L5hg6Ekcb3", "n": "sBFSdb1HsJ", "ne": "hsek7COcRR" },
+  { "guid": "L5hg6Ekcb3", "item": "3HxtK5BEns", "h": 6 },
+  { "guid": "hsek7COcRR", "item": "gEKj_Dz9vX", "c": 15 },
+  { "guid": "sBFSdb1HsJ", "item": "kurDiTSM-m", "c": 5, "nw": "8E-P4IYNE1", "n": "iweSA6DRth" },
+  { "guid": "8E-P4IYNE1", "item": "g8AB_9bQIK", "c": 45 },
+  { "guid": "iweSA6DRth", "item": "1tF2KjdUWO", "c": 55 },
   // #endregion
   // Marching Adventurer
   { "guid": "x1a7G7bveD", "item": "dNoANrAQV0", "nw": "7cLmkfOUJE", "n": "4UkX0dtia1" },

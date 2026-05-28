@@ -234,11 +234,11 @@
     "node": "Q7zPPVDuOn"
   },
   {
-    "guid": "YaJ9ra8eTo",
+    "guid": "YaJ9ra8eTo", //
     "node": "6QrSy1t5iF"
   },
   {
-    "guid": "8RKO8fkj0n",
+    "guid": "8RKO8fkj0n", // 旅行 117
     "node": "HWzaJiejA-"
   },
   // Stretching Guru
@@ -255,9 +255,12 @@
     "node": "ik0br-8Z8-"
   },
   {
-    // TS 137
-    "guid": "RrHlQoFBih",
+    "guid": "RrHlQoFBih", //
     "node": "iMZbZifxtj"
+  },
+  {
+    "guid": "yk-mUejs5o", // 旅行 126
+    "node": "u2mlOJjACQ"
   },
   // Provoking Performer
   {
@@ -272,14 +275,12 @@
     "guid": "yB8WfHNA3d", //
     "node": "Uk7fZ4cqe_"
   },
-  // TS 84
   {
-    "guid": "T6wagFF_ls",
+    "guid": "T6wagFF_ls", // 旅行 99
     "node": "TfqS8fRZYJ"
   },
-  // TS Error
   {
-    "guid": "JHT-EOASCu",
+    "guid": "JHT-EOASCu", // 旅行 157
     "node": "4iDQf4wkrh"
   },
   // TS 148
@@ -297,11 +298,11 @@
     "node": "e2U1NLqWO5"
   },
   {
-    "guid": "AxzlWSe9No",
+    "guid": "AxzlWSe9No", //
     "node": "SJromvHwIe"
   },
   {
-    "guid": "cCYK6HibTp",
+    "guid": "cCYK6HibTp", // 旅行 96
     "node": "UMIJMK6KSN"
   },
   {
@@ -322,8 +323,12 @@
     "node": "uM65Z1zqWR"
   },
   {
-    "guid": "m25FwXu6kO",
+    "guid": "m25FwXu6kO", // 旅行 94
     "node": "3PnrLNCFyL"
+  },
+  {
+    "guid": "vNHpOUC5jM", // 旅行 142
+    "node": "KTbKZmjSIx"
   },
   // Greeting Shaman
   {
@@ -335,11 +340,11 @@
     "node": "WXTXoDXIct"
   },
   {
-    "guid": "h_IeIebgIv",
+    "guid": "h_IeIebgIv", // 旅行 91
     "node": "YVFk7GK-1S"
   },
   {
-    "guid": "iznzX-F_eT",
+    "guid": "iznzX-F_eT", // 旅行 153
     "node": "Fxq3bK7lhC"
   },
   // #endregion
@@ -358,11 +363,11 @@
     "node": "pkfttmeuJ9"
   },
   {
-    "guid": "nk8pRkgqr_",
+    "guid": "nk8pRkgqr_", // 旅行 92
     "node": "7tpH4Bmsyo"
   },
   {
-    "guid": "6YXj1foDCG",
+    "guid": "6YXj1foDCG", // 旅行 156
     "node": "Sr8FjyT0GC"
   },
   // Doublefive Light Catcher
@@ -383,7 +388,7 @@
     "node": "JCJhN7Y1vu"
   },
   {
-    "guid": "0ZCwFWIvbw",
+    "guid": "0ZCwFWIvbw", // 旅行 93
     "node": "5DYU10mMcx"
   },
   // Laidback Pioneer
@@ -400,17 +405,20 @@
     "node": "r6_Sg6lb6X"
   },
   {
-    "guid": "pYPMMB_Dq3",
+    "guid": "pYPMMB_Dq3", // 旅行 98
     "node": "7ng19Cq_Jj"
   },
-  { "guid": "AnFlriIA1l", "node": "joPE_k2pDQ" },
+  { 
+    "guid": "AnFlriIA1l", // 旅行 159
+    "node": "joPE_k2pDQ" 
+  },
   // #region Twirling Champion
   {
-    "guid": "9lQ4T3H65f",
+    "guid": "9lQ4T3H65f", //
     "node": "-4dScFEOsV"
   },
   {
-    "guid": "XQQUcPvto0",
+    "guid": "XQQUcPvto0", //
     "node": "Lgm2kGtzkB"
   },
   {
@@ -436,7 +444,7 @@
     "node": "XgGAf1kIql"
   },
   {
-    "guid": "Iej9LFKqlb",
+    "guid": "Iej9LFKqlb", //
     "node": "CQcGqx0roE"
   },
   {
@@ -453,11 +461,11 @@
     "node": "DZtoOUD1tE"
   },
   {
-    "guid": "7EPxUJB5ja",
+    "guid": "7EPxUJB5ja", //
     "node": "Y7EBUe-rds"
   },
   {
-    "guid": "AC6EM0_rns",
+    "guid": "AC6EM0_rns", // 旅行 131
     "node": "HcCUgEkLw-"
   },
   // #endregion
@@ -476,8 +484,12 @@
     "node": "stzDGiVyGD"
   },
   {
-    "guid": "E-bago9mnB",
+    "guid": "E-bago9mnB", // 旅行 79
     "node": "KWt_WL1nmk"
+  },
+  {
+    "guid": "R5m3155fnb", // 旅行 120
+    "node": "3f6Hmrs6gM"
   },
   // Boogie Kid
   {
@@ -489,14 +501,17 @@
     "node": "SQxZV2Yocu"
   },
   {
-    "guid": "uroAaSXx6d",
+    "guid": "uroAaSXx6d", //
     "node": "tPH54zQyph"
   },
   {
-    "guid": "2opAUtbkkR",
+    "guid": "2opAUtbkkR", // 旅行 86
     "node": "jfUwNEL-ns"
   },
-  { "guid": "SKqwmahcxz", "node": "4vQMQtPIuP" },
+  { 
+    "guid": "SKqwmahcxz", // 旅行 118
+    "node": "4vQMQtPIuP" 
+  },
   // Sparkler Parent
   {
     "guid": "sM-gGfmBb9", //
@@ -507,11 +522,11 @@
     "node": "hIyG0l1eEi"
   },
   {
-    "guid": "wgGPcd5dFh",
+    "guid": "wgGPcd5dFh", //
     "node": "Hmi8rqYN8v"
   },
   {
-    "guid": "dx5nJDfwbs",
+    "guid": "dx5nJDfwbs", // 旅行 132
     "node": "iWWVxqNfsG"
   },
   {
@@ -533,12 +548,16 @@
     "node": "V5LN7cxwlO"
   },
   {
-    "guid": "qopMx3CQmv",
+    "guid": "qopMx3CQmv", //
     "node": "pgvISTDu9j"
   },
   {
-    "guid": "BrQr2cRMRk",
+    "guid": "BrQr2cRMRk", //
     "node": "sJunlR7aN7"
+  },
+  {
+    "guid": "azR_grRD10", // 旅行 148
+    "node": "wTePGjIElY"
   },
   // #region Pleaful Parent
   {
@@ -554,7 +573,7 @@
     "node": "4pXD5-dfkC"
   },
   {
-    "guid": "etKP-Cgstm",
+    "guid": "etKP-Cgstm", // 旅行 88
     "node": "tWum6AhN4V"
   },
   {
@@ -572,12 +591,16 @@
     "node": "XVJ8WZ7uLV"
   },
   {
-    "guid": "S2bnFEoHfA",
+    "guid": "S2bnFEoHfA", //
     "node": "_AaLjqBGlE"
   },
   {
-    "guid": "ZQB0qtYaJu",
+    "guid": "ZQB0qtYaJu", // 旅行 89
     "node": "knRWbcHjfg"
+  },
+  {
+    "guid": "7dqwq2o91E", // 旅行 123
+    "node": "k_MXWndMUK"
   },
   // #endregion
   // #region Rhythm
@@ -591,7 +614,7 @@
     "node": "tqreJYg8Ki"
   },
   {
-    "guid": "Nsu1l8VRE1",
+    "guid": "Nsu1l8VRE1", //
     "node": "Hr6ZlBxtI3"
   },
   {
@@ -601,36 +624,40 @@
   { "guid": "WHqjF6F7V4", "node": "PU_A3V3LeT" },
   // Festival Spin Dancer
   {
-    "guid": "61W5eVdFni",
+    "guid": "61W5eVdFni", //
     "node": "QsIyX1p15K"
   },
   {
-    "guid": "DojWg5mEe6",
+    "guid": "DojWg5mEe6", //
     "node": "o5oqumztZA"
   },
   {
-    "guid": "TJkfnu_b2k",
+    "guid": "TJkfnu_b2k", // 旅行 80
     "node": "6gh0YkF_aO"
   },
   {
-    "guid": "s_jd23dgts",
+    "guid": "s_jd23dgts", // 旅行 122
     "node": "00SVPQ4X2a"
+  },
+  {
+    "guid": "wvxYEB5bOD", // 旅行 169
+    "node": "OSohq_-xZx"
   },
   // Admiring Actor
   {
-    "guid": "4biI_rOvS2",
+    "guid": "4biI_rOvS2", //
     "node": "mnR3OjpKYr"
   },
   {
-    "guid": "5Z618XQ2aq",
+    "guid": "5Z618XQ2aq", //
     "node": "74IGh9F_Kc"
   },
   {
-    "guid": "D4sQ9EBRXx",
+    "guid": "D4sQ9EBRXx", //
     "node": "0lmwIR1mFV"
   },
   {
-    "guid": "4irRoUtak2",
+    "guid": "4irRoUtak2", // 旅行 130
     "node": "8KWiZVp4dY"
   },
   // TS 150
@@ -648,11 +675,11 @@
     "node": "VnUCuufhCC"
   },
   {
-    "guid": "AIEuoncebp",
+    "guid": "AIEuoncebp", //
     "node": "3PKNqvhxYH"
   },
   {
-    "guid": "9MRZQVLIT2",
+    "guid": "9MRZQVLIT2", // 旅行 102
     "node": "gXYiRrAJFc"
   },
   // Respectful Pianist
@@ -665,12 +692,11 @@
     "node": "Ap9SrZM1Jn"
   },
   {
-    "guid": "Z_9kLMM40B",
+    "guid": "Z_9kLMM40B", //
     "node": "LcfK6L-cii"
   },
-  //TS 152
   {
-    "guid": "pSd7bhut9N",
+    "guid": "pSd7bhut9N", // 旅行 149
     "node": "nxwar7btHn"
   },
   // Thoughtful Director
@@ -683,11 +709,11 @@
     "node": "iD4csgN6V5"
   },
   {
-    "guid": "z3G7ZlrrIb",
+    "guid": "z3G7ZlrrIb", // 旅行 78
     "node": "-oDoA-NFf6"
   },
   {
-    "guid": "GLaxu7pDA1",
+    "guid": "GLaxu7pDA1", // 旅行 150
     "node": "2BnbI8iGU9"
   },
   {
@@ -698,15 +724,15 @@
   // #region Enchantment
   // Nodding Muralist
   {
-    "guid": "zKvpYwiaFo",
+    "guid": "zKvpYwiaFo", //
     "node": "j1crjoTmuk"
   },
   {
-    "guid": "qr3oEgGfHz",
+    "guid": "qr3oEgGfHz", //
     "node": "7wRuXI3kxj"
   },
   {
-    "guid": "I0Gnoj9xMX",
+    "guid": "I0Gnoj9xMX", //
     "node": "FZ-is-F5e_"
   },
   {
@@ -723,11 +749,11 @@
     "node": "mMzIb74FLo"
   },
   {
-    "guid": "3o1XOorJ6U",
+    "guid": "3o1XOorJ6U", //
     "node": "JCfGhRIufT"
   },
   {
-    "guid": "nzUD7-NDgi",
+    "guid": "nzUD7-NDgi", // 旅行 107
     "node": "r8R5tQ541i"
   },
   // Crab Walker
@@ -749,153 +775,184 @@
   },
   // Scarecrow Farmer
   {
-    "guid": "jRTuid-Y21",
+    "guid": "jRTuid-Y21", //
     "node": "jztFaDx20s"
   },
   {
-    "guid": "oX97wBGbTq",
+    "guid": "oX97wBGbTq", //
     "node": "QlmUhxCBdD"
   },
   {
-    "guid": "8IXOg_fmSb",
+    "guid": "8IXOg_fmSb", // 旅行 76
     "node": "zH-3S-kC0a"
+  },
+  {
+    "guid": "_UBX2Q0Aam", //旅行 128
+    "node": "-GR3jq5k2n"
   },
   // Snoozing Carpenter
   {
-    "guid": "jJoNEIUqgP",
+    "guid": "jJoNEIUqgP", //
     "node": "YkM_tSjB34"
   },
   {
-    "guid": "vAzPwOoABz",
+    "guid": "vAzPwOoABz", //
     "node": "swYJ7bBjcp"
   },
   {
-    "guid": "0Wt55fphrK",
+    "guid": "0Wt55fphrK", // 旅行 82
     "node": "Z29y6osfM2"
   },
-  { "guid": "0hjYoCN6cF", "node": "X53WE7mTq1" }, // TS 160
+  { 
+    "guid": "0hjYoCN6cF", // 旅行 127
+    "node": "X53WE7mTq1" 
+    }, 
   // Playfighting Herbalist
   {
-    "guid": "LSFtagpL9R",
+    "guid": "LSFtagpL9R", //
     "node": "wsKSTuhwpG"
   },
   {
-    "guid": "vuRDSv8Neq",
+    "guid": "vuRDSv8Neq", //
     "node": "w5ho__6Czh"
   },
   {
-    "guid": "gbkO6R_C7y",
+    "guid": "gbkO6R_C7y", //
     "node": "0aJS2jaNl6"
+  },
+  {
+    "guid": "Z-vVp_2Oq_", // 旅行 101
+    "node": "dhw7jbYTYM"
+  },
+  {
+    "guid": "727BYbqft4", // 旅行 137
+    "node": "_hmvpzxwqX"
   },
   // #endregion
   // #region Sanctuary
   // Jelly Whisperer
   {
-    "guid": "GVghUxleba",
+    "guid": "GVghUxleba", //
     "node": "Rl_priwPb9"
   },
   {
-    "guid": "NuBYBnu8jU",
+    "guid": "NuBYBnu8jU", //
     "node": "5Of6SeZovV"
   },
   {
-    "guid": "x_MqhIuCM-",
+    "guid": "x_MqhIuCM-", //
     "node": "QbqMOqFumJ"
   },
-  { "guid": "VutDMWpP2c", "node": "w7CRsUfPxg" },
+  { 
+    "guid": "VutDMWpP2c", // ,旅行 124
+    "node": "w7CRsUfPxg" 
+  },
   // Timid Bookworm
   {
-    "guid": "rMbkkmBZQM",
+    "guid": "rMbkkmBZQM", //
     "node": "B4rizR4xxx"
   },
   {
-    "guid": "C2NzE6XBs8",
+    "guid": "C2NzE6XBs8", //
     "node": "DO8c4nzYyI"
   },
   {
-    "guid": "zBx6Xvp_Mh",
+    "guid": "zBx6Xvp_Mh", // 旅行 81
     "node": "kgHeL_lWRC"
   },
   {
-    "guid": "c2qId2Ec6U",
+    "guid": "c2qId2Ec6U", // 旅行 125
     "node": "nG_CWxU4mH"
   },
   // Rallying Thrillseeker
   {
-    "guid": "MLnvMI_SQf",
+    "guid": "MLnvMI_SQf", //
     "node": "VoHSiNLHP4"
   },
   {
-    "guid": "YXL_-pLNs2",
+    "guid": "YXL_-pLNs2", //
     "node": "Km9Kt5vTXq"
   },
   {
-    "guid": "99d9-5srLE",
+    "guid": "99d9-5srLE", // 旅行 108
     "node": "CSea5Yn312"
   },
   {
-    "guid": "wqnGcrwZiT",
+    "guid": "wqnGcrwZiT", // 旅行 136
     "node": "ExFZpa76mA"
   },
   // Hiking Grouch
   {
-    "guid": "NGPhozyesb",
+    "guid": "NGPhozyesb", //
     "node": "_n42ZUm0ev"
   },
   {
-    "guid": "oe3uZn1UeY",
+    "guid": "oe3uZn1UeY", //
     "node": "cYKWaAJnb2"
   },
   {
-    "guid": "9em8s0MS9A",
+    "guid": "9em8s0MS9A", // 旅行 95
     "node": "2kNPgPfrtO"
   },
-  { "guid": "BZx-rUl2r1", "node": "Sg65i5nrDJ" }, //TS 161
+  { 
+    "guid": "BZx-rUl2r1", //旅行 164
+    "node": "Sg65i5nrDJ" 
+    },
   // Grateful Shell Collector
   {
-    "guid": "a0T7_evTz6",
+    "guid": "a0T7_evTz6", //
     "node": "1fmBVbUjab"
   },
   {
-    "guid": "qlsUydVjy3",
+    "guid": "qlsUydVjy3", //
     "node": "cg3bQs-LUF"
   },
   {
-    "guid": "NN4Yssst47",
+    "guid": "NN4Yssst47", //
     "node": "JjqPlnSCp4"
   },
-  { "guid": "sO_TVa87e9", "node": "fWYVClvfQJ" },
+  { 
+    "guid": "sO_TVa87e9", // 旅行 110
+    "node": "fWYVClvfQJ" 
+  },
+  {
+    "guid": "_SrX-PbXzg", // 旅行 160
+    "node": "UODVmN6Wsk"
+  },
   // Chill Sunbather
   {
-    "guid": "MwCPwxfL0B",
+    "guid": "MwCPwxfL0B", //
     "node": "-_0EoMUmXu"
   },
   {
-    "guid": "x41Mbv166z",
+    "guid": "x41Mbv166z", //
     "node": "OQ4LkbbPmX"
   },
   {
-    "guid": "ASZU6Mr9wM",
+    "guid": "ASZU6Mr9wM", // 旅行 77
     "node": "DQozlc3Eo4"
   },
-  { "guid": "C6a4gM-MjO", "node": "Y-lPSb9nuG" },
+  { 
+    "guid": "C6a4gM-MjO", // 旅行 114
+    "node": "Y-lPSb9nuG" 
+  },
   // #endregion
   // #region Prophecy
   // #region Prophet of Water
   {
-    "guid": "NZRfrbFo5E",
+    "guid": "NZRfrbFo5E", //
     "node": "6GpHoGx5-0"
   },
   {
-    "guid": "NgyO7nqVwS",
+    "guid": "NgyO7nqVwS", //
     "node": "OXaaqS6Q89"
   },
   {
-    "guid": "aW1PjCF1-b",
+    "guid": "aW1PjCF1-b", // 旅行 85
     "node": "v3mmy9-76J"
   },
   {
-    "guid": "6vAMrTPmU-",
+    "guid": "6vAMrTPmU-", // 旅行 140
     "node": "9GhluZ7XjZ"
   },
   {
@@ -905,15 +962,15 @@
   // #endregion
   // Prophet of Earth
   {
-    "guid": "26RNODjYdR",
+    "guid": "26RNODjYdR", //
     "node": "HI3hEkeep2"
   },
   {
-    "guid": "XWtTNBu8Oc",
+    "guid": "XWtTNBu8Oc", //
     "node": "OPq_xJifA9"
   },
   {
-    "guid": "5IfMzJYMAs",
+    "guid": "5IfMzJYMAs", // 旅行 143
     "node": "NkHq0TPo1n"
   },
   {
@@ -923,15 +980,15 @@
   { "guid": "-lshQtF-0t", "node": "y3eJJ6CsFn" },
   // Prophet of Air
   {
-    "guid": "llk8KwqtQo",
+    "guid": "llk8KwqtQo", //
     "node": "eBz4SjTCbE"
   },
   {
-    "guid": "79Ttb2xGMp",
+    "guid": "79Ttb2xGMp", //
     "node": "HgEsD5Goxw"
   },
   {
-    "guid": "_l09Yw8HoO",
+    "guid": "_l09Yw8HoO", // 旅行 135
     "node": "5q6cX7B5Dv"
   },
   // TS #148
@@ -941,37 +998,34 @@
   },
   // Prophet of Fire
   {
-    "guid": "u0qm82zESx",
+    "guid": "u0qm82zESx", //
     "node": "joPtiDGThJ"
   },
-  // TS 50
   {
-    "guid": "uOI62Ag71R",
+    "guid": "uOI62Ag71R", // 旅行 57
     "node": "7ZxpZlwKJ3"
   },
-  // TS 93
   {
-    "guid": "Sl7Swpn1EU",
+    "guid": "Sl7Swpn1EU", // 旅行 100
     "node": "oX0jkbaHdf"
   },
-  // TS 154
   {
-    "guid": "Gb_GeDCrwH",
+    "guid": "Gb_GeDCrwH", // 旅行 146
     "node": "KQ2sUk-yjt"
   },
   // #endregion
   // #region Dreams
   // Bearhug Hermit
   {
-    "guid": "Dz7xSJMui2",
+    "guid": "Dz7xSJMui2", //
     "node": "ZCa7gd50nR"
   },
   {
-    "guid": "XDrtg4QXU9",
+    "guid": "XDrtg4QXU9", //
     "node": "o64LV_PfVs"
   },
   {
-    "guid": "hQi54Pqru3",
+    "guid": "hQi54Pqru3", // 旅行 116
     "node": "IRu0px7jxG"
   },
   // SV 11
@@ -981,53 +1035,56 @@
   },
   // Dancing Performer
   {
-    "guid": "zUy1Dlkzbl",
+    "guid": "zUy1Dlkzbl", //
     "node": "6i1ljkdw6g"
   },
   {
-    "guid": "QF6kJr3Yxk",
+    "guid": "QF6kJr3Yxk", // 旅行 112
     "node": "4ajXwV62Gv"
   },
   // Peeking Postman
   {
-    "guid": "sxbsSa-E47",
+    "guid": "sxbsSa-E47", //
     "node": "rcw4aWBVCb"
   },
   {
-    "guid": "aMvUAm6DsJ",
+    "guid": "aMvUAm6DsJ", //
     "node": "_fxwGV2qpQ"
   },
-  // SV 11
   {
-    "guid": "gqf9paZVEy",
+    "guid": "gqf9paZVEy", // 旅行 111
     "node": "rfwstakJR_"
+  },
+  {
+    "guid": "UxscXU0YeY", // 旅行 167
+    "node": "-33sRU-_yk"
   },
   // Spinning Mentor
   {
-    "guid": "duRfvp3IvK",
+    "guid": "duRfvp3IvK", //
     "node": "3OmVOrRC43"
   },
   {
-    "guid": "hkmtCkwn9U",
+    "guid": "hkmtCkwn9U", //
     "node": "F2z8PZwU61"
   },
   {
-    "guid": "jiRF75_lQ4",
+    "guid": "jiRF75_lQ4", // 旅行 105
     "node": "nrOckEzeMt"
   },
   {
-    "guid": "W8mNdI-x9t",
+    "guid": "W8mNdI-x9t", // 旅行 151
     "node": "zpqF-1IDbv"
   },
   // #endregion
   // #region Assembly
   // #region Baffled Botanist
   {
-    "guid": "u-NLeQNopc",
+    "guid": "u-NLeQNopc", //
     "node": "ANlyLKl8ho"
   },
   {
-    "guid": "5fHIIjUjsS",
+    "guid": "5fHIIjUjsS", // 旅行 145
     "node": "A4mNW2Sf8E"
   },
   {
@@ -1042,27 +1099,31 @@
   // #endregion
   // #region Scolding Student
   {
-    "guid": "tJ92dz1ans",
+    "guid": "tJ92dz1ans", //
     "node": "xEpQNLe0ur"
   },
   {
-    "guid": "JCRJfVL3CR",
+    "guid": "JCRJfVL3CR", // 旅行 97
     "node": "iDh_8vdUb5"
   },
   {
-    "guid": "LWPha7NsBb",
+    "guid": "LWPha7NsBb", // 旅行 166
     "node": "3dJMguXWJV"
   },
   { "guid": "5W0EyIvjwK", "node": "Ig6dQGp7ll" }, // SV 12
   // #endregion
   // Scaredy Cadet
   {
-    "guid": "BTXu36Anhy",
+    "guid": "BTXu36Anhy", //
     "node": "15h4Sx9Xjj"
   },
   {
-    "guid": "Yy0m8oXKyK",
+    "guid": "Yy0m8oXKyK", // 旅行 84
     "node": "I-40Dn5_LO"
+  },
+  {
+    "guid": "SkR-uehcjb", // 旅行 144
+    "node": "Nl1O-OFJ-E"
   },
   //TS 147
   {
@@ -1072,14 +1133,17 @@
   { "guid": "AV5iA4CpX8", "node": "sdUh2zVo9-" }, // SV 12
   // Marching Adventurer
   {
-    "guid": "MaqbAvyQQ8",
+    "guid": "MaqbAvyQQ8", //
     "node": "x1a7G7bveD"
   },
   {
-    "guid": "fHPe43oCch",
+    "guid": "fHPe43oCch", //
     "node": "ZQOPWn4zx8"
   },
-  { "guid": "9EwfRwkT1c", "node": "JvVtiSaIRp" },
+  { 
+    "guid": "9EwfRwkT1c", // 旅行 161
+    "node": "JvVtiSaIRp" 
+  },
   { "guid": "iPF1nRScD0", "node": "kUri2mFw0I" }, // SV 12
   // Chuckling Scout
   {
@@ -1094,81 +1158,90 @@
   { "guid": "-YtGR0BNa2", "node": "J-bl2zx3RV" }, // SV 12
   // Daydream Forester
   {
-    "guid": "oeVXh5azl3",
+    "guid": "oeVXh5azl3", //
     "node": "rPiu3Qdyxw"
   },
   {
-    "guid": "FnSlorCsvc",
+    "guid": "FnSlorCsvc", // 旅行 83
     "node": "MV2_-tldoA"
   },
   {
-    "guid": "a6FTQcRt6B",
+    "guid": "a6FTQcRt6B", // 旅行 106
     "node": "G1PAMlEgRR"
   },
-  { "guid": "-gdOXDH9z7", "node": "0vZERa0V2K" }, // SV 12
+  { 
+    "guid": "-gdOXDH9z7", // 旅行 155
+    "node": "0vZERa0V2K" 
+  },
   // #endregion
   // #region The Little Prince
   // Beckoning Ruler
   {
-    "guid": "GpFO-QB9kn",
+    "guid": "GpFO-QB9kn", // 
     "node": "WVTukTL1td"
   },
   {
-    "guid": "ooYxMwO4D_",
+    "guid": "ooYxMwO4D_", // 旅行 103
     "node": "CyW-WrLl5B"
   },
   {
-    "guid": "kMsKGeLn9s",
+    "guid": "kMsKGeLn9s", // 旅行 139
     "node": "6Me1WwYg0z"
   },
   { "guid": "EPZCRK3sdj", "node": "uLp-gR9OFE" },
   // Gloating Narcissist
   {
-    "guid": "G8NMsyrbeV",
+    "guid": "G8NMsyrbeV", //
     "node": "xT68D-1o-1"
   },
   {
-    "guid": "H-X89atUtF",
+    "guid": "H-X89atUtF", // 旅行 87
     "node": "fDGRn9D-OD"
   },
-  { "guid": "XsCuRcSlFc", "node": "YPcZayndoS" },
+  { 
+    "guid": "XsCuRcSlFc", // 旅行 134
+    "node": "YPcZayndoS" 
+  },
   // Stretching Lamplighter
   {
-    "guid": "tGROdiGKVT",
+    "guid": "tGROdiGKVT", //
     "node": "5jVf4BFkJD"
   },
   {
-    "guid": "geim4ZVuWs",
+    "guid": "geim4ZVuWs", // 旅行 90
     "node": "ZsY4l_KlfH"
   },
-  { "guid": "f-Ue1uKwCl", "node": "iFdxIcnTB1" },
+  { 
+    "guid": "f-Ue1uKwCl", // 旅行 133
+    "node": "iFdxIcnTB1" 
+  },
   // Slouching Soldier
   {
-    "guid": "evynWpUlaz",
+    "guid": "evynWpUlaz", //
     "node": "yyUs-AZ_f8"
   },
   {
-    "guid": "VmZAJo0AL6",
+    "guid": "VmZAJo0AL6", // 旅行 115
     "node": "mIKBqWIbmY"
   },
   { "guid": "DfR5p-yKK7", "node": "IoZSL8GJdT" },
   // Sneezing Geographer
   {
-    "guid": "eY5I6thUk8",
+    "guid": "eY5I6thUk8", //
     "node": "u3evPD761Y"
   },
   {
-    "guid": "J88QMttiSo",
+    "guid": "J88QMttiSo", // 旅行 109
     "node": "_IUGMgplcR"
   },
   { "guid": "MzvfLK3_Cz", "node": "WRgu2DAh5w" },
   // Star Collector
   {
-    "guid": "Ikiuyl-Nm1",
+    "guid": "Ikiuyl-Nm1", //
     "node": "9ADrzfFPhx"
   },
   {
-    "guid": "0KL8ohbC4V",
+    "guid": "0KL8ohbC4V", // 旅行 104
     "node": "_Jou88z740"
   },
   { "guid": "49jQ4S13XR", "node": "QcAl6Ibw1T" },
@@ -1176,58 +1249,65 @@
   // #region Flight
   // Lively Navigator
   {
-    "guid": "8XT3GDeonb",
+    "guid": "8XT3GDeonb", //
     "node": "C04G6KylaW"
   },
   {
-    "guid": "hUotcSKXmu",
+    "guid": "hUotcSKXmu", // 旅行 121
     "node": "GIrL3sC7qC"
   },
   {
-    "guid": "H4P1PDRMQa",
+    "guid": "H4P1PDRMQa", // 旅行 162
     "node": "FRhBcTNbYT"
   },
   // Light Whisperer
   {
-    "guid": "DHbvqLtLCU",
+    "guid": "DHbvqLtLCU", //
     "node": "zI5GRFCBhX"
   },
   {
-    "guid": "shrYC9Vd3i",
+    "guid": "shrYC9Vd3i", // 旅行 129
     "node": "MGUE9PoBTC"
+  },
+  {
+    "guid": "V2Fx3f2FOj", // 旅行 170
+    "node": "pa4foQrY30"
   },
   // Tinkering Chimesmith
   {
-    "guid": "66idlQe3mK",
+    "guid": "66idlQe3mK", //
     "node": "wcUvdoaglf"
   },
   {
-    "guid": "rPT8vTD06j",
+    "guid": "rPT8vTD06j", // 旅行 113
     "node": "lvTfufFX7Q"
   },
-  // TS 146
   {
-    "guid": "CEzPLl5Qq2",
+    "guid": "CEzPLl5Qq2", // 旅行 147
     "node": "hdn9q9Iv4g"
   },
   // Talented Builder
   {
-    "guid": "4Zj4C2RUj1",
+    "guid": "4Zj4C2RUj1", //
     "node": "et9DvsI31i"
   },
   {
-    "guid": "VvzWtE5G3g",
+    "guid": "VvzWtE5G3g", // 旅行 119
     "node": "GLJrehEjLo"
+  },
+  {
+    "guid": "y3kH55G1Ai", // 旅行 163
+    "node": "WambBT-hvx"
   },
   // #endregion
   // #region Abyss
   // Anxious Angler
   {
-    "guid": "M-25cEcvw-",
+    "guid": "M-25cEcvw-", //
     "node": "WLTEZBaXZ6"
   },
   {
-    "guid": "NdB6VF6E1G",
+    "guid": "NdB6VF6E1G", // 旅行 138
     "node": "w7O7kFaQ4l"
   },
   { "guid": "R2WmeZDMqd", "node": "WsJjGE_da0" },
@@ -1243,21 +1323,21 @@
   { "guid": "bO7uzxfm9E", "node": "hIGQWmuIvv" }, //TS 162
   // Bumbling Boatswain
   {
-    "guid": "oNXi897gvR",
+    "guid": "oNXi897gvR", //
     "node": "8rargE3UTh"
   },
   {
-    "guid": "MW9CCZ_Kb4",
+    "guid": "MW9CCZ_Kb4", // 旅行 158
     "node": "Q5-a10kPfB"
   },
   { "guid": "eodAzj6E3z", "node": "pVBm48V0So" },
   // Cackling Cannoneer
   {
-    "guid": "ag2kvsRKRN",
+    "guid": "ag2kvsRKRN", //
     "node": "lNBxGQzzj6"
   },
   {
-    "guid": "-dB5Tod28p",
+    "guid": "-dB5Tod28p", // 旅行 168
     "node": "tqaWjBRyj4"
   },
   // TS 153
@@ -1283,20 +1363,20 @@
   },
   // Forgetful Storyteller
   {
-    "guid": "UEf6UQn_yl",
+    "guid": "UEf6UQn_yl", //
     "node": "DAX89eU3v8"
   },
   {
-    "guid": "9uqDB_wSlb",
+    "guid": "9uqDB_wSlb", // 旅行 152
     "node": "KDYc9oxiCw"
   },
   // Mellow Musician
   {
-    "guid": "18DZaVJ0JB",
+    "guid": "18DZaVJ0JB", //
     "node": "iNZGYBUTH6"
   },
   {
-    "guid": "e6_iEz7I4N",
+    "guid": "e6_iEz7I4N", // 旅行 141
     "node": "yQlOeNoT-7"
   },
   // SV 11
@@ -1371,11 +1451,11 @@
   { "guid": "s_XB6-sfnp", "node": "kUOCWi4zBD" },
   // Warrior of Love
   {
-    "guid": "mfj2dmg6Dd",
+    "guid": "mfj2dmg6Dd", //
     "node": "Zrb2hCvgkb"
   },
   {
-    "guid": "2kqCmbrCug",
+    "guid": "2kqCmbrCug", // 旅行 154
     "node": "qSaF_V_XGE"
   },
   { "guid": "qHdFiOJvXx", "node": "zdYZogArmw" },
@@ -1430,10 +1510,13 @@
   },
   // Tumbling Troublemaker
   {
-    "guid": "6QPtn4qXTG",
+    "guid": "6QPtn4qXTG", //
     "node": "R1hBDJIu16"
   },
-  { "guid": "ebxbORzHUg", "node": "3b5NwFfmkd" },
+  { 
+    "guid": "ebxbORzHUg", // 旅行 165
+    "node": "3b5NwFfmkd" 
+  },
   // Melancholy Mope
   {
     "guid": "bZU_1hDxB9",
