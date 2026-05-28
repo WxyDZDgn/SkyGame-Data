@@ -134,6 +134,16 @@
   { "guid": "z4ZZzvzPGZ", "item": "dkLuIrNJyl", "c": 35 },
   { "guid": "pW6LUw--PO", "item": "5Z5JqDkAtl", "c": 70 },
   { "guid": "-djuOIop8j", "item": "t3hOiGsS79", "c": 75 },
+  // 旅行 189
+  { "guid": "iINabSMIYx", "item": "Jgp0s63dVZ", "n": "3z2hyz1XNt" },
+  { "guid": "3z2hyz1XNt", "item": "DquDtwH3Jy", "c": 5, "nw": "J3kFshQXKu", "n": "6G-dW8-zxN", "ne": "TCMFLXag7G" },
+  { "guid": "J3kFshQXKu", "item": "ARYCvmatxR", "c": 45 },
+  { "guid": "TCMFLXag7G", "item": "aoeuPfrcxy", "c": 3 },
+  { "guid": "6G-dW8-zxN", "item": "3yhb7QqakI", "ac": 2, "n": "23eyh1lmPn" },
+  { "guid": "23eyh1lmPn", "item": "S4y9T9zWU1", "c": 5, "nw": "h2VYMOHq9p", "n": "ChH_xuq16B", "ne": "RbXdwNpttP" },
+  { "guid": "h2VYMOHq9p", "item": "dkLuIrNJyl", "c": 35 },
+  { "guid": "RbXdwNpttP", "item": "5Z5JqDkAtl", "c": 70 },
+  { "guid": "ChH_xuq16B", "item": "t3hOiGsS79", "c": 75 },
   // #endregion
   // #region Talented Builder
   { "guid": "et9DvsI31i", "item": "b_qHNPnLGc", "nw": "B4KRSbRDO7", "n": "GF20e2yheu" },
