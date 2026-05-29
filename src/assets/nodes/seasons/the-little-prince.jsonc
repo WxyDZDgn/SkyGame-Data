@@ -67,7 +67,7 @@
   { "guid": "YUUlJ93jkp", "item": "-4aZ5Mq9aw", "h": 6 },
   { "guid": "ygIcUixH6_", "item": "kVPk2WIqVT", "c": 5, "n": "KIqUq9BGxY" },
   { "guid": "KIqUq9BGxY", "item": "k0po-n3Zem", "c": 48 },
-  // SV 8
+  // 集体 8
   { "guid": "uLp-gR9OFE", "item": "1YJ13EOwIQ", "nw": "QNq7_fuqJ-", "n": "45x2_Is3-A", "ne": "T7MsXooygn" },
   { "guid": "QNq7_fuqJ-", "item": "_ws5QlV4Tp", "h": 4 },
   { "guid": "T7MsXooygn", "item": "SmhmMgfVv_", "c": 3 },
@@ -115,6 +115,18 @@
   { "guid": "I6sDKHMbwH", "item": "g-tnZqaKbi", "h": 6 },
   { "guid": "Rjoo4AOdEr", "item": "VLGb7wljbi", "c": 5, "n": "esi_f2ChA7" },
   { "guid": "esi_f2ChA7", "item": "O6DreyTJS7", "c": 65 },
+  // 集体 8
+  { "guid": "02cncGwc6i", "item": "qcsiXdqfGT", "nw": "FA-8H6Xo0G", "n": "C37vkzBIK1", "ne": "py9FRkpSDY" },
+  { "guid": "FA-8H6Xo0G", "item": "SNhn8BVb7a", "h": 4 },
+  { "guid": "py9FRkpSDY", "item": "7Gw70uLjM6", "c": 3 },
+  { "guid": "C37vkzBIK1", "item": "NWaw3Mjl-W", "c": 5, "nw": "5PnqN3j1JH", "n": "kIxjTf_s83", "ne": "Px2Xshr9iO" },
+  { "guid": "5PnqN3j1JH", "item": "IlbDThInaP", "c": 15 },
+  { "guid": "Px2Xshr9iO", "item": "8PpkvJHDLx", "c": 46 },
+  { "guid": "kIxjTf_s83", "item": "4VUhcjR1wd", "ac": 2, "n": "ZT4dEp1Bk4" },
+  { "guid": "ZT4dEp1Bk4", "item": "XhRW44vwiq", "h": 3, "nw": "KD1Kb2jI71", "n": "ATYNCM__E7" },
+  { "guid": "KD1Kb2jI71", "item": "g-tnZqaKbi", "h": 6 },
+  { "guid": "ATYNCM__E7", "item": "VLGb7wljbi", "c": 5, "n": "wB08ThvJcE" },
+  { "guid": "wB08ThvJcE", "item": "O6DreyTJS7", "c": 65 },
   // #endregion
   // #region Stretching Lamplighter
   { "guid": "5jVf4BFkJD", "item": "UhtkKIM3ol", "nw": "rFgkUWkPfJ", "n": "IYbov3OnvT" },
@@ -148,6 +160,17 @@
   { "guid": "zWbPtg2DV1", "item": "e-yLNwofBb", "h": 6 },
   { "guid": "3o48oH9215", "item": "GwDxjRK6RF", "c": 5, "n": "lo5fIMsGZV" },
   { "guid": "lo5fIMsGZV", "item": "eCR2_3ev_B", "c": 70 },
+  // 集体 8
+  { "guid": "_8etad3GSl", "item": "UhtkKIM3ol", "nw": "n1v5rGI1oo", "n": "dxRrhivABP", "ne": "bIyZFwva0o" },
+  { "guid": "n1v5rGI1oo", "item": "NwYn4D2Gag", "h": 4 },
+  { "guid": "bIyZFwva0o", "item": "hT99QC2c5y", "c": 3 },
+  { "guid": "dxRrhivABP", "item": "-qrTFboAdP", "c": 5, "nw": "I5O26Cyk8K", "n": "FY0NlMhdri" },
+  { "guid": "I5O26Cyk8K", "item": "SkVA_XphTc", "c": 44 },
+  { "guid": "FY0NlMhdri", "item": "lRVAad1pdf", "ac": 2, "n": "9N9qXOsWZ1" },
+  { "guid": "9N9qXOsWZ1", "item": "0f_f0iJMqN", "h": 3, "nw": "r27XctJka3", "n": "sQ5MXhyx8v" },
+  { "guid": "r27XctJka3", "item": "e-yLNwofBb", "h": 6 },
+  { "guid": "sQ5MXhyx8v", "item": "GwDxjRK6RF", "c": 5, "n": "T1qsw_oS4N" },
+  { "guid": "T1qsw_oS4N", "item": "eCR2_3ev_B", "c": 70 },
   // #endregion
   // Slouching Soldier
   { "guid": "yyUs-AZ_f8", "item": "5J5FDssiU9", "nw": "-D8wXHf77a", "n": "TDEVA4frhh" },
@@ -172,7 +195,7 @@
   { "guid": "zP-uQ7n-Os", "item": "OpLAmdRCNM", "h": 6 },
   { "guid": "0UmGHw9U3z", "item": "JaMg67fVTx", "c": 5, "n": "SLEOpCNCPt" },
   { "guid": "SLEOpCNCPt", "item": "CeSrlEJgtF", "c": 70 },
-  // SV 8
+  // 集体 8
   { "guid": "IoZSL8GJdT", "item": "5J5FDssiU9", "nw": "Ttq3vbTVwn", "n": "qIWkntZPla", "ne": "UDZIogB4pU" },
   { "guid": "Ttq3vbTVwn", "item": "Gx5YAc7jLr", "h": 4 },
   { "guid": "UDZIogB4pU", "item": "_fp_Ppz4Ks", "c": 3 },
@@ -204,7 +227,7 @@
   { "guid": "8ySHqa0sTy", "item": "kGaI-255J9", "h": 6 },
   { "guid": "E5XyxRwnZ0", "item": "bWbr8CFnQy", "c": 5, "n": "VRmZrKhNSy" },
   { "guid": "VRmZrKhNSy", "item": "asWC0_56LS", "c": 70 },
-  // SV 8
+  // 集体 8
   { "guid": "WRgu2DAh5w", "item": "zgI2lfTGvf", "nw": "HYq4Xo_QzI", "n": "mUIpWHqCXu", "ne": "plvJ4YbpRw" },
   { "guid": "HYq4Xo_QzI", "item": "muRzuaFzwA", "h": 4 },
   { "guid": "mUIpWHqCXu", "item": "WWW05wPhax", "c": 5, "nw": "YXQmNwf1Fa", "n": "vz5bk-hHEt" },
@@ -239,7 +262,7 @@
   { "guid": "ic3jZlQMa4", "item": "BUc00xon-T", "c": 5, "h": null, "nw": "tI_cI9reE_", "n": "DhmwGrx3oo" },
   { "guid": "tI_cI9reE_", "item": "Yv8nA1qNwO", "c": 75, "h": null },
   { "guid": "DhmwGrx3oo", "item": "ER8iz-GQjz", "c": 70 },
-  // SV 8
+  // 集体 8
   { "guid": "QcAl6Ibw1T", "item": "drH3NXwa4B", "nw": "KS1zaz5AS1", "n": "2zc3y5jjfs", "ne": "VSVKC8YeQi" },
   { "guid": "KS1zaz5AS1", "item": "kNbIj8-u0w", "h": 4 },
   { "guid": "VSVKC8YeQi", "item": "nn7KvR3hzq", "c": 3 },

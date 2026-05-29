@@ -72,6 +72,17 @@
   { "guid": "0M_l6cQSrW", "item": "sbkNjwrgIc", "h": 6 },
   { "guid": "SFYjN4kDyC", "item": "hAnvfbKn_u", "c": 5, "n": "QUcB4hxfNe" },
   { "guid": "QUcB4hxfNe", "item": "0HHq0_mt50", "c": 34 },
+  // 集体 5
+  { "guid": "SmIEJ6HJpT", "item": "WhcCC138s8", "nw": "j4U-6a_kbk", "n": "yqpUHXM_KH" },
+  { "guid": "j4U-6a_kbk", "item": "D72h3-WjJD", "h": 4 },
+  { "guid": "yqpUHXM_KH", "item": "H1vYsFTrFX", "c": 5, "nw": "DBElE-eWGG", "n": "Ij7qagvk7n", "ne": "FA3jCz1Qmk" },
+  { "guid": "DBElE-eWGG", "item": "GyXhQOu4fZ", "c": 30 },
+  { "guid": "FA3jCz1Qmk", "item": "V-zZ-UK9VJ", "c": 3 },
+  { "guid": "Ij7qagvk7n", "item": "9Epic8uUqZ", "ac": 2, "n": "9PIoae6qeb" },
+  { "guid": "9PIoae6qeb", "item": "rYq-RTnkiN", "h": 3, "nw": "giwQ1DLusC", "n": "IvvtVX-9Tr" },
+  { "guid": "giwQ1DLusC", "item": "sbkNjwrgIc", "h": 6 },
+  { "guid": "IvvtVX-9Tr", "item": "hAnvfbKn_u", "c": 5, "n": "3D0O42EePl" },
+  { "guid": "3D0O42EePl", "item": "0HHq0_mt50", "c": 34 },
   // #endregion
   // #region Indifferent Alchemist
   { "guid": "3r1FbFbCtb", "item": "gFaU0Zm95W", "nw": "YCGiFfVwSC", "n": "_9dyBPKw67" },
@@ -119,6 +130,18 @@
   { "guid": "3Sb5my-oqj", "item": "vbQP5KFpu1", "c": 5, "nw": "YmDyOSHV1G", "n": "oOrGmAupd3" },
   { "guid": "YmDyOSHV1G", "item": "ad7KAaSuU8", "c": 42 },
   { "guid": "oOrGmAupd3", "item": "ipSfkZ8Rql", "c": 70 },
+  // 集体 5
+  { "guid": "tA3m9MBH-b", "item": "gFaU0Zm95W", "nw": "l6f5Afvdsg", "n": "-ceW0GP4ot" },
+  { "guid": "l6f5Afvdsg", "item": "5bwnWkR0DG", "h": 4 },
+  { "guid": "-ceW0GP4ot", "item": "eTV8WChk9X", "c": 5, "nw": "h90PrROHtZ", "n": "AzTAL8V5S5", "ne": "00JrReeXzq" },
+  { "guid": "h90PrROHtZ", "item": "JR7mtV1Ukg", "c": 42 },
+  { "guid": "00JrReeXzq", "item": "bAcsvpqSwD", "c": 3 },
+  { "guid": "AzTAL8V5S5", "item": "YeiJvAzm58", "ac": 2, "n": "nHtTb-V19k" },
+  { "guid": "nHtTb-V19k", "item": "8qHEcZWhOt", "h": 3, "nw": "sCN5uJmJcq", "n": "hIXRLmA37c" },
+  { "guid": "sCN5uJmJcq", "item": "HD8j6J2ysy", "h": 6 },
+  { "guid": "hIXRLmA37c", "item": "vbQP5KFpu1", "c": 5, "nw": "vHeK5tYYik", "n": "X36qB_IC13" },
+  { "guid": "vHeK5tYYik", "item": "ad7KAaSuU8", "c": 42 },
+  { "guid": "X36qB_IC13", "item": "ipSfkZ8Rql", "c": 70 },
   // #endregion
   // Crab Walker
   { "guid": "P3b21yQSwC", "item": "4cZR63EJEP", "nw": "j_BbjuH4jC", "n": "9dv2rIFzKb" },

@@ -215,6 +215,19 @@
   { "guid": "w4z0dKSoSu", "item": "hGLEh1ula3", "c": 42 },
   { "guid": "Fr7cctA-hb", "item": "WbAIZr5KdV", "c": 5, "n": "isg74muNLz" },
   { "guid": "isg74muNLz", "item": "_5IHtakDvf", "c": 50 },
+  // 集体 4
+  { "guid": "tWqGxTjKEZ", "item": "_-Am5v5QWs", "nw": "KBOl4fc25J", "n": "9ofJhBG4GZ", "ne": "mTLf5ennML" },
+  { "guid": "KBOl4fc25J", "item": "91x-6KiNlb", "h": 4 },
+  { "guid": "mTLf5ennML", "item": "bBQVuucGUm", "h": 16 },
+  { "guid": "9ofJhBG4GZ", "item": "7C6gIvwkZa", "c": 5, "nw": "CcVNM1B3AJ", "n": "7UDr3p2BiI", "ne": "u6yXnmOyTt" },
+  { "guid": "CcVNM1B3AJ", "item": "GgNJdLqzxy", "c": 34 },
+  { "guid": "u6yXnmOyTt", "item": "EPaUByqgl2", "c": 3 },
+  { "guid": "7UDr3p2BiI", "item": "_HEZdAIAU1", "ac": 2, "n": "EogM0qRMzS" },
+  { "guid": "EogM0qRMzS", "item": "AjOxFBIEsi", "h": 3, "nw": "nKIezD-AIX", "n": "U9ZpBRlJGi", "ne": "FljzevAhYq" },
+  { "guid": "nKIezD-AIX", "item": "F9ZODZ6Qs8", "h": 6 },
+  { "guid": "FljzevAhYq", "item": "hGLEh1ula3", "c": 42 },
+  { "guid": "U9ZpBRlJGi", "item": "WbAIZr5KdV", "c": 5, "n": "D5J0QAWGyw" },
+  { "guid": "D5J0QAWGyw", "item": "_5IHtakDvf", "c": 50 },
   // #endregion
   // #region Grateful Shell Collector
   { "guid": "1fmBVbUjab", "item": "dpF382RUvu", "nw": "XXcgBGqhz0", "n": "3vh-auI7g-" },
