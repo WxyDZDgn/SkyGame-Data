@@ -35,6 +35,42 @@
       ["BO3BGL6OuK", null, null]
     ]
   },
+  // After Season
+  {
+    "guid": "OyYQ7RoAB1",
+    "next": "2BXDokc-Nt",
+    "rows": [
+      ["hwIYqHvD_3", "1ZP5q_zyfQ", "8cVitQhpa3"],
+      ["esBQaR0k4N", null, null],
+      ["c-1JwPEjjv", null, null]
+    ]
+  },
+  {
+    "guid": "2BXDokc-Nt",
+    "next": "YazTLfMW48",
+    "rows": [
+      ["r8tipePOr3", "2eVR3h5kMG", "-FppGDRVF3"],
+      ["Te18ZbUrTW", null, null],
+      ["7Nvcx9I9yG", null, null]
+    ]
+  },
+  {
+    "guid": "YazTLfMW48",
+    "next": "i-teRB9W3F",
+    "rows": [
+      ["SLbdkY__bN", "q1nkXQeaKW", "p8PXAseX2-"],
+      ["qtnlrNO9cu", null, null],
+      ["1yrunfuced", null, null]
+    ]
+  },
+  {
+    "guid": "i-teRB9W3F",
+    "rows": [
+      ["djP-hPNC8p", "rNA53M2us9", "-j23y3BWgj"],
+      ["wG_wiMY9xn", null, null],
+      ["TMobDmnhQC", null, null]
+    ]
+  },
   // Lightmending Light Scholar
   {
     "guid": "DNEXP6auGW",
