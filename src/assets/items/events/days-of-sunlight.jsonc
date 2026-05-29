@@ -52,7 +52,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Sunlight/2023#Sunlight_Pink_Beach_Towel_Cape"
     },
-    "order": 14800
+    "order": 14900
   },
   {
     "id": 1917,
@@ -64,7 +64,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Sunlight/2023#Sunlight_Yellow_Beach_Towel_Cape"
     },
-    "order": 14900
+    "order": 15000
   },
   {
     "id": 1918,
@@ -76,7 +76,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Sunlight/2023#Sunlight_Blue_Beach_Towel_Cape"
     },
-    "order": 14700
+    "order": 14800
   },
   {
     "id": 1919,
@@ -129,7 +129,7 @@
       "previewUrl": "https://sky-planner.com/assets/game/dyes/cape/Sunlight_manta.jpg",
       "infoUrl": "https://sky-planner.com/assets/game/dyes/cape/2slots_Sunlight_manta.jpg"
     },
-    "order": 15100,
+    "order": 15200,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Sunlight/2024#Sunlight_Woven_Wrap"
     }
@@ -171,7 +171,7 @@
       "previewUrl": "https://sky-planner.com/assets/game/dyes/outfit/Sunlight_dadpants.jpg",
       "infoUrl": "https://sky-planner.com/assets/game/dyes/outfit/2slots_Sunlight_dadpants.jpg"
     },
-    "order": 5300,
+    "order": 5400,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Sunlight/2024#Sunlight_Beach_Shorts"
     }
@@ -190,7 +190,7 @@
     "name": "Sunlight Bonnet",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/f/f4/Sunlight-Bonnet-Hat-Icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/57/Sunlight-Bonnet-Hat-front.png",
-    "order": 7800,
+    "order": 8000,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Sunlight/2025#Sunlight_Bonnet_Bundle"
     }
@@ -206,7 +206,7 @@
       "primary": {},
       "previewUrl": "https://sky-planner.com/assets/game/dyes/outfit/Sunlight_toga.jpg"
     },
-    "order": 5400,
+    "order": 5500,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Sunlight/2025#Sunlight_Bonnet_Bundle"
     }
@@ -234,7 +234,7 @@
       "primary": {},
       "previewUrl": "https://sky-planner.com/assets/game/dyes/cape/Sunlight_teenycape.jpg"
     },
-    "order": 15000,
+    "order": 15100,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Sunlight/2025#Sunlight_Shawl_Cape"
     }

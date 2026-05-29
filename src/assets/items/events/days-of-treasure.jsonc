@@ -6,7 +6,7 @@
     "name": "Treasure Seeker's Bounty Outfit",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/50/Days-of-Treasure-Outfit-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/1a/Days-of-Treasure-Outfit-front.png",
-    "order": 5200,
+    "order": 5300,
     "dye": {
       "primary": {},
       "previewUrl": "https://sky-planner.com/assets/game/dyes/outfit/Treasure_pants.jpg"
@@ -50,7 +50,7 @@
     "name": "Treasure Seeker's Bounty Mask",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/5e/Days-of-Treasure-Mask-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/93/Days-of-Treasure-Mask.png",
-    "order": 10700,
+    "order": 10800,
     "dye": {
       "primary": {},
       "secondary": {},
@@ -105,7 +105,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Treasure/2026#Adventurer%E2%80%99s_Garb"
     },
-    "order": 6500
+    "order": 6600
   },
   {
     "id": 3135,
@@ -121,7 +121,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Treasure/2026#Treasure_Seeker%E2%80%99s_Bandana"
     },
-    "order": 17600
+    "order": 17700
   },
   {
     "id": 3136,
@@ -133,7 +133,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Treasure/2026#Treasure_Seeker%E2%80%99s_Banner"
     },
-    "order": 11500
+    "order": 12200
   },
   {
     "id": 3137,
@@ -161,7 +161,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Treasure/2026#Treasure_Seeker%E2%80%99s_Hat"
     },
-    "order": 7200
+    "order": 7300
   },
   {
     "id": 3139,
@@ -179,7 +179,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Treasure/2026#Treasure_Coin_Cape"
     },
-    "order": 18100
+    "order": 18300
   },
   {
     "id": 3140,

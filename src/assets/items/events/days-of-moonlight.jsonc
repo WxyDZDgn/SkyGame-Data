@@ -15,7 +15,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Moonlight/2024#Moonlight_Frock_and_Updo"
     },
-    "order": 5500
+    "order": 5600
   },
   {
     "id": 2305,
@@ -24,7 +24,7 @@
     "name": "Moonlight Updo",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/38/Moonlight-Updo-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/38/Moonlight-Updo-front.png",
-    "order": 15800,
+    "order": 15900,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Moonlight/2024#Moonlight_Frock_and_Updo"
     }
@@ -60,7 +60,7 @@
     "name": "Moonlight Blossom Accessory",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/19/Moonlight-Blossom-Accessory-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8e/Moonlight-Blossom-Accessory.png",
-    "order": 5000,
+    "order": 5100,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Moonlight/2024#Moonlight_Blossom_Accessory"
     }
@@ -113,7 +113,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Moonlight/2025#Moonlight_Garland_Cape"
     },
-    "order": 15200
+    "order": 15300
   },
   {
     "id": 2761,

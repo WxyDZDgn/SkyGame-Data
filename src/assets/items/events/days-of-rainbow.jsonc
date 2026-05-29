@@ -424,7 +424,8 @@
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/23/Rainbow-Tied-Jumpsuit-real.png",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Color/2026#Rainbow_Tied_Jumpsuit"
-    }
+    },
+    "order": 4900
   },
   {
     "id": 3155,
@@ -435,7 +436,8 @@
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/4e/Rainbow-Mask-real.png",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Color/2026#Rainbow_Mask"
-    }
+    },
+    "order": 10200
   },
   {
     "id": 3156,
@@ -446,7 +448,8 @@
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/6f/Rainbow-Beret-real.png",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Color/2026#Rainbow_Beret"
-    }
+    },
+    "order": 3900
   },
   {
     "id": 3157,
@@ -457,7 +460,8 @@
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/91/Rainbow-Paintbrush-Cape-back.png",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Color/2026#Rainbow_Paintbrush_Cape"
-    }
+    },
+    "order": 14100
   },
   {
     "id": 3158,
@@ -468,7 +472,8 @@
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/29/Rainbow-Tufted-Hair-real.png",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Color/2026#Rainbow_Tufted_Hair"
-    }
+    },
+    "order": 15700
   },
   {
     "id": 3159,
@@ -479,7 +484,8 @@
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/72/Butterfly-Kite-real.png",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Color/2026#Butterfly_Kite"
-    }
+    },
+    "order": 12200
   },
   {
     "id": 3160,
@@ -490,7 +496,8 @@
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/e9/Bird-Kite-real.png",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Color/2026#Bird_Kite"
-    }
+    },
+    "order": 12100
   },
   {
     "id": 3161,
@@ -501,7 +508,8 @@
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/4d/Crab-Kite-real.png",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Color/2026#Crab_Kite"
-    }
+    },
+    "order": 12000
   },
   {
     "id": 3162,
@@ -512,7 +520,8 @@
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/af/Jellyfish-Kite-real.png",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Color/2026#Jellyfish_Kite"
-    }
+    },
+    "order": 12300
   },
   {
     "id": 3163,
@@ -523,7 +532,8 @@
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/71/Lighthorn-Kite-real.png",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Color/2026#Lighthorn_Kite"
-    }
+    },
+    "order": 11700
   },
   {
     "id": 3164,
@@ -534,7 +544,8 @@
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/b7/Manatee-Kite-real.png",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Color/2026#Manatee_Kite"
-    }
+    },
+    "order": 11600
   },
   {
     "id": 3165,
@@ -545,7 +556,8 @@
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/84/Manta-Kite-real.png",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Color/2026#Manta_Kite"
-    }
+    },
+    "order": 11500
   },
   {
     "id": 3166,
@@ -556,7 +568,8 @@
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/34/Turtle-Kite-real.png",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Color/2026#Turtle_Kite"
-    }
+    },
+    "order": 12400
   },
   {
     "id": 3167,
@@ -567,7 +580,8 @@
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/3f/Whale-Kite-real.png",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Color/2026#Whale_Kite"
-    }
+    },
+    "order": 12500
   },
   {
     "id": 3168,

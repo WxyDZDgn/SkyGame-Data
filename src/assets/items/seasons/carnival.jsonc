@@ -684,7 +684,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Carnival_Guide#Challenge_Bounce_Pad_Prop"
     },
-    "order": 11400
+    "order": 11800
   },
   {
     "id": 3130,
@@ -696,7 +696,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Carnival_Guide#Challenge_Platform_Prop"
     },
-    "order": 11700
+    "order": 12100
   },
   {
     "id": 3142,
@@ -732,7 +732,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Carnival_Guide#Challenge_Bounce_Pad_Prop"
     },
-    "order": 11500
+    "order": 11900
   },
   {
     "id": 3146,
@@ -744,6 +744,6 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Carnival_Guide#Challenge_Bounce_Pad_Prop"
     },
-    "order": 11600
+    "order": 12000
   }
 ]

@@ -6,7 +6,7 @@
     "name": "Tournament Curls",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/20/Tournament-Curls-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/b4/Tournament-Curls-front.png",
-    "order": 17300,
+    "order": 17400,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Tournament_of_Triumph/2024#Tournament_Curls"
     }
@@ -37,7 +37,7 @@
     "name": "Tournament Golden Garland",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/67/Tournament-Golden-Garland-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/a1/Tournament-Golden-Garland.png",
-    "order": 4900,
+    "order": 5000,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Tournament_of_Triumph/2024#Tournament_Golden_Garland"
     }
@@ -53,7 +53,7 @@
       "primary": {},
       "previewUrl": "https://sky-planner.com/assets/game/dyes/outfit/Tournament_tunic.jpg"
     },
-    "order": 5000,
+    "order": 5100,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Tournament_of_Triumph/2024#Tournament_Tunic"
     }
@@ -80,7 +80,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Tournament_of_Triumph/2026#Tournament_Hairstyle"
     },
-    "order": 17400
+    "order": 17500
   },
   {
     "id": 3003,
@@ -96,7 +96,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Tournament_of_Triumph/2026#Tournament_Sleek_Skating_Outfit"
     },
-    "order": 6400
+    "order": 6500
   },
   {
     "id": 3004,
@@ -124,7 +124,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Tournament_of_Triumph/2026#Tournament_Crystalline_Cape"
     },
-    "order": 17200
+    "order": 17300
   },
   {
     "id": 3006,
@@ -136,7 +136,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Tournament_of_Triumph/2026#Team_Capes"
     },
-    "order": 14400
+    "order": 14500
   },
   {
     "id": 3007,
@@ -148,7 +148,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Tournament_of_Triumph/2026#Team_Capes"
     },
-    "order": 14600
+    "order": 14700
   },
   {
     "id": 3008,
@@ -160,7 +160,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Tournament_of_Triumph/2026#Team_Capes"
     },
-    "order": 14500
+    "order": 14600
   },
   {
     "id": 3009,
@@ -172,7 +172,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Tournament_of_Triumph/2026#Team_Capes"
     },
-    "order": 14300
+    "order": 14400
   },
   {
     "id": 3010,
