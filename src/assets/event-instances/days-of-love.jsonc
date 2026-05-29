@@ -1,14 +1,14 @@
 [
   {
     "guid": "chP-KuuCxn",
-    "date": "2020-02-12",
-    "endDate": "2020-02-19",
+    "date": "2020-02-14",
+    "endDate": "2020-02-27",
     "shops": ["b6QkhZumfk"]
   },
   {
     "guid": "5SgNZL-cnc",
-    "date": "2021-02-12",
-    "endDate": "2021-02-21",
+    "date": "2021-02-14",
+    "endDate": "2021-02-27",
     "shops": ["AVZC5sL-ZT"],
     "spirits": ["YRfQif1oS6"]
   },
@@ -34,8 +34,8 @@
   },
   {
     "guid": "dCkSpN_LCG",
-    "date": "2024-02-12",
-    "endDate": "2024-02-25",
+    "date": "2024-02-14",
+    "endDate": "2024-02-27",
     "spirits": ["WBgv46VQXB"],
     "shops": ["Gpcii_q0ie", "zZa_567vOp", "-gDmtZfZgy"],
     "_calendar": {
@@ -44,8 +44,8 @@
   },
   {
     "guid": "9cpDpqkJje",
-    "date": "2025-02-10",
-    "endDate": "2025-02-23",
+    "date": "2025-02-12",
+    "endDate": "2025-02-25",
     "spirits": ["ODYu7LBJ-r"],
     "shops": ["lGcnwxrDbk", "61jGnEuTi1"],
     "calculatorData": {
@@ -53,8 +53,8 @@
       "timedCurrency": [
         {
           "guid": "DMgCYLT-J4",
-          "date": "2025-02-10",
-          "endDate": "2025-02-23",
+          "date": "2025-02-12",
+          "endDate": "2025-02-25",
           "amount": 15,
           "description": "Tickets around Jellyfish Cove"
         }
@@ -66,8 +66,8 @@
   },
   {
     "guid": "TPkSQnSOXK",
-    "date": "2026-02-06",
-    "endDate": "2026-02-19",
+    "date": "2026-02-10",
+    "endDate": "2026-02-23",
     "spirits": ["8w7QXULxoQ"],
     "shops": ["IhJWqtHlfY", "r4-5JRQNUh"],
     "calculatorData": {

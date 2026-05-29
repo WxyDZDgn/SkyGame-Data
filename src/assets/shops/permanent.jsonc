@@ -19,20 +19,20 @@
     "permanent": "event",
     "iaps": ["c4cZcnuZPk", "5IuZMyMZnO"]
   },
-  {
-    "guid": "QtpcAqvc4g",
-    "type": "Store",
-    "name": "Premium Candle Store (Switch)",
-    "permanent": true,
-    "iaps": ["1HjO9K58mP"]
-  },
-  {
-    "guid": "RLDuUaL17F",
-    "type": "Object",
-    "name": "Beta reward (unavailable)",
-    "permanent": "office",
-    "iaps": ["IquijQ-cfu"]
-  },
+  // {
+  //   "guid": "QtpcAqvc4g",
+  //   "type": "Store",
+  //   "name": "Premium Candle Store (Switch)",
+  //   "permanent": true,
+  //   "iaps": ["1HjO9K58mP"]
+  // },
+  // {
+  //   "guid": "RLDuUaL17F",
+  //   "type": "Object",
+  //   "name": "Beta reward (unavailable)",
+  //   "permanent": "office",
+  //   "iaps": ["IquijQ-cfu"]
+  // },
   {
     "guid": "F1xMux6TNy",
     "type": "Object",
@@ -53,13 +53,13 @@
       "frvgJDX_Cu"
     ]
   },
-  {
-    "guid": "Vrrbqd2iPV",
-    "type": "Object",
-    "name": "Aviary Event Store (Steam)",
-    "permanent": "event",
-    "itemList": "6AS-92sc6t"
-  },
+  // {
+  //   "guid": "Vrrbqd2iPV",
+  //   "type": "Object",
+  //   "name": "Aviary Event Store (Steam)",
+  //   "permanent": "event",
+  //   "itemList": "6AS-92sc6t"
+  // },
   {
     "guid": "kskRv4Bay3",
     "type": "Object",
@@ -88,17 +88,17 @@
     "permanent": "wonderland",
     "itemList": "Lu78MMHJp7"
   },
-  {
-    "guid": "XmHsnm-o7t",
-    "type": "Store",
-    "permanent": true,
-    "iaps": ["G6SF2VMPE3"]
-  },
-  {
-    "guid": "joQYfxi-yB",
-    "type": "Object",
-    "name": "Web Store (unavailable)",
-    "permanent": true,
-    "iaps": ["z-ApX7yPrr"]
-  }
+  // {
+  //   "guid": "XmHsnm-o7t",
+  //   "type": "Store",
+  //   "permanent": true,
+  //   "iaps": ["G6SF2VMPE3"]
+  // },
+  // {
+  //   "guid": "joQYfxi-yB",
+  //   "type": "Object",
+  //   "name": "Web Store (unavailable)",
+  //   "permanent": true,
+  //   "iaps": ["z-ApX7yPrr"]
+  // }
 ]
