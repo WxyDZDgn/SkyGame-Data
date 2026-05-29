@@ -259,8 +259,30 @@
     "revisionType": "AfterSeason" 
   },
   // Migration Guide - 迁徙季向导
-  { "guid": "IVb8WCKt8D", "tier": "9nkruKKfE7" },
-  { "guid": "xBmtGsKU2a", "tier": "tsTkZRPfnQ", "revisionType": "AfterSeason" },
+  { 
+    "guid": "IVb8WCKt8D", 
+    "tier": "9nkruKKfE7" 
+  },
+  { 
+    "guid": "xBmtGsKU2a", 
+    "tier": "tsTkZRPfnQ", 
+    "revisionType": "AfterSeason" 
+  },
+  // Lightmending Guide - 织光季向导
+  { 
+    "guid": "9QWYwAUdDG", 
+    "tier": "EHygTVGLkz" 
+  },
+  { 
+    "guid": "7tovOw63ih", 
+    "tier": "OyYQ7RoAB1", 
+    "revisionType": "AfterSeason" 
+  },
+  // Carnival Guide - 狂欢季向导
+  { 
+    "guid": "vBTjT3BmeP", 
+    "tier": "QVot1WV5PF" 
+  },
   // #endregion - 季节向导结束
 
   // #region Gratitude - 感恩季部分
@@ -1702,84 +1724,128 @@
   },
   // #endregion - 彩染季结束
   // #region Blue Bird - 青鸟季部分
+  // Divining Wise Grandparent - 占卜智慧长者
   { 
-    "guid": "me0kc6RN7J", 
+    "guid": "me0kc6RN7J", // 季节兑换树
     "node": "yjs2ofd4bI" 
   },
+  // Costumed Confetti Cousin - 戏服礼花表亲
   { 
-    "guid": "GEOf9iPZiz", 
+    "guid": "GEOf9iPZiz", // 季节兑换树
     "node": "Mab8ePYPvs" 
   },
+  // Royal Hairtousle Teen - 皇家蓬头青年
   { 
-    "guid": "DU7kdfkbq7", 
+    "guid": "DU7kdfkbq7", // 季节兑换树
     "node": "qdSLwtMlKg" 
   },
+  // Nostalgic Sparkler Parent - 怀旧火花家长 
   { 
-    "guid": "O7hDEtXXLQ", 
+    "guid": "O7hDEtXXLQ", // 季节兑换树
     "node": "r_3ANSlteU" 
   },
+  // Woodcutting Pleaful Parent - 伐木不舍家长
   { 
-    "guid": "qLiBf_BpI4", 
+    "guid": "qLiBf_BpI4", // 季节兑换树
     "node": "nc8Qjghjoy" 
   },
   // #endregion - 青鸟季结束
   // #region Two Embers - Part 1 - 双星季：暮星篇部分
+  // Tender Toymaker - 温柔的玩具匠 
   { 
-    "guid": "SI9Q8J2Fm-", 
+    "guid": "SI9Q8J2Fm-", // 季节兑换树
     "node": "opxcbxYIfJ" 
   },
+  // Stern Shepherd - 严厉的牧牛人
   { 
-    "guid": "RDergQu3Vd", 
+    "guid": "RDergQu3Vd",  // 季节兑换树
     "node": "BxVl336GE7" 
   },
+  // Resourceful Recluse - 巧手隐士
   { 
-    "guid": "fdQpzNAjCw", 
+    "guid": "fdQpzNAjCw", // 季节兑换树
     "node": "gSpR4Ktq8n" 
   },
+  // Scarred Sentry - 刀疤士兵
   { 
-    "guid": "r-emIwzMih", 
+    "guid": "r-emIwzMih", // 季节兑换树
     "node": "oZL55_0hI5" 
   },
+  // Caring Companion - 海牛伙伴
   { 
-    "guid": "PzoY-Wkk8O", 
+    "guid": "PzoY-Wkk8O", // 兑换树
     "node": "ataTovLcTn" 
   },
   // #endregion - 双星季：暮星篇结束
   // #region Migration - 迁徙季部分
+  // Migrating Jelly Whisperer - 迁徙水母语者
   { 
-    "guid": "zK7AFf0rvZ", 
+    "guid": "zK7AFf0rvZ", // 季节兑换树
     "tier": "5xc-2tXUAT" 
   },
+  // Migrating Butterfly Charmer - 迁徙引蝶人
   { 
-    "guid": "nCGzsegB0l", 
+    "guid": "nCGzsegB0l", // 季节兑换树
     "tier": "tCeG5a_2u0" 
   },
+  // Migrating Manta Whisperer - 迁徙鲲语者
   { 
-    "guid": "iFANrbgSY4", 
+    "guid": "iFANrbgSY4", // 季节兑换树
     "tier": "aXYjAZqvIr" 
   },
+  // Migrating Bird Whisperer - 迁徙鸟语者
   { 
-    "guid": "nrvSEyff0h", 
+    "guid": "nrvSEyff0h", // 季节兑换树
     "tier": "neQv9N0Pk5" 
   },
+  // Migrating Bellmaker - 迁徙钟匠
   { 
-    "guid": "ko9lr8M4J5", 
+    "guid": "ko9lr8M4J5", // 季节兑换树
     "tier": "kXNj5sSsss" 
   },
   // #endregion - 迁徙季结束
   // #region Lightmending - 织光季部分
-  { "guid": "9QWYwAUdDG", "tier": "EHygTVGLkz" },
-  { "guid": "7tovOw63ih", "tier": "OyYQ7RoAB1", "revisionType": "AfterSeason" },
-  { "guid": "rMUUnF9HAB", "tier": "DNEXP6auGW" },
-  { "guid": "ZSQVVHlhVX", "tier": "J6nbAbqnXG" },
-  { "guid": "lSXt9gZtGb", "tier": "JsL9EQOhVM" },
-  { "guid": "QOhdakPpfv", "tier": "2NXsY6jnB_" },
+  // Lightmending Light Scholar - 织光学者
+  { 
+    "guid": "rMUUnF9HAB", // 季节兑换树
+    "tier": "DNEXP6auGW" 
+  },
+  // Lightmending Light Catcher - 织光光农
+  { 
+    "guid": "ZSQVVHlhVX", // 季节兑换树
+    "tier": "J6nbAbqnXG" 
+  },
+  // Lightmending Champion - 织光冠军
+  { 
+    "guid": "lSXt9gZtGb", // 季节兑换树
+    "tier": "JsL9EQOhVM" 
+  },
+  // Lightmending Pioneer - 织光开荒者
+  { 
+    "guid": "QOhdakPpfv", // 季节兑换树
+    "tier": "2NXsY6jnB_" 
+  },
   // #endregion - 织光季结束
   // #region Carnival - 狂欢季部分
-  { "guid": "vBTjT3BmeP", "tier": "QVot1WV5PF" },
-  { "guid": "7PdRlqapa0", "tier": "kVs4MAAnAG" },
-  { "guid": "MJ_0dbbk3P", "tier": "RoFKQ08wCA" },
-  { "guid": "pdkcSLvzdU", "tier": "s1lSUCbctb" },
-  { "guid": "X9HCSZXJOs", "tier": "lOqgAAfNn7" }
+  // Carnival Juggler - 狂欢杂耍演员
+  { 
+    "guid": "7PdRlqapa0", // 季节兑换树
+    "tier": "kVs4MAAnAG" 
+  },
+  // Carnival Athletic Dancer - 狂欢活力舞者
+  { 
+    "guid": "MJ_0dbbk3P", // 季节兑换树
+    "tier": "RoFKQ08wCA" 
+  },
+  // Carnival Puzzle Director - 狂欢巧思编导
+  { 
+    "guid": "pdkcSLvzdU", // 季节兑换树
+    "tier": "s1lSUCbctb" 
+  },
+  // Carnival Stunt Actor - 狂欢特技演员
+  { 
+    "guid": "X9HCSZXJOs", // 季节兑换树
+    "tier": "lOqgAAfNn7" 
+  }
   // #endregion - 狂欢季结束
 ]
