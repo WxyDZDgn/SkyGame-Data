@@ -1691,10 +1691,11 @@
   // #endregion
   // #region Lightmending
   { "guid": "9QWYwAUdDG", "tier": "EHygTVGLkz" },
+  { "guid": "7tovOw63ih", "tier": "OyYQ7RoAB1", "revisionType": "AfterSeason" },
   { "guid": "rMUUnF9HAB", "tier": "DNEXP6auGW" },
   { "guid": "ZSQVVHlhVX", "tier": "J6nbAbqnXG" },
   { "guid": "lSXt9gZtGb", "tier": "JsL9EQOhVM" },
-  { "guid": "QOhdakPpfv", "tier": "2NXsY6jnB_" }
+  { "guid": "QOhdakPpfv", "tier": "2NXsY6jnB_" },
   // #endregion
   // #region Carnival
   { "guid": "vBTjT3BmeP", "tier": "QVot1WV5PF" },
