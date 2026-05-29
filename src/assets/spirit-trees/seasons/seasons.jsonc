@@ -207,12 +207,60 @@
     "node": "UdhUyuqOyZ",
     "revisionType": "AfterSeason"
   },
+  // Duets Guide - 二重奏季向导
+  {
+    "guid": "voApj8nmhQ",
+    "node": "RTwKtxkvqi"
+  },
+  {
+    "guid": "RSUBTRhzHf",
+    "revisionType": "AfterSeason",
+    "node": "Qf34nNDqQ_"
+  },
+  {
+    "guid": "g3xQG0GfCH",
+    "node": "vUaItiu_CS",
+    "revisionType": "AfterSeason"
+  },
   // Moomin Guide - 姆明故事书
   {
     "guid": "WGIrheVuUd",
     "node": "8_QAGF_cuK"
   },
   { "guid": "bFOp9D6fxP", "node": "wZTTBoBVfy", "revisionType": "AfterSeason" },
+  // Radiaance Guide - 彩染季向导
+  {
+    "guid": "QveGTQI48L",
+    "node": "30o85y24PC"
+  },
+  {
+    "guid": "Vvd8vzwFLd",
+    "node": "hxvdB3Qxe4",
+    "revisionType": "AfterSeason"
+  },
+  // Blue Bird Guide - 青鸟季向导 
+  { 
+    "guid": "9ZMGsZeH1U", 
+    "node": "RzXXb9widZ" 
+  },
+  { 
+    "guid": "Z-lDboKqdB", 
+    "node": "kRv4PPU3CT", 
+    "revisionType": "AfterSeason" 
+  },
+  // Vault Elder's Lantern - 禁阁长老的灯笼 
+  { 
+    "guid": "lHlnmVDICn", 
+    "node": "7NYZEkjI3A" 
+  },  
+  { 
+    "guid": "GpcMalckm5", 
+    "node": "GaoOaDHlpc", 
+    "revisionType": "AfterSeason" 
+  },
+  // Migration Guide - 迁徙季向导
+  { "guid": "IVb8WCKt8D", "tier": "9nkruKKfE7" },
+  { "guid": "xBmtGsKU2a", "tier": "tsTkZRPfnQ", "revisionType": "AfterSeason" },
   // #endregion - 季节向导结束
 
   // #region Gratitude - 感恩季部分
@@ -804,18 +852,18 @@
     "node": "_hmvpzxwqX"
   },
   // #endregion - 魔法季结束
-  // #region Sanctuary
-  // Jelly Whisperer
+  // #region Sanctuary - 圣岛季
+  // Jelly Whisperer - 母语者
   {
-    "guid": "GVghUxleba", //
+    "guid": "GVghUxleba", // 季节兑换树
     "node": "Rl_priwPb9"
   },
   {
-    "guid": "NuBYBnu8jU", //
+    "guid": "NuBYBnu8jU", // 旅行 48
     "node": "5Of6SeZovV"
   },
   {
-    "guid": "x_MqhIuCM-", //
+    "guid": "x_MqhIuCM-", // 旅行 74
     "node": "QbqMOqFumJ"
   },
   { 
@@ -826,13 +874,13 @@
     "guid": "dcRiKICJa9", // ,旅行 187
     "node": "T7bPGL8Tl2" 
   },
-  // Timid Bookworm
+  // Timid Bookworm - 内秀书虫
   {
-    "guid": "rMbkkmBZQM", //
+    "guid": "rMbkkmBZQM", // 季节兑换树
     "node": "B4rizR4xxx"
   },
   {
-    "guid": "C2NzE6XBs8", //
+    "guid": "C2NzE6XBs8", // 旅行 51
     "node": "DO8c4nzYyI"
   },
   {
@@ -847,13 +895,13 @@
     "guid": "1Ykj1D6CXI", // 旅行 172
     "node": "0EBSHd-LCe"
   },
-  // Rallying Thrillseeker
+  // Rallying Thrillseeker - 热血运动员
   {
-    "guid": "MLnvMI_SQf", //
+    "guid": "MLnvMI_SQf", // 季节兑换树
     "node": "VoHSiNLHP4"
   },
   {
-    "guid": "YXL_-pLNs2", //
+    "guid": "YXL_-pLNs2", // 旅行 72
     "node": "Km9Kt5vTXq"
   },
   {
@@ -864,13 +912,13 @@
     "guid": "wqnGcrwZiT", // 旅行 136
     "node": "ExFZpa76mA"
   },
-  // Hiking Grouch
+  // Hiking Grouch - 固执登山者
   {
-    "guid": "NGPhozyesb", //
+    "guid": "NGPhozyesb", // 季节兑换树
     "node": "_n42ZUm0ev"
   },
   {
-    "guid": "oe3uZn1UeY", //
+    "guid": "oe3uZn1UeY", // 旅行 49
     "node": "cYKWaAJnb2"
   },
   {
@@ -881,17 +929,17 @@
     "guid": "BZx-rUl2r1", //旅行 164
     "node": "Sg65i5nrDJ" 
     },
-  // Grateful Shell Collector
+  // Grateful Shell Collector - 鸣谢收藏家 
   {
-    "guid": "a0T7_evTz6", //
+    "guid": "a0T7_evTz6", // 季节兑换树
     "node": "1fmBVbUjab"
   },
   {
-    "guid": "qlsUydVjy3", //
+    "guid": "qlsUydVjy3", // 旅行 46
     "node": "cg3bQs-LUF"
   },
   {
-    "guid": "NN4Yssst47", //
+    "guid": "NN4Yssst47", // 旅行 70
     "node": "JjqPlnSCp4"
   },
   { 
@@ -902,13 +950,13 @@
     "guid": "_SrX-PbXzg", // 旅行 160
     "node": "UODVmN6Wsk"
   },
-  // Chill Sunbather
+  // Chill Sunbather - 放松日浴者
   {
-    "guid": "MwCPwxfL0B", //
+    "guid": "MwCPwxfL0B", // 季节兑换树
     "node": "-_0EoMUmXu"
   },
   {
-    "guid": "x41Mbv166z", //
+    "guid": "x41Mbv166z", // 旅行 42
     "node": "OQ4LkbbPmX"
   },
   {
@@ -919,15 +967,15 @@
     "guid": "C6a4gM-MjO", // 旅行 114
     "node": "Y-lPSb9nuG" 
   },
-  // #endregion
-  // #region Prophecy
-  // #region Prophet of Water
+  // #endregion - 圣岛季结束
+  // #region Prophecy - 预言季部分
+  // Prophet of Water - 水先知
   {
-    "guid": "NZRfrbFo5E", //
+    "guid": "NZRfrbFo5E", // 季节兑换树
     "node": "6GpHoGx5-0"
   },
   {
-    "guid": "NgyO7nqVwS", //
+    "guid": "NgyO7nqVwS", // 旅行 55
     "node": "OXaaqS6Q89"
   },
   {
@@ -938,50 +986,35 @@
     "guid": "6vAMrTPmU-", // 旅行 140
     "node": "9GhluZ7XjZ"
   },
+  // Prophet of Earth - 土先知
   {
-    "guid": "t62qYu-TAj",
-    "node": "UFRKNWm8B0"
-  },
-  // #endregion
-  // Prophet of Earth
-  {
-    "guid": "26RNODjYdR", //
+    "guid": "26RNODjYdR", // 季节兑换树
     "node": "HI3hEkeep2"
   },
   {
-    "guid": "XWtTNBu8Oc", //
+    "guid": "XWtTNBu8Oc", // 旅行 54
     "node": "OPq_xJifA9"
   },
   {
     "guid": "5IfMzJYMAs", // 旅行 143
     "node": "NkHq0TPo1n"
   },
+  // Prophet of Air - 风先知
   {
-    "guid": "zRK07kSmcG",
-    "node": "BBGCStYaGJ"
-  },
-  { "guid": "-lshQtF-0t", "node": "y3eJJ6CsFn" },
-  // Prophet of Air
-  {
-    "guid": "llk8KwqtQo", //
+    "guid": "llk8KwqtQo", // 季节兑换树
     "node": "eBz4SjTCbE"
   },
   {
-    "guid": "79Ttb2xGMp", //
+    "guid": "79Ttb2xGMp", // 旅行 47
     "node": "HgEsD5Goxw"
   },
   {
     "guid": "_l09Yw8HoO", // 旅行 135
     "node": "5q6cX7B5Dv"
   },
-  // TS #148
+  // Prophet of Fire - 火先知
   {
-    "guid": "GpYYTOc43d",
-    "node": "WKWTdL8PrE"
-  },
-  // Prophet of Fire
-  {
-    "guid": "u0qm82zESx", //
+    "guid": "u0qm82zESx", // 季节兑换树
     "node": "joPtiDGThJ"
   },
   {
@@ -1000,29 +1033,24 @@
     "guid": "9rXre_G4_2", // 旅行 188
     "node": "nGgQjtiCGW"
   },
-  // #endregion
-  // #region Dreams
-  // Bearhug Hermit
+  // #endregion - 预言季结束
+  // #region Dreams - 梦想季部分
+  // Bearhug Hermit - 熊抱雪人
   {
-    "guid": "Dz7xSJMui2", //
+    "guid": "Dz7xSJMui2", // 季节兑换树
     "node": "ZCa7gd50nR"
   },
   {
-    "guid": "XDrtg4QXU9", //
+    "guid": "XDrtg4QXU9", // 旅行 62
     "node": "o64LV_PfVs"
   },
   {
     "guid": "hQi54Pqru3", // 旅行 116
     "node": "IRu0px7jxG"
   },
-  // SV 11
+  // Dancing Performer - 跳舞艺人
   {
-    "guid": "Ng3zGFAGql",
-    "node": "MYGxrRz1dX"
-  },
-  // Dancing Performer
-  {
-    "guid": "zUy1Dlkzbl", //
+    "guid": "zUy1Dlkzbl", // 季节兑换树
     "node": "6i1ljkdw6g"
   },
   {
@@ -1033,14 +1061,13 @@
     "guid": "KQ_J1bjj4v", // 旅行 181
     "node": "l7WpeHgmFz"
   },
-  
-  // Peeking Postman
+  // Peeking Postman - 偷窥邮差
   {
-    "guid": "sxbsSa-E47", //
+    "guid": "sxbsSa-E47", // 季节兑换树
     "node": "rcw4aWBVCb"
   },
   {
-    "guid": "aMvUAm6DsJ", //
+    "guid": "aMvUAm6DsJ", // 旅行 61
     "node": "_fxwGV2qpQ"
   },
   {
@@ -1051,13 +1078,13 @@
     "guid": "UxscXU0YeY", // 旅行 167
     "node": "-33sRU-_yk"
   },
-  // Spinning Mentor
+  // Spinning Mentor - 回旋大师
   {
-    "guid": "duRfvp3IvK", //
+    "guid": "duRfvp3IvK", // 季节兑换树
     "node": "3OmVOrRC43"
   },
   {
-    "guid": "hkmtCkwn9U", //
+    "guid": "hkmtCkwn9U", // 旅行 67
     "node": "F2z8PZwU61"
   },
   {
@@ -1068,30 +1095,20 @@
     "guid": "W8mNdI-x9t", // 旅行 151
     "node": "zpqF-1IDbv"
   },
-  // #endregion
-  // #region Assembly
-  // #region Baffled Botanist
+  // #endregion - 梦想季结束
+  // #region Assembly - 集结季部分
+  // Baffled Botanist - 茫然植物学家 
   {
-    "guid": "u-NLeQNopc", //
+    "guid": "u-NLeQNopc", // 季节兑换树
     "node": "ANlyLKl8ho"
   },
   {
     "guid": "5fHIIjUjsS", // 旅行 145
     "node": "A4mNW2Sf8E"
   },
+  // Scolding Student - 管事小队长 
   {
-    "guid": "Wr_6cQV3n6",
-    "node": "LeORFeGFaA"
-  },
-  {
-    "guid": "bqZW7VaH5p",
-    "node": "AB05xjmuxN"
-  },
-  { "guid": "aXqXgWbDvC", "node": "hpx6Eutowo" }, // SV 12
-  // #endregion
-  // #region Scolding Student
-  {
-    "guid": "tJ92dz1ans", //
+    "guid": "tJ92dz1ans", // 季节兑换树
     "node": "xEpQNLe0ur"
   },
   {
@@ -1102,11 +1119,9 @@
     "guid": "LWPha7NsBb", // 旅行 166
     "node": "3dJMguXWJV"
   },
-  { "guid": "5W0EyIvjwK", "node": "Ig6dQGp7ll" }, // SV 12
-  // #endregion
-  // Scaredy Cadet
+  // Scaredy Cadet - 胆小鬼学员 
   {
-    "guid": "BTXu36Anhy", //
+    "guid": "BTXu36Anhy", // 季节兑换树
     "node": "15h4Sx9Xjj"
   },
   {
@@ -1117,40 +1132,31 @@
     "guid": "SkR-uehcjb", // 旅行 144
     "node": "Nl1O-OFJ-E"
   },
-  //TS 147
+  // Marching Adventurer - 正步冒险家 
   {
-    "guid": "Tdv2NuULDT",
-    "node": "favqmKiY2h"
-  },
-  { "guid": "AV5iA4CpX8", "node": "sdUh2zVo9-" }, // SV 12
-  // Marching Adventurer
-  {
-    "guid": "MaqbAvyQQ8", //
+    "guid": "MaqbAvyQQ8", // 季节兑换树
     "node": "x1a7G7bveD"
   },
   {
-    "guid": "fHPe43oCch", //
+    "guid": "fHPe43oCch", // 旅行 73
     "node": "ZQOPWn4zx8"
   },
   { 
     "guid": "9EwfRwkT1c", // 旅行 161
     "node": "JvVtiSaIRp" 
   },
-  { "guid": "iPF1nRScD0", "node": "kUri2mFw0I" }, // SV 12
-  // Chuckling Scout
+  // Chuckling Scout - 傻笑童子军 
   {
-    "guid": "n43yrGprN_",
+    "guid": "n43yrGprN_", // 季节兑换树
     "node": "7UtgKGCYKK"
   },
   {
-    "guid": "uztQlhHGhL",
+    "guid": "uztQlhHGhL", // 样例
     "node": "vZDpA5hBMT"
   },
-  { "guid": "YHZDQigQ0j", "node": "L1fKhBMl4t" },
-  { "guid": "-YtGR0BNa2", "node": "J-bl2zx3RV" }, // SV 12
-  // Daydream Forester
+  // Daydream Forester - 白日梦森林人
   {
-    "guid": "oeVXh5azl3", //
+    "guid": "oeVXh5azl3", // 季节兑换树
     "node": "rPiu3Qdyxw"
   },
   {
@@ -1165,11 +1171,11 @@
     "guid": "-gdOXDH9z7", // 旅行 155
     "node": "0vZERa0V2K" 
   },
-  // #endregion
-  // #region The Little Prince
-  // Beckoning Ruler
+  // #endregion - 季节季结束
+  // #region The Little Prince - 小王子季部分
+  // Beckoning Ruler - 呼风唤雨的统治者 
   {
-    "guid": "GpFO-QB9kn", // 
+    "guid": "GpFO-QB9kn", // 季节兑换树
     "node": "WVTukTL1td"
   },
   {
@@ -1180,10 +1186,9 @@
     "guid": "kMsKGeLn9s", // 旅行 139
     "node": "6Me1WwYg0z"
   },
-  { "guid": "EPZCRK3sdj", "node": "uLp-gR9OFE" },
-  // Gloating Narcissist
+  // Gloating Narcissist - 沾沾自喜的自恋者 
   {
-    "guid": "G8NMsyrbeV", //
+    "guid": "G8NMsyrbeV", // 季节兑换树
     "node": "xT68D-1o-1"
   },
   {
@@ -1194,9 +1199,9 @@
     "guid": "XsCuRcSlFc", // 旅行 134
     "node": "YPcZayndoS" 
   },
-  // Stretching Lamplighter
+  // Stretching Lamplighter - 被逼无奈的掌灯人 
   {
-    "guid": "tGROdiGKVT", //
+    "guid": "tGROdiGKVT", // 季节兑换树
     "node": "5jVf4BFkJD"
   },
   {
@@ -1207,41 +1212,38 @@
     "guid": "f-Ue1uKwCl", // 旅行 133
     "node": "iFdxIcnTB1" 
   },
-  // Slouching Soldier
+  // Slouching Soldier - 萎靡不振的士兵 
   {
-    "guid": "evynWpUlaz", //
+    "guid": "evynWpUlaz", // 季节兑换树
     "node": "yyUs-AZ_f8"
   },
   {
     "guid": "VmZAJo0AL6", // 旅行 115
     "node": "mIKBqWIbmY"
   },
-  { "guid": "DfR5p-yKK7", "node": "IoZSL8GJdT" },
-  // Sneezing Geographer
+  // Sneezing Geographer - 打喷嚏的地理学家 
   {
-    "guid": "eY5I6thUk8", //
+    "guid": "eY5I6thUk8", // 季节兑换树
     "node": "u3evPD761Y"
   },
   {
     "guid": "J88QMttiSo", // 旅行 109
     "node": "_IUGMgplcR"
   },
-  { "guid": "MzvfLK3_Cz", "node": "WRgu2DAh5w" },
-  // Star Collector
+  // Star Collector - 星光收藏家 
   {
-    "guid": "Ikiuyl-Nm1", //
+    "guid": "Ikiuyl-Nm1", // 季节兑换树
     "node": "9ADrzfFPhx"
   },
   {
     "guid": "0KL8ohbC4V", // 旅行 104
     "node": "_Jou88z740"
   },
-  { "guid": "49jQ4S13XR", "node": "QcAl6Ibw1T" },
-  // #endregion
-  // #region Flight
-  // Lively Navigator
+  // #endregion - 小王子季结束
+  // #region Flight - 风行季部分
+  // Lively Navigator - 风行领航员 
   {
-    "guid": "8XT3GDeonb", //
+    "guid": "8XT3GDeonb", // 季节兑换树
     "node": "C04G6KylaW"
   },
   {
@@ -1252,9 +1254,9 @@
     "guid": "H4P1PDRMQa", // 旅行 162
     "node": "FRhBcTNbYT"
   },
-  // Light Whisperer
+  // Light Whisperer - 光之低语者 
   {
-    "guid": "DHbvqLtLCU", //
+    "guid": "DHbvqLtLCU", // 季节兑换树
     "node": "zI5GRFCBhX"
   },
   {
@@ -1265,9 +1267,9 @@
     "guid": "V2Fx3f2FOj", // 旅行 170
     "node": "pa4foQrY30"
   },
-  // Tinkering Chimesmith
+  // Tinkering Chimesmith - 风铃修补匠 
   {
-    "guid": "66idlQe3mK", //
+    "guid": "66idlQe3mK", // 季节兑换树
     "node": "wcUvdoaglf"
   },
   {
@@ -1282,10 +1284,9 @@
     "guid": "cCwRZcSUlx", // 旅行 189
     "node": "iINabSMIYx"
   },
-  
-  // Talented Builder
+  // Talented Builder - 天才建筑师 
   {
-    "guid": "4Zj4C2RUj1", //
+    "guid": "4Zj4C2RUj1", // 季节兑换树
     "node": "et9DvsI31i"
   },
   {
@@ -1296,483 +1297,489 @@
     "guid": "y3kH55G1Ai", // 旅行 163
     "node": "WambBT-hvx"
   },
-  // #endregion
-  // #region Abyss
-  // Anxious Angler
+  // #endregion - 风行季结束
+  // #region Abyss - 潜海季部分
+  // Anxious Angler - 焦虑渔夫 
   {
-    "guid": "M-25cEcvw-", //
+    "guid": "M-25cEcvw-", // 季节兑换树
     "node": "WLTEZBaXZ6"
   },
   {
     "guid": "NdB6VF6E1G", // 旅行 138
     "node": "w7O7kFaQ4l"
   },
-  { "guid": "R2WmeZDMqd", "node": "WsJjGE_da0" },
-  // Ceasing Commodore
+  // Ceasing Commodore - 威严舰长 
   {
-    "guid": "1c2RnFkkmb", //
+    "guid": "1c2RnFkkmb", // 季节兑换树
     "node": "Wt_FOZCmQf"
   },
   {
     "guid": "63I7854lB-", // 旅行 186
     "node": "BkKELtjaxF"
   },
-  { "guid": "bO7uzxfm9E", "node": "hIGQWmuIvv" }, //TS 162
-  // Bumbling Boatswain
+  // Bumbling Boatswain - 笨拙水手 
   {
-    "guid": "oNXi897gvR", //
+    "guid": "oNXi897gvR", // 季节兑换树
     "node": "8rargE3UTh"
   },
   {
     "guid": "MW9CCZ_Kb4", // 旅行 158
     "node": "Q5-a10kPfB"
   },
-  { "guid": "eodAzj6E3z", "node": "pVBm48V0So" },
-  // Cackling Cannoneer
+  // Cackling Cannoneer - 嬉笑炮手 
   {
-    "guid": "ag2kvsRKRN", //
+    "guid": "ag2kvsRKRN", // 季节兑换树
     "node": "lNBxGQzzj6"
   },
   {
     "guid": "-dB5Tod28p", // 旅行 168
     "node": "tqaWjBRyj4"
   },
-  // TS 153
+  // #endregion - 潜海季结束
+  // #region Performance - 表演季部分
+  // Frantic Stagehand - 忙碌舞台管理员 
   {
-    "guid": "bj5E01JihN",
-    "node": "ZqasKBx0ah"
-  },
-  // #endregion
-  // #region Performance
-  // Frantic Stagehand
-  {
-    "guid": "i0lRmQ31MS",
+    "guid": "i0lRmQ31MS", // 季节兑换树
     "node": "eUh0KO-9lY"
   },
   {
-    "guid": "IWACETtZdN",
+    "guid": "IWACETtZdN", // 备份
     "node": "JZ0vOui6V-"
   },
-  // SV 11
+  // Forgetful Storyteller - 健忘叙事者 
   {
-    "guid": "Uew4A5VBxF",
-    "node": "QNcTqD-4ie"
-  },
-  // Forgetful Storyteller
-  {
-    "guid": "UEf6UQn_yl", //
+    "guid": "UEf6UQn_yl", // 季节兑换树
     "node": "DAX89eU3v8"
   },
   {
     "guid": "9uqDB_wSlb", // 旅行 152
     "node": "KDYc9oxiCw"
   },
-  // Mellow Musician
+  // Mellow Musician - 老练音乐家 
   {
-    "guid": "18DZaVJ0JB", //
+    "guid": "18DZaVJ0JB", // 季节兑换树
     "node": "iNZGYBUTH6"
   },
   {
     "guid": "e6_iEz7I4N", // 旅行 141
     "node": "yQlOeNoT-7"
   },
-  // SV 11
+  // Modest Dancer - 谦虚舞者 
   {
-    "guid": "_TwWCLOFZ9",
-    "node": "xgPlf1s2f6"
-  },
-  // Modest Dancer
-  {
-    "guid": "pYtg2G6fMP",
+    "guid": "pYtg2G6fMP", // 季节兑换树
     "node": "p7a3ZfuSbK"
   },
   {
-    "guid": "YCIL81ldvN",
+    "guid": "YCIL81ldvN", // 备份
     "node": "XcU33tjR-q"
   },
-  // #endregion
-  // #region Shattering
-  // Ancient Light (Jellyfish)
+  // #endregion - 表演季结束
+  // #region Shattering - 破晓季
+  // Ancient Light (Jellyfish) - 远古光明记忆（水母）
   {
-    "guid": "xLwRm1AfSm",
+    "guid": "xLwRm1AfSm", // 季节兑换树
     "node": "bfQU2rdu6e"
   },
   {
-    "guid": "--xrBaOxPD",
+    "guid": "--xrBaOxPD", // 备份
     "node": "fgj2zBqhX3"
   },
-  // Ancient Light (Manta)
+  // Ancient Light (Manta) - 远古光明记忆（遥鲲） 
   {
-    "guid": "1fhyjtk7uy",
+    "guid": "1fhyjtk7uy", // 季节兑换树
     "node": "ijzEaeq_aP"
   },
   {
-    "guid": "792yhbZPqp",
+    "guid": "792yhbZPqp", // 备份
     "node": "DEZVlZ550T"
   },
-  // Ancient Darkness (Plant)
+  // Ancient Darkness (Dragon) - 远古黑暗记忆（冥龙）
   {
-    "guid": "b6rp9fopvO",
-    "node": "cJ_Vhjb_UA"
-  },
-  {
-    "guid": "1om3NjZGR8",
-    "node": "NGIqIDi28X"
-  },
-  // Ancient Darkness (Dragon)
-  {
-    "guid": "7RgA-evqca",
+    "guid": "7RgA-evqca", // 季节兑换树
     "node": "7fR7V84jZg"
   },
   {
-    "guid": "m1t7wOqVUk",
+    "guid": "m1t7wOqVUk", // 备份
     "node": "HNqkfj3e4S"
   },
-  // #endregion
-  // #region AURORA
-  // Running Wayfarer
+  // Ancient Darkness (Plant) - 远古黑暗记忆（暗花） 
   {
-    "guid": "U8EBIguISN",
+    "guid": "b6rp9fopvO", // 季节兑换树
+    "node": "cJ_Vhjb_UA"
+  },
+  {
+    "guid": "1om3NjZGR8", // 备份
+    "node": "NGIqIDi28X"
+  },
+  // #endregion - 破晓季结束
+  // #region AURORA - 欧若拉季部分
+  // Running Wayfarer - 奔离旅行者 
+  {
+    "guid": "U8EBIguISN", // 季节兑换树
     "node": "hnLmvU_fg8"
   },
-  { "guid": "qLJqS-BAYp", "node": "15X_X0AHKc" },
-  // Mindful Miner
+  { 
+    "guid": "qLJqS-BAYp", // 备份
+    "node": "15X_X0AHKc" 
+  },
+  // Mindful Miner - 细心矿工 
   {
-    "guid": "bMfsxhWfRe", //
+    "guid": "bMfsxhWfRe", // 季节兑换树
     "node": "7ZiCvfqa6X"
   },
   {
     "guid": "ch9-I5m0Ba", // 旅行 185
     "node": "jjxxIJvyo3"
   },
-  { "guid": "s_XB6-sfnp", "node": "kUOCWi4zBD" },
-  // Warrior of Love
+  // Warrior of Love - 爱之战士 
   {
-    "guid": "mfj2dmg6Dd", //
+    "guid": "mfj2dmg6Dd", // 季节兑换树
     "node": "Zrb2hCvgkb"
   },
   {
     "guid": "2kqCmbrCug", // 旅行 154
     "node": "qSaF_V_XGE"
   },
-  { "guid": "qHdFiOJvXx", "node": "zdYZogArmw" },
-  // Seed of Hope
+  // Seed of Hope - 希望之种 
   {
-    "guid": "W7fm2UpXGb",
+    "guid": "W7fm2UpXGb", // 季节兑换树
     "node": "4ohNhhcV87"
   },
-  { "guid": "h6-c8COSHy", "node": "nU0Anlo5ka" },
-  // #endregion
-  // #region Remembrance
-  // Bereft Veteran
+  { 
+    "guid": "h6-c8COSHy", // 备份
+    "node": "nU0Anlo5ka" 
+  },
+  // #endregion - 欧若拉季结束
+  // #region Remembrance - 追忆季部分
+  // Bereft Veteran - 丧子老兵 
   {
-    "guid": "zWD_AxgIGC",
+    "guid": "zWD_AxgIGC", // 季节兑换树
     "node": "9bB4SRcAvm"
   },
   {
-    "guid": "sftWo0Dy66",
+    "guid": "sftWo0Dy66", // 备份
     "node": "arsiJ_KjPq"
   },
   // Pleading Child
   {
-    "guid": "wU4H1ZfZot",
+    "guid": "wU4H1ZfZot", // 乞求孩童 
     "node": "GjeQ3Fdpac"
   },
   {
-    "guid": "2TNahX09bx",
+    "guid": "2TNahX09bx", // 备份
     "node": "3PI4Zls_LB"
   },
-  // Tiptoeing Tea-Brewer
+  // Tiptoeing Tea-Brewer - 蹑足沏茶师 
   {
-    "guid": "gOAqpgTH4R",
+    "guid": "gOAqpgTH4R", // 季节兑换树
     "node": "FAsuN4N2hI"
   },
-  { "guid": "IC3TtVJ-YG", "node": "-ZhSv-b7rD" },
-  // Wounded Warrior
+  { 
+    "guid": "IC3TtVJ-YG", // 备份
+    "node": "-ZhSv-b7rD" 
+  },
+  // Wounded Warrior - 负伤战士 
   {
-    "guid": "Cze45b5NuK",
+    "guid": "Cze45b5NuK", // 季节兑换树
     "node": "6nhyx0XwCf"
   },
-  { "guid": "t8rUtsegue", "node": "zMb4Br_Xjk" },
-  // #endregion
-  // #region Passage
-  // Oddball Outcast
+  { 
+    "guid": "t8rUtsegue", // 备份
+    "node": "zMb4Br_Xjk" 
+  },
+  // #endregion - 追忆季结束
+  // #region Passage - 夜行季部分
+  // Oddball Outcast - 古怪边缘人 
   {
-    "guid": "77QNb1vN1h",
+    "guid": "77QNb1vN1h", // 季节兑换树
     "node": "dUbS4mxFs5"
   },
   {
-    "guid": "VwW8uUBAdU",
+    "guid": "VwW8uUBAdU", // 备份
     "node": "5DxSihnRm3"
   },
-  // Tumbling Troublemaker
+  // Tumbling Troublemaker - 翻滚捣蛋鬼 
   {
-    "guid": "6QPtn4qXTG", //
+    "guid": "6QPtn4qXTG", // 季节兑换树
     "node": "R1hBDJIu16"
   },
   { 
     "guid": "ebxbORzHUg", // 旅行 165
     "node": "3b5NwFfmkd" 
   },
-  // Melancholy Mope
+  // Melancholy Mope - 忧郁自艾者 
   {
-    "guid": "bZU_1hDxB9", //
+    "guid": "bZU_1hDxB9", // 季节兑换树
     "node": "wjswIwiyKF"
   },
   { 
     "guid": "IvBSBPcPj9", // 旅行 190
     "node": "B4YKDoCU6Q" 
   },
-  // Overactive Overachiever
+  // Overactive Overachiever - 活跃优等生 
   {
-    "guid": "qdWXiEhm46",
+    "guid": "qdWXiEhm46", // 季节兑换树
     "node": "caUGXMJb3Z"
   },
-  // TS 164
   {
-    "guid": "P1cPYv6PO6",
+    "guid": "P1cPYv6PO6", // 备份
     "node": "6JEjrBtZoX"
   },
-  // #endregion
-  // #region Moments
-  // Reassuring Ranger
+  // #endregion - 夜行季结束
+  // #region Moments - 拾光季部分
+  // Reassuring Ranger - 可靠护林员 
   {
-    "guid": "AfSb4eiW7H",
+    "guid": "AfSb4eiW7H", // 季节兑换树
     "node": "9oV5mmsmWT"
   },
-  // TS 166
-  { "guid": "m5TJpZmRgn", "node": "J8QjM4HeQm" },
-  // Jolly Geologist
+  { 
+    "guid": "m5TJpZmRgn", // 备份
+    "node": "J8QjM4HeQm" 
+  },
+  // Jolly Geologist - 愉悦地理学家 
   {
-    "guid": "C6mpLeVi_m", //
+    "guid": "C6mpLeVi_m", // 季节兑换树
     "node": "o4BiBgXh33"
   },
   { 
     "guid": "q5KTr1IKfB", // 旅行 171
     "node": "Q-mUmZEFFP" 
   },
-  // Ascetic Monk
+  // Ascetic Monk - 苦修行者 
   {
-    "guid": "QxacM-TYol", //
+    "guid": "QxacM-TYol", // 季节兑换树
     "node": "BiYQCvfbCi"
   },
   { 
     "guid": "D0WazSJ6Mx", // 旅行 174
     "node": "TTGZT7RTuG" 
   },
-  // Nightbird Whisperer
+  // Nightbird Whisperer - 夜行鸟语者 
   {
-    "guid": "jj9mjfGi30", //
+    "guid": "jj9mjfGi30", // 季节兑换树
     "node": "m08hmEsLt4"
   },
   { 
     "guid": "QdLvIDChI8", // 旅行 182
     "node": "wb3LVVQETb" 
   },
-  // #endregion
-  // #region Revival
-  // #region Vestige of a Deserted Oasis
+  // #endregion - 拾光季结束
+  // #region Revival - 归巢季部分
+  // Vestige of a Deserted Oasis - 沙漠绿洲的余痕 
   {
-    "guid": "lz9mQjejU-",
+    "guid": "lz9mQjejU-", // 季节兑换树
     "node": "V3VhHlvWgz"
   },
-
-  // #endregion
-  // #region Memory of a Lost Village
+  // Memory of a Lost Village - 失落小镇的记忆 
   {
-    "guid": "nzvmNK6cj5",
+    "guid": "nzvmNK6cj5", // 季节兑换树
     "node": "LGC5H_zNi7"
   },
-  // #endregion
-  // #region Echo of an Abandoned Refuge
+  // Echo of an Abandoned Refuge - 被遗弃之处的回响 
   {
-    "guid": "I9msLLh3Lq",
+    "guid": "I9msLLh3Lq", // 季节兑换树
     "node": "NZh5vSn1Lm"
   },
-  // #endregion
-  // #region Remnant of a Forgotten Haven
+  // Remnant of a Forgotten Haven - 被遗忘的天堂一隅 
   {
-    "guid": "NUWzW2Qua2",
+    "guid": "NUWzW2Qua2", // 季节兑换树
     "node": "MEg5pX2QnC"
   },
-  // #endregion
-  // #endregion
-  // #region Nine-Colored Deer
-  // #region Herb Gatherer
+  // #endregion - 归巢季结束
+  // #region Nine-Colored Deer - 九色鹿季部分
+  // Herb Gatherer - 采药人 
   {
-    "guid": "nDiOVsRGWO",
+    "guid": "nDiOVsRGWO", // 季节兑换树
     "node": "EEz74j7uA3"
   },
-  // #endregion
-  // #region Hunter
+  // Hunter - 猎手
   {
-    "guid": "rsxn04As9U",
+    "guid": "rsxn04As9U", // 季节兑换树
     "node": "kU0nAenGkj"
   },
-  // #endregion
-  // #region Feudal Lord
+  //  Feudal Lord - 领主
   {
-    "guid": "0wgQ9rDShR",
+    "guid": "0wgQ9rDShR", // 季节兑换树
     "node": "c1ukj9PFVD"
   },
-  // #endregion
-  // #region Princess
+  // Princess - 公主
   {
-    "guid": "uLAuAvptPA",
+    "guid": "uLAuAvptPA", // 季节兑换树
     "node": "QLHntqZQ6m"
   },
-  // #endregion
-  // #endregion
-  // #region Nesting
-  // #region Nesting Nook
+  // #endregion - 九色鹿季结束
+  // #region Nesting - 筑巢季部分
+  // Nesting Nook - 小屋一隅 
   {
-    "guid": "Hj9s2djkbp",
+    "guid": "Hj9s2djkbp", // 季节兑换树
     "node": "4MAeqqNXqF"
   },
-  // #endregion
-  // #region Nesting Solarium
+  // Nesting Solarium - 日光浴室 
   {
     "guid": "wLTOEjYiho",
     "node": "8U5lKBsEz0"
   },
-  // #endregion
-  // #region Nesting Atrium
+  // Nesting Atrium - 小屋庭院 
   {
     "guid": "_7Cm8XUK5N",
     "node": "UQ4rS_3vBk"
   },
-  // #endregion
-  // #region Nesting Loft
+  // Nesting Loft - 云中楼阁 
   {
     "guid": "hmjRFtvfCa",
     "node": "79knrpLvHO"
   },
-  // #endregion
-  // #endregion
-  // #region Duets
+  // #endregion - 筑巢季结束
+  // #region Duets - 二重奏季部分
+  // Pianist's Beginnings - 钢琴家的开始
   {
-    "guid": "voApj8nmhQ",
-    "node": "RTwKtxkvqi"
-  },
-  {
-    "guid": "RSUBTRhzHf",
-    "revisionType": "AfterSeason",
-    "node": "Qf34nNDqQ_"
-  },
-  {
-    "guid": "FKLImPk5vB",
+    "guid": "FKLImPk5vB", // 季节兑换树
     "node": "MhQW8_5oJe"
   },
+  // Cellist's Beginnings - 大提琴手的开始 
   {
-    "guid": "UUTbaINneC",
+    "guid": "UUTbaINneC", // 季节兑换树
     "node": "klGk-HXhP6"
   },
+  // Musicians' Legacy - 音乐家的传承 
   {
-    "guid": "1ZlSRiEeW5",
+    "guid": "1ZlSRiEeW5", // 季节兑换树
     "node": "pFyvw9hJcB"
   },
+  // Cellist's Flourishing - 大提琴手的辉煌 
   {
-    "guid": "ntlyxbsjrU",
+    "guid": "ntlyxbsjrU", // 季节兑换树
     "node": "OrlAJ5Mft8"
   },
+  // Pianist's Flourishing - 钢琴家的辉煌
   {
     "guid": "vMFAj297uU",
     "node": "1zy7qpbEoA"
   },
+  // Compassionate Cellist - 富有同情心的大提琴手 
   {
     "guid": "4uhy67a14a",
     "node": "JbSDLaN0Xu"
   },
+  // #endregion - 二重奏季结束
+  // #region Moomin - 姆明季部分
+  // Comfort of Kindness - 善意的安慰 
   {
-    "guid": "g3xQG0GfCH",
-    "node": "vUaItiu_CS",
-    "revisionType": "AfterSeason"
-  },
-  // #endregion
-  // #region Moomin
-  // Comfort of Kindness
-  {
-    "guid": "nghAfQdwc3",
+    "guid": "nghAfQdwc3", // 季节兑换树
     "node": "sqfs-Smy_z"
   },
-  // Sense of Self
+  // Sense of Self - 自我认知 
   {
-    "guid": "FL8BDldZDZ",
+    "guid": "FL8BDldZDZ", // 季节兑换树
     "node": "lhh6l-Y3CP"
   },
-  // Spirit of Adventure
+  // Spirit of Adventure - 冒险精神 
   {
-    "guid": "Q5VCf6ubac",
+    "guid": "Q5VCf6ubac", // 季节兑换树
     "node": "f8FG5D-DwV"
   },
-  // Inspiration of Inclusion
+  // Inspiration of Inclusion - 包容的启示 
   {
-    "guid": "zxKUgzoAnE",
+    "guid": "zxKUgzoAnE", // 季节兑换树
     "node": "ylgBy-RCz9"
   },
-  // #endregion
-  // #region Radiance
-  // Radiaance Guide
+  // #endregion - 姆明季结束
+  // #region Radiance - 彩染季部分
+  // Radiance Leaping Dancer - 跃动舞者 
   {
-    "guid": "QveGTQI48L",
-    "node": "30o85y24PC"
-  },
-  {
-    "guid": "Vvd8vzwFLd",
-    "node": "hxvdB3Qxe4",
-    "revisionType": "AfterSeason"
-  },
-  {
-    "guid": "s8oDPElH2z",
+    "guid": "s8oDPElH2z", // 季节兑换树
     "node": "fwak5ju2DS"
   },
+  // Radiance Provoking Performer - 热情舞者 
   {
-    "guid": "wFupf-tJk-",
+    "guid": "wFupf-tJk-", // 季节兑换树
     "node": "sYaDAtoEsB"
   },
+  // Radiance Greeting Shaman - 问候舞者 
   {
-    "guid": "AUH6M6CbGC",
+    "guid": "AUH6M6CbGC", // 季节兑换树
     "node": "IbnYlt3G_Q"
   },
-  // #endregion
-  // #region Blue Bird
-  { "guid": "9ZMGsZeH1U", "node": "RzXXb9widZ" },
-  { "guid": "Z-lDboKqdB", "node": "kRv4PPU3CT", "revisionType": "AfterSeason" },
-  { "guid": "me0kc6RN7J", "node": "yjs2ofd4bI" },
-  { "guid": "GEOf9iPZiz", "node": "Mab8ePYPvs" },
-  { "guid": "DU7kdfkbq7", "node": "qdSLwtMlKg" },
-  { "guid": "O7hDEtXXLQ", "node": "r_3ANSlteU" },
-  { "guid": "qLiBf_BpI4", "node": "nc8Qjghjoy" },
-  // #endregion
-  // #region Two Embers - Part 1
-  { "guid": "lHlnmVDICn", "node": "7NYZEkjI3A" },  
-  { "guid": "GpcMalckm5", "node": "GaoOaDHlpc", "revisionType": "AfterSeason" },
-  { "guid": "SI9Q8J2Fm-", "node": "opxcbxYIfJ" },
-  { "guid": "RDergQu3Vd", "node": "BxVl336GE7" },
-  { "guid": "fdQpzNAjCw", "node": "gSpR4Ktq8n" },
-  { "guid": "r-emIwzMih", "node": "oZL55_0hI5" },
-  { "guid": "PzoY-Wkk8O", "node": "ataTovLcTn" },
-  // #endregion
-  // #region Migration
-  { "guid": "IVb8WCKt8D", "tier": "9nkruKKfE7" },
-  { "guid": "xBmtGsKU2a", "tier": "tsTkZRPfnQ", "revisionType": "AfterSeason" },
-  { "guid": "zK7AFf0rvZ", "tier": "5xc-2tXUAT" },
-  { "guid": "nCGzsegB0l", "tier": "tCeG5a_2u0" },
-  { "guid": "iFANrbgSY4", "tier": "aXYjAZqvIr" },
-  { "guid": "nrvSEyff0h", "tier": "neQv9N0Pk5" },
-  { "guid": "ko9lr8M4J5", "tier": "kXNj5sSsss" },
-  // #endregion
-  // #region Lightmending
+  // #endregion - 彩染季结束
+  // #region Blue Bird - 青鸟季部分
+  { 
+    "guid": "me0kc6RN7J", 
+    "node": "yjs2ofd4bI" 
+  },
+  { 
+    "guid": "GEOf9iPZiz", 
+    "node": "Mab8ePYPvs" 
+  },
+  { 
+    "guid": "DU7kdfkbq7", 
+    "node": "qdSLwtMlKg" 
+  },
+  { 
+    "guid": "O7hDEtXXLQ", 
+    "node": "r_3ANSlteU" 
+  },
+  { 
+    "guid": "qLiBf_BpI4", 
+    "node": "nc8Qjghjoy" 
+  },
+  // #endregion - 青鸟季结束
+  // #region Two Embers - Part 1 - 双星季：暮星篇部分
+  { 
+    "guid": "SI9Q8J2Fm-", 
+    "node": "opxcbxYIfJ" 
+  },
+  { 
+    "guid": "RDergQu3Vd", 
+    "node": "BxVl336GE7" 
+  },
+  { 
+    "guid": "fdQpzNAjCw", 
+    "node": "gSpR4Ktq8n" 
+  },
+  { 
+    "guid": "r-emIwzMih", 
+    "node": "oZL55_0hI5" 
+  },
+  { 
+    "guid": "PzoY-Wkk8O", 
+    "node": "ataTovLcTn" 
+  },
+  // #endregion - 双星季：暮星篇结束
+  // #region Migration - 迁徙季部分
+  { 
+    "guid": "zK7AFf0rvZ", 
+    "tier": "5xc-2tXUAT" 
+  },
+  { 
+    "guid": "nCGzsegB0l", 
+    "tier": "tCeG5a_2u0" 
+  },
+  { 
+    "guid": "iFANrbgSY4", 
+    "tier": "aXYjAZqvIr" 
+  },
+  { 
+    "guid": "nrvSEyff0h", 
+    "tier": "neQv9N0Pk5" 
+  },
+  { 
+    "guid": "ko9lr8M4J5", 
+    "tier": "kXNj5sSsss" 
+  },
+  // #endregion - 迁徙季结束
+  // #region Lightmending - 织光季部分
   { "guid": "9QWYwAUdDG", "tier": "EHygTVGLkz" },
+  { "guid": "7tovOw63ih", "tier": "OyYQ7RoAB1", "revisionType": "AfterSeason" },
   { "guid": "rMUUnF9HAB", "tier": "DNEXP6auGW" },
   { "guid": "ZSQVVHlhVX", "tier": "J6nbAbqnXG" },
   { "guid": "lSXt9gZtGb", "tier": "JsL9EQOhVM" },
   { "guid": "QOhdakPpfv", "tier": "2NXsY6jnB_" },
-  // #endregion
-  // #region Carnival
+  // #endregion - 织光季结束
+  // #region Carnival - 狂欢季部分
   { "guid": "vBTjT3BmeP", "tier": "QVot1WV5PF" },
   { "guid": "7PdRlqapa0", "tier": "kVs4MAAnAG" },
   { "guid": "MJ_0dbbk3P", "tier": "RoFKQ08wCA" },
   { "guid": "pdkcSLvzdU", "tier": "s1lSUCbctb" },
   { "guid": "X9HCSZXJOs", "tier": "lOqgAAfNn7" }
+  // #endregion - 狂欢季结束
 ]
