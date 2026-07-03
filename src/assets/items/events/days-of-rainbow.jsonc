@@ -551,7 +551,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Color/2026#Jellyfish_Kite"
     },
-    "order": 12300
+    "order": 12400
   },
   {
     "id": 3163,
@@ -560,6 +560,12 @@
     "type": "Furniture",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/f/f4/Lighthorn-Kite-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/71/Lighthorn-Kite-real.png",
+    "dye": {
+      "previewUrl": "",
+      "infoUrl": "",
+      "primary": {},
+      "secondary": {}
+    },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Color/2026#Lighthorn_Kite"
     },
@@ -572,6 +578,12 @@
     "type": "Furniture",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/70/Manatee-Kite-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/b7/Manatee-Kite-real.png",
+    "dye": {
+      "previewUrl": "",
+      "infoUrl": "",
+      "primary": {},
+      "secondary": {}
+    },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Color/2026#Manatee_Kite"
     },
@@ -581,13 +593,13 @@
     "id": 3165,
     "guid": "G-YytABnZX",
     "name": "Manta Kite",
-    "type": "Furniture",
+    "type": "Prop",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/da/Manta-Kite-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/84/Manta-Kite-real.png",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Color/2026#Manta_Kite"
     },
-    "order": 11500
+    "order": 12300
   },
   {
     "id": 3166,
@@ -599,19 +611,25 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Color/2026#Turtle_Kite"
     },
-    "order": 12400
+    "order": 12500
   },
   {
     "id": 3167,
     "guid": "1NqdTvGfIw",
     "name": "Whale Kite",
-    "type": "Prop",
+    "type": "Furniture",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/f/fa/Whale-Kite-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/3f/Whale-Kite-real.png",
+    "dye": {
+      "previewUrl": "",
+      "infoUrl": "",
+      "primary": {},
+      "secondary": {}
+    },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Color/2026#Whale_Kite"
     },
-    "order": 12500
+    "order": 11650
   },
   {
     "id": 3168,

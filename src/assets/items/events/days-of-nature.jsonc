@@ -293,6 +293,12 @@
     "type": "Furniture",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/ec/Blue-Flag-Prop-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/ac/Blue-Flag-Prop.png",
+    "dye": {
+      "previewUrl": "",
+      "infoUrl": "",
+      "primary": {},
+      "secondary": {}
+    },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Nature/2026#Blue_Flag"
     },

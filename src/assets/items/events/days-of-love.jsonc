@@ -76,6 +76,12 @@
     "name": "Days of Love Flowery Archway",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/eb/Days-of-Love-Arch-Icon-Morybel-0146.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/17/Days-of-Love-Flowery-Archway.png",
+    "dye": {
+      "previewUrl": "",
+      "infoUrl": "",
+      "primary": {},
+      "secondary": {}
+    },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Love/2023#Days_of_Love_Flowery_Archway"
     },

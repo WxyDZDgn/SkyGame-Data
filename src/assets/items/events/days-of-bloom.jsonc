@@ -30,6 +30,12 @@
     "name": "Pink Bloom Teaset",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/f/f3/Icon_prop_days_of_bloom_tea_table.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/53/Tea_table_v2.png",
+    "dye": {
+      "previewUrl": "",
+      "infoUrl": "",
+      "primary": {},
+      "secondary": {}
+    },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Bloom/2021#Pink_Bloom_Teaset"
     },
@@ -75,6 +81,12 @@
     "name": "Purple Bloom Teaset",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/33/Purple_Bloom_Teaset_icon-Morybel-0146.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/96/Wisteria-teaset-iap-image.png",
+    "dye": {
+      "previewUrl": "",
+      "infoUrl": "",
+      "primary": {},
+      "secondary": {}
+    },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Bloom/2022#Purple_Bloom_Teaset"
     },
@@ -143,6 +155,12 @@
     "name": "Bloom Picnic Basket",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/f/f8/Days-of-Bloom-Picnic-Blanket-Icon-Morybel-0146.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/1e/Days-of-Bloom-Picnic-Blanket.png",
+    "dye": {
+      "previewUrl": "",
+      "infoUrl": "",
+      "primary": {},
+      "secondary": {}
+    },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Bloom#Bloom_Picnic_Basket"
     },

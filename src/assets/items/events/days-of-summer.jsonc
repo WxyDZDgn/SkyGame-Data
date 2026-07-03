@@ -65,6 +65,12 @@
     "name": "Double Deck Chairs",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/dc/Icon_prop_days_of_summer_beach_chairs.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/86/Summer_beach_chairs.png",
+    "dye": {
+      "previewUrl": "",
+      "infoUrl": "",
+      "primary": {},
+      "secondary": {}
+    },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Hiking_Grouch#Prop"
     },

@@ -555,18 +555,20 @@
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/d4/Anniversary-Swag-Cap-Accessory-front.png",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Sky_Anniversary/2026#Swag_Cap"
-    }
+    },
+    "order": 4550
   },
   {
     "id": 3188,
     "guid": "cTvlz4Z8-3",
-    "type": "Prop",
+    "type": "Held",
     "name": "Company Issued Laptop",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/44/Anniversary-Company-Issued-Laptop-Prop-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/ba/Anniversary-Company-Issued-Laptop-Prop-using.png",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Sky_Anniversary/2026#Company_Issued_Laptop"
-    }
+    },
+    "order": 6050
   },
   {
     "id": 3189,
@@ -577,7 +579,8 @@
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/90/Anniversary-Black-and-Blue-Swag-Hoodie-Cape-front.png",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Sky_Anniversary/2026#Black_and_Blue_Swag_Hoodie"
-    }
+    },
+    "order": 14150
   },
   {
     "id": 3190,
@@ -588,7 +591,8 @@
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/36/Anniversary-Oreo-WFH-Slippers-Shoes-side.png",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Sky_Anniversary/2026#Oreo_Slippers"
-    }
+    },
+    "order": 2800
   },
   {
     "id": 3191,
@@ -599,6 +603,7 @@
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/88/Anniversary-Moth-Plush-Prop-holding.png",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Sky_Anniversary/2026#Moth_Plush"
-    }
+    },
+    "order": 3650
   }
 ]
