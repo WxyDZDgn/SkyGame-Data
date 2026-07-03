@@ -120,6 +120,11 @@
     "name": "Assembly Pillow",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/03/Icon_prop_assembly_pillow.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/e5/Prop_forest_treehouse_pillow.png",
+    "dye": {
+      "previewUrl": "",
+      "infoUrl": "",
+      "primary": {}
+    },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Assembly_Guide#Pillow"
     },

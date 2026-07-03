@@ -512,6 +512,12 @@
     "type": "Prop",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/16/Butterfly-Kite-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/72/Butterfly-Kite-real.png",
+    "dye": {
+      "previewUrl": "",
+      "infoUrl": "",
+      "primary": {},
+      "secondary": {}
+    },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Color/2026#Butterfly_Kite"
     },
@@ -524,6 +530,12 @@
     "type": "Prop",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/65/Bird-Kite-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/e9/Bird-Kite-real.png",
+    "dye": {
+      "previewUrl": "",
+      "infoUrl": "",
+      "primary": {},
+      "secondary": {}
+    },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Color/2026#Bird_Kite"
     },
@@ -536,6 +548,12 @@
     "type": "Prop",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/94/Crab-Kite-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/4d/Crab-Kite-real.png",
+    "dye": {
+      "previewUrl": "",
+      "infoUrl": "",
+      "primary": {},
+      "secondary": {}
+    },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Color/2026#Crab_Kite"
     },
@@ -548,6 +566,12 @@
     "type": "Prop",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/4d/Jellyfish-Kite-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/af/Jellyfish-Kite-real.png",
+    "dye": {
+      "previewUrl": "",
+      "infoUrl": "",
+      "primary": {},
+      "secondary": {}
+    },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Color/2026#Jellyfish_Kite"
     },
@@ -596,6 +620,12 @@
     "type": "Prop",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/da/Manta-Kite-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/84/Manta-Kite-real.png",
+    "dye": {
+      "previewUrl": "",
+      "infoUrl": "",
+      "primary": {},
+      "secondary": {}
+    },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Color/2026#Manta_Kite"
     },
@@ -608,6 +638,12 @@
     "type": "Prop",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/bb/Turtle-Kite-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/34/Turtle-Kite-real.png",
+    "dye": {
+      "previewUrl": "",
+      "infoUrl": "",
+      "primary": {},
+      "secondary": {}
+    },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Color/2026#Turtle_Kite"
     },

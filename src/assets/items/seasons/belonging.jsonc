@@ -400,6 +400,12 @@
     "name": "Sparkler Parent Pinwheel Prop",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8c/Spell_-_Pinwheel.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/91/Pinwheel_.png",
+    "dye": {
+      "previewUrl": "",
+      "infoUrl": "",
+      "primary": {},
+      "secondary": {}
+    },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Sparkler_Parent#Prop"
     },

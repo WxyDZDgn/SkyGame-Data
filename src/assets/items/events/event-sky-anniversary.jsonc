@@ -32,6 +32,12 @@
     "name": "Sky Anniversary Pennants",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/74/Icon_prop_days_of_sky_pennants.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/68/Days_of_sky_2021_pennants.png",
+    "dye": {
+      "previewUrl": "",
+      "infoUrl": "",
+      "primary": {},
+      "secondary": {}
+    },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Sky_Anniversary/2021#Anniversary_Birthday_Flag"
     },

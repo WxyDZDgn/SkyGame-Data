@@ -179,6 +179,12 @@
     "name": "Nesting Nook Shelf",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/91/Nesting-Nook-Short-Shelf-Prop-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/51/Nesting-Nook-Short-Shelf-Prop.png",
+    "dye": {
+      "previewUrl": "",
+      "infoUrl": "",
+      "primary": {},
+      "secondary": {}
+    },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Nook#Shelf"
     },
@@ -191,6 +197,12 @@
     "name": "Nesting Nook Spice Rack",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/49/Nesting-Nook-Wall-Spice-Rack-Prop-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/f/ff/Nesting-Nook-Wall-Spice-Rack-Prop.png",
+    "dye": {
+      "previewUrl": "",
+      "infoUrl": "",
+      "primary": {},
+      "secondary": {}
+    },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Nook#Spice_Rack"
     },
@@ -672,6 +684,12 @@
     "name": "Two Colors Pillow",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/45/Decor-Pillow-Two-Colors-Prop-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/84/Decor-Pillow-Two-Colors-Prop.png",
+    "dye": {
+      "previewUrl": "",
+      "infoUrl": "",
+      "primary": {},
+      "secondary": {}
+    },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Workshop#Decor_Pillow_Two_Colors"
     },
@@ -726,6 +744,12 @@
     "name": "Decor Folded Cloth",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/45/Decor-Folded-Cloth-Prop-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/f/f4/Decor-Folded-Cloth-Prop.png",
+    "dye": {
+      "previewUrl": "",
+      "infoUrl": "",
+      "primary": {},
+      "secondary": {}
+    },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Workshop#Decor_Folded_Cloth"
     },
@@ -798,6 +822,12 @@
     "name": "Small Classic Rug",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/3c/Small-Classic-Rug-Prop-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/2c/Small-Classic-Rug-Prop.png",
+    "dye": {
+      "previewUrl": "",
+      "infoUrl": "",
+      "primary": {},
+      "secondary": {}
+    },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Workshop#Small_Classic_Rug"
     },
@@ -1014,6 +1044,12 @@
     "name": "Medium Diamonds Rug",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/6b/Medium-Diamonds-Rug-Prop-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/cb/Medium-Diamonds-Rug-Prop.png",
+    "dye": {
+      "previewUrl": "",
+      "infoUrl": "",
+      "primary": {},
+      "secondary": {}
+    },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Workshop#Medium_Diamonds_Rug"
     },
@@ -1268,6 +1304,12 @@
     "name": "Medium Argyle Rug",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/62/Medium-Argyle-Rug-Prop-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/b6/Medium-Argyle-Rug-Prop.png",
+    "dye": {
+      "previewUrl": "",
+      "infoUrl": "",
+      "primary": {},
+      "secondary": {}
+    },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Workshop#Medium_Argyle_Rug"
     },
