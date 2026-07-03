@@ -89,4 +89,84 @@
       "dEWiCE1-6D"
     ]
   },
+  //endregion
+  // #region Sky Anniversary (2026)
+  {
+    "guid": "MxEk0wOzhs",
+    "name": "Moth Plush",
+    "price": 4.99,
+    "items": [
+      "-6zxMb-xk9"
+    ]
+  },{
+    "guid": "AgkdSrTUmg",
+    "name": "Oreo WFH Slippers",
+    "price": 4.99,
+    "items": [
+      "YdP0vtpTMi"
+    ]
+  },{
+    "guid": "-QMgoc3Zhp",
+    "name": "Black and Blue Swag Hoodie",
+    "price": 4.99,
+    "items": [
+      "8Xr81aJbUN"
+    ]
+  },
+  {
+    "guid": "6I9KMThVgi",
+    "name": "Anniversary Cinema Set",
+    "price": 4.99,
+    "returning": true,
+    "items": [
+      "IZNxLq33GB",
+      "vPenDMkJkY",
+    ]
+  },
+  {
+    "guid": "J1LTBCEa2p",
+    "name": "TGC Wireframe Cape",
+    "price": 19.99,
+    "returning": true,
+    "items": [
+      "8l3QuiKC_8"
+    ]
+  },
+  {
+    "guid": "CiplH58OIH",
+    "name": "Anniversary Gown Ensemble",
+    "price": 9.99,
+    "returning": true,
+    "items": [
+      "n_DeSbUOJ4",
+      "x-eBv-6iNk",
+    ]
+  },
+  {
+    "guid": "5O22WfgSu-",
+    "name": "Anniversary Tuxedo Cape",
+    "price": 14.99,
+    "returning": true,
+    "items": [
+      "uJd-mEy1g4",
+    ]
+  },
+  {
+    "guid": "m48MYppfyg",
+    "name": "SkyFest Oreo Headband",
+    "price": 4.99,
+    "returning": true,
+    "items": [
+      "z648Yl_rsv"
+    ]
+  },
+  {
+    "guid": "pEfG98dt0M",
+    "name": "Oreo Plush",
+    "price": 9.99,
+    "returning": true,
+    "items": [
+      "dEWiCE1-6D"
+    ]
+  }
 ]

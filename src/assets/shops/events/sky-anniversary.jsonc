@@ -43,6 +43,26 @@
     "type": "Object",
     "name": "Spell Box",
     "itemList": "6xcRtS6B4f"
+  },
+  // #endregion
+  // #region Sky Anniversary (2025)
+  ,
+  {
+    "guid": "d6FmufhkDL",
+    "type": "Object",
+    "name": "Spell Box",
+    "itemList": "NlhKP215FY"
+  },
+  {
+    "guid": "gCLk6dtZ_s",
+    "type": "Spirit",
+    "spirit": "tam_Fpnh1g",
+    "iaps": ["6I9KMThVgi", "J1LTBCEa2p", "CiplH58OIH", "5O22WfgSu-", "m48MYppfyg", "pEfG98dt0M"]
+  },
+  {
+    "guid": "vSaIq-OEQk",
+    "type": "Store",
+    "iaps": ["MxEk0wOzhs", "AgkdSrTUmg", "-QMgoc3Zhp"]
   }
   // #endregion
 ]

@@ -108,5 +108,26 @@
     "_calendar": {
       "href": "https://skydreamers.notion.site/Sky-Anniversary-2025-2028261c87dd80939bf7d0b78ba2f4bd"
     }
+  },
+  {
+    "guid": "3qlfB70piK",
+    "date": "2026-07-03",
+    "endDate": "2026-07-23",
+    "spirits": ["FFPe4L4CFC"],
+    "shops": ["d6FmufhkDL", "gCLk6dtZ_s", "vSaIq-OEQk"],
+    "calculatorData": {
+      "dailyCurrencyAmount": 5,
+      "timedCurrency": [
+        {
+          "guid": "igKcbfMtSf",
+          "date": "2026-07-03",
+          "endDate": "2026-07-23",
+          "amount": 20
+        }
+      ]
+    },
+    "_calendar": {
+      "href": "https://skydreamers.notion.site/Sky-Anniversary-2026-3768261c87dd80bf9ee3e1607299eaf9"
+    }
   }
 ]
