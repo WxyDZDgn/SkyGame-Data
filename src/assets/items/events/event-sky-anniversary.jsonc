@@ -532,14 +532,14 @@
     "id": 3185,
     "guid": "avN500gyNA",
     "type": "Special",
-    "name": "Placeholder",
+    "name": "Cutscene",
     "icon": "/assets/icons/question.webp"
   },
   {
     "id": 3186,
     "guid": "kXLOaiW5sq",
-    "type": "Held",
-    "name": "Flight Camera",
+    "type": "Special",
+    "name": "Drone Camera",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/ea/Moment-Camera-upgraded-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/66/Moment-Camera-upgraded-using.png",
     "_wiki": {
@@ -583,7 +583,7 @@
     "id": 3190,
     "guid": "YdP0vtpTMi",
     "type": "Shoes",
-    "name": "Oreo WFH Slippers",
+    "name": "Oreo Slippers",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/a0/Anniversary-Oreo-WFH-Slippers-Shoes-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/36/Anniversary-Oreo-WFH-Slippers-Shoes-side.png",
     "_wiki": {
