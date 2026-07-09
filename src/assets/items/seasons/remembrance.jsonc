@@ -191,6 +191,11 @@
     "name": "Remembrance Potted Plant",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/4e/SoRemembrance-Prop-Plants-Morybel-0146.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/6f/SoRemembrance-Prop-Plants.png",
+    "dye": {
+      "previewUrl": "",
+      "infoUrl": "",
+      "primary": {}
+    },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Remembrance_Guide#Potted_Plant"
     },

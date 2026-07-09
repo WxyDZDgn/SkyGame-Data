@@ -25,6 +25,11 @@
     "name": "Campfire Tent",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/7d/Days-of-Sunlight-Tent-Prop-Morybel-0146.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/49/Days-of-Sunlight-tent-prop.png",
+    "dye": {
+      "previewUrl": "",
+      "infoUrl": "",
+      "primary": {}
+    },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Sunlight/2022#Campfire_Tent"
     },

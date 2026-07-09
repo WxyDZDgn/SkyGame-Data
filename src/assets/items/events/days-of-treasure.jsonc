@@ -128,8 +128,13 @@
     "guid": "Vo5Sew0Ql4",
     "name": "Treasure Seeker's Banner",
     "type": "Furniture",
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/2f/X-mark-icon.png",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/b3/Treasure-Seeker-Banner-Prop-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/38/Treasure-Seeker-Banner-Prop-real.png",
+    "dye": {
+      "previewUrl": "",
+      "infoUrl": "",
+      "primary": {}
+    },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Treasure/2026#Treasure_Seeker%E2%80%99s_Banner"
     },
@@ -188,6 +193,12 @@
     "type": "Furniture",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/cd/Naptime-Galley-Prop-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/a6/Naptime-Galley-Prop-real.png",
+    "dye": {
+      "previewUrl": "",
+      "infoUrl": "",
+      "primary": {},
+      "secondary": {}
+    },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Treasure/2026#Naptime_Galley"
     },

@@ -129,6 +129,12 @@
     "name": "Winter Feast Pillow",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/73/Days_of_Feast_Cushion.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/da/Feast_pillow.png",
+    "dye": {
+      "previewUrl": "",
+      "infoUrl": "",
+      "primary": {},
+      "secondary": {}
+    },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Feast/2021#Winter_Feast_Pillow"
     },

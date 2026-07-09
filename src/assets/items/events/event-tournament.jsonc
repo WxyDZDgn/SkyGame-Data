@@ -181,6 +181,11 @@
     "name": "Tournament Podium",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/3e/Tournament-Podium-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8f/Tournament-Podium.png",
+    "dye": {
+      "previewUrl": "",
+      "infoUrl": "",
+      "primary": {}
+    },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Tournament_of_Triumph/2026#Tournament_Podium"
     },

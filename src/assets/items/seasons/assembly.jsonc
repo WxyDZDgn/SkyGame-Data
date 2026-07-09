@@ -120,6 +120,11 @@
     "name": "Assembly Pillow",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/03/Icon_prop_assembly_pillow.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/e5/Prop_forest_treehouse_pillow.png",
+    "dye": {
+      "previewUrl": "",
+      "infoUrl": "",
+      "primary": {}
+    },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Assembly_Guide#Pillow"
     },
@@ -236,6 +241,12 @@
     "name": "Assembly Tent",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/40/Icon_prop_assembly_tent.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/40/Prop_forest_treehouse_tent.png",
+    "dye": {
+      "previewUrl": "",
+      "infoUrl": "",
+      "primary": {},
+      "secondary": {}
+    },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Assembly_Guide#Tent"
     },
@@ -622,6 +633,12 @@
     "name": "Scaredy Cadet Hammock",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8b/Icon_prop_assembly_hammock.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/35/Assembly_prop_hammock_down.png",
+    "dye": {
+      "previewUrl": "",
+      "infoUrl": "",
+      "primary": {},
+      "secondary": {}
+    },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Scaredy_Cadet#Prop"
     },
@@ -761,6 +778,11 @@
     "name": "Marching Adventurer Tiki Torch",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/af/Icon_prop_assembly_torch.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/30/Assembly_prop_torch_lit_2.png",
+    "dye": {
+      "previewUrl": "",
+      "infoUrl": "",
+      "primary": {}
+    },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Marching_Adventurer#Prop"
     },

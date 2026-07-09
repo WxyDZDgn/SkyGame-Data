@@ -120,6 +120,12 @@
     "group": "SeasonPass",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/11/Radiance-Leaping-Dancer-prop-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/e9/Radiance-Leaping-Dancer-prop.png",
+    "dye": {
+      "previewUrl": "",
+      "infoUrl": "",
+      "primary": {},
+      "secondary": {}
+    },
     "order": 2200,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Radiance_Leaping_Dancer#Prop"

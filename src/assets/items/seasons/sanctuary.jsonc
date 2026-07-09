@@ -252,6 +252,12 @@
     "name": "Jelly Whisperer Prop",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/55/Jelly_whisperer_TS_beach_umbrella_icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/84/Jelly_whisperers_beach_umbrella.png",
+    "dye": {
+      "previewUrl": "",
+      "infoUrl": "",
+      "primary": {},
+      "secondary": {}
+    },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Jelly_Whisperer#Prop"
     },
