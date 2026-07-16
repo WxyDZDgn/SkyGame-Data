@@ -19,5 +19,11 @@
       { "guid": "sriF-cPssf", "item": "h8I7obBDzf", "c": 20 },
       { "guid": "ERynGHlSkt", "item": "9jMnZ23AYP", "h": 10 }
     ]
+  },
+  { //SCA Cap
+    "guid": "7l_QyYl7pB",
+    "items": [
+      { "guid": "1YaOsRZtWO", "item": "6AWIdsfu3k", "c": 0 }
+    ]
   }
 ]

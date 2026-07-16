@@ -557,6 +557,7 @@
     "guid": "Yy7tRZUNEY",
     "type": "HairAccessory",
     "name": "Swag Cap",
+    "group": "Limited",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/b5/Anniversary-Swag-Cap-Accessory-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/d4/Anniversary-Swag-Cap-Accessory-front.png",
     "_wiki": {
@@ -611,5 +612,18 @@
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Sky_Anniversary/2026#Moth_Plush"
     },
     "order": 3650
-  }
+  },
+  {
+    "id": 3192,
+    "guid": "6AWIdsfu3k",
+    "type": "HairAccessory",
+    "name": "SCA Cap",
+    "group": "Limited",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/37/SCA-Cap-Accessory-icon.png",
+    "previewUrl": "",
+    "_wiki": {
+      "href": ""
+    },
+    "order": 4575
+  },
 ]
