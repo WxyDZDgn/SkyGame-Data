@@ -6,7 +6,7 @@
     "wingedLights": ["r9CmlnAmRm"],
     "mapData": { "position": [-236.13, 367] },
     "connections": [
-      { "area": "wrHKGEg2Kc" },
+      { "area": "d3WmuQ2TEm" },
       { "area": "schNrmq0ID" },
       { "area": "HbKvg_BOyc" },
       { "area": "wKZdWMMIWa" },
@@ -94,6 +94,22 @@
     ],
   },
   {
+    "guid": "d3WmuQ2TEm",
+    "name": "Story Space",
+    "imageUrl": "https://sky-planner.com/assets/game/areas/vault/story-space-720.webp",
+    "mapData": { "position": [-208, 395.5] },
+    "connections": [
+      { "area": "Mhbh0g9OdG" },
+      { "area": "QM7Kuv1Ekg" },
+      { "area": "GC4SmA2CUz" },
+      { "area": "IrChmrOevd" },
+      { "area": "aBL5eqTv4R" },
+      { "area": "wOM-k6pjot" },
+      { "area": "XPEaHhDUmB" },
+      { "area": "mT6bVNovBW" },
+    ],
+  },
+  {
     "guid": "IrChmrOevd",
     "name": "Starlight Desert",
     "imageUrl": "https://sky-planner.com/assets/game/areas/vault/starlight-720.webp",
@@ -108,7 +124,7 @@
     "mapShrines": ["AwpiTWfg3K"],
     "mapData": { "position": [-195.5, 440] },
     "connections": [
-      { "area": "wrHKGEg2Kc" },
+      { "area": "d3WmuQ2TEm" },
       { "area": "TenYOMK1pK" },
       { "area": "S3Zd-sgxHw" },
       { "area": "p3vJrJBcfy" },
@@ -242,10 +258,25 @@
     "imageUrl": "https://sky-planner.com/assets/game/areas/vault/moomin-720.webp",
   },
   {
+    "guid": "XPEaHhDUmB",
+    "name": "Starry Gallery",
+    "imageUrl": "https://sky-planner.com/assets/game/areas/vault/starry-gallery-720.webp",
+    "spirits": [
+      "qLy-B0hLER",
+      "j3glWGK1kn",
+      "JxVaydV4Kb",
+      "N5pIIk2DCi",
+      "ZngKNBX8dc",
+    ],
+    "mapShrines": ["hV0pfzWtGg"],
+    "mapData": { "position": [-224, 433] },
+    "connections": [{ "area": "d3WmuQ2TEm" }],
+  },
+  {
     "guid": "mT6bVNovBW",
     "name": "Sky Cinema",
     "imageUrl": "https://sky-planner.com/assets/game/areas/aviary/cinema-temp.webp",
     "spirits": ["gy_EzmMKxF"],
-    "connections": [{ "area": "wrHKGEg2Kc" }, { "area": "pZbxK8tM_J" }],
+    "connections": [{ "area": "d3WmuQ2TEm" }, { "area": "Mhbh0g9OdG" }, { "area": "pZbxK8tM_J" }],
   },
 ]

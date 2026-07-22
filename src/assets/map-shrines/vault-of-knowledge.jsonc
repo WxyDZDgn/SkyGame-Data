@@ -71,6 +71,12 @@
     "description": "",
     "imageUrl": "https://sky-planner.com/assets/game/map-shrines/Vault-Collab-Room-Map-Shrine.webp",
     "mapData": { "position": [-215.63, 398.5] }
+  },
+  {
+    "guid": "hV0pfzWtGg",
+    "description": "",
+    "imageUrl": "https://sky-planner.com/assets/game/map-shrines/starry-gallery.webp",
+    "mapData": { "position": [-222, 432] }
   }
   // #endregion
 ]
