@@ -1,12 +1,13 @@
 ---
 name: add-season
-description: Add a new Season (tier-format spirit trees) — season entry, guide + season spirits, tier-based spirit trees, tiers, nodes and items.
+description: Add a new Season (tier-format spirit trees) — season entry, guide + season spirits, tier-based spirit trees, tiers, nodes, items, IAPs and shops.
 disable-model-invocation: true
 ---
 
 Task:
 Add a new **Season** (e.g. "Season of Carnival") to the data files, wiring up every related
-entity: season → spirits (guide + season spirits) → spirit trees → spirit tree tiers → nodes → items.
+entity: season → spirits (guide + season spirits) → spirit trees → spirit tree tiers → nodes → items,
+plus the season's real-money **IAPs** (premium packs) and the **shops** that sell them.
 
 New season spirit trees use the **tier format** (the layout is described by `spirit-tree-tiers`
 rows, not by `n`/`nw`/`ne` node links). This is the format used by all recent seasons
@@ -37,24 +38,27 @@ The user provides:
 
 ## Data model
 
-A tier-format season spans six source files. The season is one output folder → file; subfolders
-are organizational only.
+A tier-format season spans up to eight source files. The season is one output folder → file;
+subfolders are organizational only.
 
 | File | What it holds |
 | --- | --- |
-| `src/assets/seasons/seasons.jsonc` | The season itself; its `spirits` array holds **spirit** guids (guide first, then season spirits in tree order). |
+| `src/assets/seasons/seasons.jsonc` | The season itself; its `spirits` array holds **spirit** guids (guide first, then season spirits in tree order), and its `shops` array holds **shop** guids (IAP shops). |
 | `src/assets/spirits/seasons/<season>.jsonc` | One entry per spirit (guide + season spirits); each has `tree` = spirit-tree guid. **New file per season.** |
 | `src/assets/spirit-trees/seasons/seasons.jsonc` | One tree per spirit under a new `// #region <Season>`: `{ "guid": "<tree>", "tier": "<root-tier-guid>" }`. |
 | `src/assets/spirit-tree-tiers/seasons/<season>.jsonc` | The tier chain for every spirit's tree. **New file per season.** |
 | `src/assets/nodes/seasons/<season>.jsonc` | The node entries referenced by the tier rows. **New file per season.** |
-| `src/assets/items/seasons/<season>.jsonc` | The new cosmetics/items the nodes unlock. **New file per season.** |
+| `src/assets/items/seasons/<season>.jsonc` | The new cosmetics/items the nodes **and IAPs** unlock. **New file per season.** |
+| `src/assets/iaps/seasons/<season>.jsonc` | The season's real-money premium packs (`IIAP`). **New file per season** (only if the season has IAPs). |
+| `src/assets/shops/seasons/<season>.jsonc` | The shops (`IShop`) that sell those IAPs, referenced by the season's `shops`. **New file per season** (only if the season has IAPs). |
 
-Reference chain (resolved in `src/resolver.ts`):
-`season.spirits[]` → `spirit` → `spirit.tree` → `tree.tier` → tier chain (via `next`) →
-`tier.rows[][]` → `node` → `node.item`.
+Reference chains (resolved in `src/resolver.ts`):
+- Trees: `season.spirits[]` → `spirit` → `spirit.tree` → `tree.tier` → tier chain (via `next`) →
+  `tier.rows[][]` → `node` → `node.item`.
+- IAPs: `season.shops[]` → `shop` → `shop.iaps[]` → `iap.items[]` → `item`.
 
-Use the **season slug** (kebab-case short name, e.g. `carnival`) for the four per-season file
-names.
+Use the **season slug** (kebab-case short name, e.g. `carnival`) for the per-season file names
+(nodes, items, tiers, spirits, iaps, shops).
 
 ## Step 1: Gather season and spirit data
 
@@ -72,8 +76,16 @@ and ask the user to enable it rather than substituting another fetch method.
    **layout** (which nodes sit in which rows / spurs), and the **cost of each node**
    (candles `c`, hearts `h`, seasonal candles `sc`, seasonal hearts `sh`, ascended candles
    `ac`, etc. — see `ICost` in `src/interfaces/`).
-3. Confirm anything ambiguous with the user before writing (spirit order, guide identity,
-   currency types).
+3. Read the season's **IAP / premium-pack data**. On the wiki this is a section titled
+   **"Premium Packs (In-App Purchases)"** — each pack has a **name**, a **USD price**, one or more
+   **cosmetic items**, and is sold from a named vendor (typically one or more **mannequins**, e.g.
+   "left mannequin"/"right mannequin" at a themed location, or a store). Seasonal IAPs are usually
+   available permanently. Note which items belong to which pack and which mannequin/store sells it.
+   Model **only** these real-money cosmetic packs as IAPs — do **not** model the Season Pass /
+   Adventure Pass / Season Gift Pass itself as an IAP (those are the in-tree `sh`/Season-Pass reward
+   nodes handled by the trees).
+4. Confirm anything ambiguous with the user before writing (spirit order, guide identity,
+   currency types, IAP pack contents, and how IAP items group into shops).
 
 ### Reading the season guide's tree (two-table layout)
 
@@ -104,13 +116,15 @@ user before writing.
 ## Step 2: Add items
 
 Create `src/assets/items/seasons/<season>.jsonc` (a JSONC array) and add every new cosmetic
-unlocked across all the season's trees.
+unlocked across all the season's trees **and its IAP packs** (Step 7). IAP cosmetics are items
+too — add them here, then reference their guids from the IAPs.
 
 - Run `node scripts/next-item-id.mjs` once for the starting numeric `id`, then increment by 1
   per new item. If it errors, use the highest existing `id` across `items/**` + 1.
 - New `guid` per item. Set `type` (`ItemType`), `name`, `icon`, and
   `previewUrl`/`dye`/`group`/`order`/`_wiki` where known — match neighbouring season items.
-- Do **not** set `season` on the item.
+- IAP cosmetics are conventionally `"group": "Limited"` — match neighbouring season IAP items.
+- Do **not** set `season` on the item (this holds for tree items **and** IAP items).
 - "Random Trail Spell", "Cutscene", warps, Heart/Wing Buff placeholder nodes etc. are
   `type: "Special"` filler nodes — include them if the trees have them.
 
@@ -193,7 +207,47 @@ Rules:
 - `tree` = the matching tree guid from Step 5.
 - Do not set `season` (the resolver links it back from the season).
 
-## Step 7: Add the season entry and wire references
+## Step 7: Add IAPs
+
+If the season has premium packs (Step 1), create `src/assets/iaps/seasons/<season>.jsonc` (a
+JSONC array). Add one `IIAP` per pack:
+
+```jsonc
+{
+  "guid": "<new-iap-guid>",
+  "name": "<Pack Name>",   // the pack's display name (e.g. "Wheatfield Cape")
+  "price": 14.99,           // USD
+  "items": ["<item-guid>", ...]   // the cosmetic item guids from Step 2 (one or more)
+}
+```
+
+Rules:
+- New `guid` per IAP. `items` are the item guids added in Step 2 for that pack (a pack may bundle
+  several cosmetics, e.g. a cape + neck accessory).
+- Seasons usually don't bundle currency into cosmetic IAPs, but `c` (candles), `sc` (season
+  candles), and `sp` (Season Gift Passes) are available on `IIAP` if a pack includes them.
+- Do **not** create IAPs for the Season Pass / Adventure Pass reward line itself — those are tree
+  nodes, not IAPs.
+- Skip this step (and Step 8) entirely if the season has no premium packs; leave `shops: []` in
+  Step 9.
+
+## Step 8: Add shops and link them
+
+Create `src/assets/shops/seasons/<season>.jsonc` (a JSONC array). Each `IShop` has `type`
+(`Store` | `Spirit` | `Object`), optional `name`, and `iaps` (array of IAP guids). Group the
+Step 7 IAPs into shops by how the wiki says they're sold:
+
+- **Sold from a named mannequin / prop / vendor** → an `Object` shop named after that vendor:
+  `{ "guid": "<new>", "type": "Object", "name": "<Mannequin Name>", "iaps": [...] }`. When the
+  wiki lists multiple mannequins (e.g. "left mannequin"/"right mannequin"), make one `Object`
+  shop per mannequin and split the IAPs accordingly.
+- **Sold from a generic in-game store** (no named vendor) → a `Store` shop:
+  `{ "guid": "<new>", "type": "Store", "iaps": [...] }`.
+
+Match how the neighbouring seasons' shop files group things (see `src/assets/shops/seasons/`).
+Collect the new shop guids for Step 9.
+
+## Step 9: Add the season entry and wire references
 
 Append a new `ISeason` inside the correct `// #region <Year>` in
 `src/assets/seasons/seasons.jsonc` (add the region if the year is new), matching neighbouring
@@ -211,7 +265,7 @@ entries:
   "date": "YYYY-MM-DD",
   "endDate": "YYYY-MM-DD",
   "spirits": [ "<guide-guid>", "<spirit-guid>", ... ],   // from Step 6, guide first, tree order
-  "shops": [],
+  "shops": [ "<shop-guid>", ... ],   // from Step 8; [] if the season has no IAPs
   "_wiki": { "href": "..." },
   "_calendar": { "href": "..." }
 }
@@ -220,7 +274,7 @@ entries:
 Rules:
 - New `guid`. **Do not add `number`** (resolver assigns it).
 - `spirits`: the spirit guids from Step 6 — **guide first**, then season spirits in tree order.
-- `shops`: `[]` unless the season has a dedicated seasonal shop (ask the user; rare).
+- `shops`: the shop guids from Step 8 (the IAP shops); `[]` if the season has no premium packs.
 - `calculatorData` (`ICalculatorData`): add only if the user provides bonus/compensation
   seasonal-currency events. Shape (per entry): `{ guid, date, endDate, amount, description }`
   under `timedCurrency`. Ask the user rather than assuming.
@@ -228,14 +282,16 @@ Rules:
   trees (e.g. a Traveling-Spirit rework debuting in-season). Omit unless the user calls it out.
 - `imageUrl`, `iconUrl`, `_calendar`: include only if provided.
 
-## Step 8: Validate and build
+## Step 10: Validate and build
 
 1. Run `npm run json-build` — it must succeed (enforces globally unique guids and array-shaped
    files). Fix any duplicate-guid or syntax errors.
-2. Verify the reference chain resolves:
+2. Verify the reference chains resolve:
    - Season `spirits` → the new spirit guids (guide first); every spirit `tree` → a new tree.
    - Each tree `tier` → the root tier; every tier `next` points to an existing tier; every node
      guid in `tier.rows` exists in the nodes file.
    - Every node `item` guid exists in the items file; every new item has a unique `id`.
+   - Season `shops` → the new shop guids; every shop `iaps` guid exists in the iaps file; every
+     IAP `items` guid exists in the items file.
 3. Run `npm test` (requires a build first) to parse and resolve the full dataset.
 4. Report a summary of every guid added and which files were created/changed.
